@@ -1123,3 +1123,10 @@ abe1128725ef7bd1f85a55c90baba85d5775785664509662c22cfdee78f94f12,sha256,malwareb
 b18df9a29ff8eb9aa2080eb63e36e512e9217ca33dd18582d85138befa7050ba,sha256,malwarebazaar,2025-12-02 20:15:40,33,43,malware,rar;detect-debug-environment;long-sleeps;checks-network-adapters;contains-pe,2025-12-02T20:15:40.823302,success
 01ae9da99db03e2e97c0a99c4147fa01d0838064d056b68accba84d16d36fea5,sha256,malwarebazaar,2025-12-02 20:15:49,37,48,malware,detect-debug-environment;checks-network-adapters;clipboard;calls-wmi;checks-bios,2025-12-02T20:15:49.755880,success
 fd3d092f9536c467253cc98fb68ce5447862c44c940041aa9734485ffd8088e4,sha256,malwarebazaar,2025-12-02 20:16:00,6,7,suspicious,long-sleeps;detect-debug-environment;64bits;peexe,2025-12-02T20:16:00.187805,success
+54f91672bb25e50af5215af8493f1a082fac78e5f8eb23b1686f17f28e098fc3,sha256,malwarebazaar,2025-12-02 20:33:26,19,25,malware,contains-embedded-js;html,2025-12-02T20:33:26.155616,success
+25b8124f2528e7215681131830e5e901fa700658753367829bb49b6624c63788,sha256,malwarebazaar,2025-12-02 20:33:34,17,22,malware,contains-embedded-js;html,2025-12-02T20:33:34.871050,success
+27cfcbf23ab69c6da03fc4d3d7fad8802f59d11feef4d0bc009d3d46b15eb256,sha256,malwarebazaar,2025-12-02 20:33:43,0,0,unknown,long-sleeps;detect-debug-environment;nxdomain;powershell;calls-wmi,2025-12-02T20:33:43.604071,success
+fd2d1ce509c558fa3abc0216530e8ebf1a7a9d7adab41df856b06dc80a4650f0,sha256,malwarebazaar,2025-12-02 20:33:52,0,0,unknown,python,2025-12-02T20:33:52.316243,success
+b06903e5f0368fa2c51bbbfdc5783ad893f986757653761c18b688c4bd31a638,sha256,malwarebazaar,2025-12-02 20:34:00,30,39,malware,executes-dropped-file;peexe;detect-debug-environment;overlay;spreader,2025-12-02T20:34:00.999566,success
+a421a04d008dca9aadeab91532bad8919be2e55fa14002ee3459456b974151ff,sha256,malwarebazaar,2025-12-02 20:34:09,2,2,unknown,powershell,2025-12-02T20:34:09.733271,success
+99340600db5fd3355a3d7ba9e243b65630d928e70afbfb401bce4e16d194e22a,sha256,malwarebazaar,2025-12-02 20:34:18,0,0,unknown,python,2025-12-02T20:34:18.740965,success
