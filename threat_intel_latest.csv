@@ -1116,3 +1116,10 @@ c700aea61e06b8c3eb77eb63391433bb37df6da60ea2e6b31d701c159a760dca,sha256,malwareb
 3c3892d90e6e941d1c84e4e0ee2ca56ebe1314699257cdce890821f351fb9c65,sha256,malwarebazaar,2025-12-02 20:04:05,0,0,unknown,malware;detect-debug-environment;powershell;long-sleeps,2025-12-02T20:04:05.725306,success
 abe1128725ef7bd1f85a55c90baba85d5775785664509662c22cfdee78f94f12,sha256,malwarebazaar,2025-12-02 20:04:14,2,2,unknown,contains-pe;detect-debug-environment;sets-process-name;zip,2025-12-02T20:04:14.436079,success
 34ed17fe14acc3ecfcecac30d377886853b9e4d6a3ed51f8e7990e474c686cb8,sha256,malwarebazaar,2025-12-02 20:04:23,2,2,unknown,powershell;checks-disk-space;detect-debug-environment;long-sleeps;calls-wmi,2025-12-02T20:04:23.342272,success
+90ec9d4b906a15509643bb14a74dbc0200dd9b95329676d0f5ea94657fc1de26,sha256,malwarebazaar,2025-12-02 20:15:05,33,43,malware,overlay;spreader;signed;pedll;64bits,2025-12-02T20:15:05.645218,success
+59158c6b928e5408194fc8f5b7332ba667d667bf5f511d6c17230a475b3e07dd,sha256,malwarebazaar,2025-12-02 20:15:14,7,9,suspicious,javascript;obfuscated;long-sleeps,2025-12-02T20:15:14.508978,success
+5e756ac5d10cf9cb83bc4fb12a5c62b880b6d35adf2d9489252b6e3e03c395a3,sha256,malwarebazaar,2025-12-02 20:15:23,10,13,malware,,2025-12-02T20:15:23.195001,success
+4ca9650ba8673d9a521d4084d4b95f038d0668d095010c2887c168b41fdd138a,sha256,malwarebazaar,2025-12-02 20:15:31,17,22,malware,contains-embedded-js;html,2025-12-02T20:15:31.947758,success
+b18df9a29ff8eb9aa2080eb63e36e512e9217ca33dd18582d85138befa7050ba,sha256,malwarebazaar,2025-12-02 20:15:40,33,43,malware,rar;detect-debug-environment;long-sleeps;checks-network-adapters;contains-pe,2025-12-02T20:15:40.823302,success
+01ae9da99db03e2e97c0a99c4147fa01d0838064d056b68accba84d16d36fea5,sha256,malwarebazaar,2025-12-02 20:15:49,37,48,malware,detect-debug-environment;checks-network-adapters;clipboard;calls-wmi;checks-bios,2025-12-02T20:15:49.755880,success
+fd3d092f9536c467253cc98fb68ce5447862c44c940041aa9734485ffd8088e4,sha256,malwarebazaar,2025-12-02 20:16:00,6,7,suspicious,long-sleeps;detect-debug-environment;64bits;peexe,2025-12-02T20:16:00.187805,success
