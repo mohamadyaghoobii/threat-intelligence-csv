@@ -986,3 +986,8 @@ f96b0691d85e12b72e979b34a742b6a1b1151744d1fec6ab28a9a231aa59104f,sha256,malwareb
 7d7bc55bea834df5495755ad77c5713bb21655e6a13b4acc42b0364e086412b5,sha256,malwarebazaar,2025-12-02 16:18:22,28,36,malware,elf;corrupted,2025-12-02T16:18:22.540174,success
 93fb5c2e8cab764edb729a464c06fe3161081a9ddf820bbc53b668281f2a3701,sha256,malwarebazaar,2025-12-02 16:18:31,38,50,malware,elf;spreader,2025-12-02T16:18:31.230102,success
 d7f6af5b758298f74943cc408fd2bb31d825bc94d54f7f376a73493ad330ff8d,sha256,malwarebazaar,2025-12-02 16:18:39,2,2,unknown,javascript;long-sleeps,2025-12-02T16:18:39.923192,success
+9fe7289e6e6eff48961ebe44aed0440e21d35702da284c34f4ef8c37b6ad7419,sha256,malwarebazaar,2025-12-02 16:33:34,34,44,malware,peexe;persistence;calls-wmi;detect-debug-environment;long-sleeps,2025-12-02T16:33:34.214908,success
+1e3ade4c0b3400119b39ceef30eadab6a91ae0332ea868a9d2692047e7dd9566,sha256,malwarebazaar,2025-12-02 16:33:43,22,28,malware,javascript;executes-dropped-file,2025-12-02T16:33:43.057562,success
+381e3e28d8c2e51c141971b359604e8c0bb5cf2830f7447eee7252a8166e19f0,sha256,malwarebazaar,2025-12-02 16:33:51,16,21,malware,invalid-signature;calls-wmi;signed;detect-debug-environment;pedll,2025-12-02T16:33:51.823965,success
+79550414ab0554d42cf6478dc85df5b86deacbe26ff6fb1c7dbfc058fd520390,sha256,malwarebazaar,2025-12-02 16:34:00,27,35,malware,spreader;long-sleeps;detect-debug-environment;macro-create-ole;64bits,2025-12-02T16:34:00.630640,success
+025a2ea99c744bdd7f50aaf28f1259df094dfaeac1660ab5843fb5f1af71e6de,sha256,malwarebazaar,2025-12-02 16:34:09,0,0,unknown,zip;detect-debug-environment;long-sleeps;contains-pe,2025-12-02T16:34:09.312502,success
