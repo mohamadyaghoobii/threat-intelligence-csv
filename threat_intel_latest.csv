@@ -991,3 +991,8 @@ d7f6af5b758298f74943cc408fd2bb31d825bc94d54f7f376a73493ad330ff8d,sha256,malwareb
 381e3e28d8c2e51c141971b359604e8c0bb5cf2830f7447eee7252a8166e19f0,sha256,malwarebazaar,2025-12-02 16:33:51,16,21,malware,invalid-signature;calls-wmi;signed;detect-debug-environment;pedll,2025-12-02T16:33:51.823965,success
 79550414ab0554d42cf6478dc85df5b86deacbe26ff6fb1c7dbfc058fd520390,sha256,malwarebazaar,2025-12-02 16:34:00,27,35,malware,spreader;long-sleeps;detect-debug-environment;macro-create-ole;64bits,2025-12-02T16:34:00.630640,success
 025a2ea99c744bdd7f50aaf28f1259df094dfaeac1660ab5843fb5f1af71e6de,sha256,malwarebazaar,2025-12-02 16:34:09,0,0,unknown,zip;detect-debug-environment;long-sleeps;contains-pe,2025-12-02T16:34:09.312502,success
+10bf1f5b8ff381be158d2b09ab285e3de3e23fc14ad43c82b46a84a9bf7fd7fb,sha256,malwarebazaar,2025-12-02 16:45:22,1,1,unknown,android;apk,2025-12-02T16:45:22.815814,success
+dba0bdc3cdf35631655f32cbf342f3e3b133f6309f89d956899a740b90a43ddb,sha256,malwarebazaar,2025-12-02 16:48:53,19,25,malware,elf,2025-12-02T16:48:53.376878,success
+d90886115f8ead39f4522ca7e158515e26b4d34485653f879954c230da8d072a,sha256,malwarebazaar,2025-12-02 16:49:03,21,27,malware,contains-embedded-js;html,2025-12-02T16:49:03.010287,success
+470cc20559bed759931e88a100cd8281b8cbdbcbb431865e1d3795cb933e2625,sha256,malwarebazaar,2025-12-02 16:49:11,38,50,malware,detect-debug-environment;elf;arm,2025-12-02T16:49:11.762995,success
+2b00437e90fff82323a0c2be035aad5a98899f9a7fdd644dc00d265178280b82,sha256,malwarebazaar,2025-12-02 16:49:20,28,36,malware,detect-debug-environment;elf;upx;arm,2025-12-02T16:49:20.504947,success
