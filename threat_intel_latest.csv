@@ -1109,3 +1109,10 @@ a633e2038bfa48b2357c52d4fee5fe1000f86c30ef0ab516768de91bab3fc466,sha256,malwareb
 ea0ea05e7f4bf29046d187a30cca474a3000004782ba434838cd7113be6936fc,sha256,malwarebazaar,2025-12-02 19:49:04,5,6,suspicious,elf,2025-12-02T19:49:04.005615,success
 acde16a28e9271c5f50dbf3f643f12fa2959008986e39a7783d0b76beab95bf2,sha256,malwarebazaar,2025-12-02 19:49:12,6,7,suspicious,detect-debug-environment;bat;long-sleeps,2025-12-02T19:49:12.806539,success
 1d70403a3a21713d4e799b356a96b95061aa764fa4e91c78ac8f0f7d3f536803,sha256,malwarebazaar,2025-12-02 19:49:21,32,42,malware,spreader;checks-user-input;calls-wmi;malware;persistence,2025-12-02T19:49:21.568775,success
+59312a8d6663c9a404d0b5aa96b70be3946592e5c5489366e04114b11a722fa1,sha256,malwarebazaar,2025-12-02 20:03:30,40,52,malware,spreader;overlay;peexe,2025-12-02T20:03:30.414227,success
+c700aea61e06b8c3eb77eb63391433bb37df6da60ea2e6b31d701c159a760dca,sha256,malwarebazaar,2025-12-02 20:03:39,1,1,unknown,long-sleeps;contains-pe;zip;detect-debug-environment;sets-process-name,2025-12-02T20:03:39.136091,success
+9f1ffae375d062ca130a56c3f5fae954745b3cba4d09b2373ef560e90b974f2b,sha256,malwarebazaar,2025-12-02 20:03:48,2,2,unknown,long-sleeps;long-base64;powershell;calls-wmi;detect-debug-environment,2025-12-02T20:03:48.058878,success
+8dff060f8259763780ce4145b8520243014f2ddb4f6ec2accc3684e4efb234c8,sha256,malwarebazaar,2025-12-02 20:03:56,0,0,unknown,detect-debug-environment;long-sleeps;zip;contains-pe;sets-process-name,2025-12-02T20:03:56.801536,success
+3c3892d90e6e941d1c84e4e0ee2ca56ebe1314699257cdce890821f351fb9c65,sha256,malwarebazaar,2025-12-02 20:04:05,0,0,unknown,malware;detect-debug-environment;powershell;long-sleeps,2025-12-02T20:04:05.725306,success
+abe1128725ef7bd1f85a55c90baba85d5775785664509662c22cfdee78f94f12,sha256,malwarebazaar,2025-12-02 20:04:14,2,2,unknown,contains-pe;detect-debug-environment;sets-process-name;zip,2025-12-02T20:04:14.436079,success
+34ed17fe14acc3ecfcecac30d377886853b9e4d6a3ed51f8e7990e474c686cb8,sha256,malwarebazaar,2025-12-02 20:04:23,2,2,unknown,powershell;checks-disk-space;detect-debug-environment;long-sleeps;calls-wmi,2025-12-02T20:04:23.342272,success
