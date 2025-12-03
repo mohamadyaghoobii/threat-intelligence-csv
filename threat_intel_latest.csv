@@ -1377,3 +1377,16 @@ be0dc9c357dc07de8b013d1153c3aa7ab8e5a4f0000328804753e23231bf794e,sha256,malwareb
 c2f6cfa7ffb357d220970264daa5182226770d640c4369a56acacb08a523c4e7,sha256,malwarebazaar,2025-12-03 09:18:10,2,2,unknown,detect-debug-environment;zip;contains-pe;checks-user-input;long-sleeps,2025-12-03T09:18:10.309381,success
 0d9516237039b1c01c3d2f5d3ce6daae34beea092d3a74449ee4b03eadb55ebe,sha256,malwarebazaar,2025-12-03 09:18:18,2,2,unknown,overlay;idle;peexe;checks-user-input,2025-12-03T09:18:18.992052,success
 f5d54923c88c02c07fdcfd9af1d99440faf7ea6fb3744f2d4cdcf5898b504eb8,sha256,malwarebazaar,2025-12-03 09:18:28,2,2,unknown,powershell;long-sleeps;exe-pattern;checks-disk-space;url-pattern,2025-12-03T09:18:28.243100,success
+fe6b81b45bf4dfa5e8453fa326901aca15d604a30262aaaeddfb62edc9130735,sha256,malwarebazaar,2025-12-03 09:31:42,2,2,unknown,peexe;overlay,2025-12-03T09:31:42.017488,success
+63bb1662b1f3088aad52d9189f14584eacf9f7f8ae9b58832e45b5ab98a176c7,sha256,malwarebazaar,2025-12-03 09:31:50,5,6,suspicious,long-sleeps;detect-debug-environment;calls-wmi;checks-disk-space;powershell,2025-12-03T09:31:50.862048,success
+a7fa6160b6058c914c7fee03d0c5a75e0073ed0b7002fd78e477155ba4c63c36,sha256,malwarebazaar,2025-12-03 09:31:59,6,7,suspicious,powershell;exe-pattern;detect-debug-environment;long-sleeps;checks-disk-space,2025-12-03T09:31:59.722676,success
+c80cf54414ea4ba9013eb3df6ebd9c851808ccd6830d0637fcd63e713b1c88cf,sha256,malwarebazaar,2025-12-03 09:32:08,11,14,malware,overlay;peexe,2025-12-03T09:32:08.436557,success
+9c4f7390cf05d88f7dffeae83d33c0a18d8c25e4f07d6c0c24f90f1fde4afc3f,sha256,malwarebazaar,2025-12-03 09:32:17,43,56,malware,peexe;64bits;long-sleeps;spreader;detect-debug-environment,2025-12-03T09:32:17.298496,success
+034bd140e8b632fce380d3fee560e6e58dd7dc783b4e98aaa01a0e7eabdbec1f,sha256,malwarebazaar,2025-12-03 09:32:26,30,39,malware,persistence;detect-debug-environment;checks-user-input;overlay;peexe,2025-12-03T09:32:26.118358,success
+75b4d9eb26ed9e20009c9a55a58e66457d7ec4d7d060179f09f6522e96c62e2e,sha256,malwarebazaar,2025-12-03 09:32:34,10,13,malware,apk;android;encrypted;obfuscated;checks-gps,2025-12-03T09:32:34.827933,success
+45f546ed00d0ed250e28f3fea009e219f252de5716ac0b32a123e295e5b5180d,sha256,malwarebazaar,2025-12-03 09:32:43,1,1,unknown,detect-debug-environment;peexe;assembly,2025-12-03T09:32:43.593227,success
+d427181742726d50f8f26987083ee48b014fae8ac7ad124a90a9a88720ded352,sha256,malwarebazaar,2025-12-03 09:32:52,20,26,malware,long-sleeps;persistence;contains-pe;detect-debug-environment;rar,2025-12-03T09:32:52.608119,success
+3aea0345c88f069d3a079c82571086adafb585137a86e277f4e5c9fb1b2190e6,sha256,malwarebazaar,2025-12-03 09:33:01,2,2,unknown,reflection;android;apk;contains-elf;runtime-modules,2025-12-03T09:33:01.359792,success
+f974f6c0d45a9ebba5c680ce828d6457374e8cf9218021c95368af2ded304a92,sha256,malwarebazaar,2025-12-03 09:33:10,23,30,malware,rar,2025-12-03T09:33:10.139185,success
+22dd514e77f6f5a853e889471777a763c72316a4f68a612ea03a52121d17247d,sha256,malwarebazaar,2025-12-03 09:33:18,21,27,malware,encrypted;android;reflection;obfuscated;apk,2025-12-03T09:33:18.897364,success
+907a232e42dfc049991d5625126f5769795bd382d859c14ee7b4b4545e12727e,sha256,malwarebazaar,2025-12-03 09:33:27,1,1,unknown,zip;contains-pe;sets-process-name;detect-debug-environment;long-sleeps,2025-12-03T09:33:27.580096,success
