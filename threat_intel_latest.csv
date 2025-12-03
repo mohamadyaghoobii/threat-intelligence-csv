@@ -1197,3 +1197,8 @@ f90a9fb4813d7ed9cb40727922307fbe926610903a8e9d14267a0a0aa26f9029,sha256,malwareb
 ca5b40e938f68321dfa3a7f1ad2a03db4ff6ba27fdae5e230654cd5c30090692,sha256,malwarebazaar,2025-12-03 01:33:52,13,17,malware,encrypted;apk;android;obfuscated;checks-gps,2025-12-03T01:33:52.627963,success
 054308a34e0ac70a6c6f9aac99cc4e6e61cd884a03a491854a698d0d90a06f84,sha256,malwarebazaar,2025-12-03 01:34:01,25,32,malware,persistence;peexe;overlay;checks-disk-space,2025-12-03T01:34:01.464815,success
 aad9cb4486db41c4341099ee45be64b6ca7c5d34ea8bdee81e65dceee6376d29,sha256,malwarebazaar,2025-12-03 01:34:19,33,43,malware,themida;checks-disk-space;64bits;calls-wmi;peexe,2025-12-03T01:34:19.231342,success
+f84b00fc75f183c571c8f49fcc1d7e0241f538025db0f2daa4e2c5b9a6739049,sha256,malwarebazaar,2025-12-03 01:48:44,14,18,malware,isoimage;contains-pe;calls-wmi;detect-debug-environment;long-sleeps,2025-12-03T01:48:44.468648,success
+56d559cf3355f33a907466ef3e52db1c372662bfee959ec240e9a3a6c988728b,sha256,malwarebazaar,2025-12-03 01:48:53,42,55,malware,malware;overlay;peexe;spreader,2025-12-03T01:48:53.196041,success
+1b2d716377268287bd48d76a6f8b6a92a4a8c416eab85e7f0ca2fc307664b57b,sha256,malwarebazaar,2025-12-03 01:49:02,19,25,malware,overlay;invalid-signature;peexe;signed,2025-12-03T01:49:02.032845,success
+5ceccb76120440b2a4f9d9c244125d1eefc621bb52c3544b6ec393474a50750f,sha256,malwarebazaar,2025-12-03 01:49:10,21,27,malware,signed;peexe;overlay;invalid-signature,2025-12-03T01:49:10.926665,success
+767591c7ab54ee46f6617723426bd00af661a6eac14a6c26874da2f078eefb8a,sha256,malwarebazaar,2025-12-03 01:49:19,18,23,malware,invalid-signature;overlay;peexe;signed;bobsoft,2025-12-03T01:49:19.774457,success
