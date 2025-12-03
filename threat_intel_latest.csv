@@ -1180,3 +1180,9 @@ d7a9a49f61d323d69768737f47983e0820635d61bc96b1b9eda0ae9a92649f8c,sha256,malwareb
 c4259ce5d7a71e6d4a3f17f3675250f840e4b9c1b9ec89ad8319bf3916d281c1,sha256,malwarebazaar,2025-12-03 00:49:02,11,14,malware,exploit;arm;64bits;upx;detect-debug-environment,2025-12-03T00:49:02.969819,success
 41dbf613dcee7a04f45b051dcf493571469b00ab9db0c9305350505fb535e7e5,sha256,malwarebazaar,2025-12-03 00:49:11,32,42,malware,pdf;invalid-xref,2025-12-03T00:49:11.683751,success
 b282302aa05bcbf31a0f2b1235fa16744cb21f0c2401d20e756dfc31d4472f8a,sha256,malwarebazaar,2025-12-03 00:49:20,0,0,unknown,contains-elf;reflection;obfuscated;runtime-modules;android,2025-12-03T00:49:20.556756,success
+9c40e8936aa672bb2e675f76858c4dc1ca0aa5bd1d400b885912113766cde97a,sha256,malwarebazaar,2025-12-03 01:03:27,17,22,malware,64bits;overlay;peexe,2025-12-03T01:03:27.841891,success
+c38961f4493641448c71aabe8b46796c4ef0c6aaaed187be02ff06ed152ae1e9,sha256,malwarebazaar,2025-12-03 01:03:36,2,2,unknown,apk;reflection;checks-gps;telephony;android,2025-12-03T01:03:36.539286,success
+b19a349cac773606d28a94b5ef5f2708f1799eabca281a5a29e9f32c9a32b929,sha256,malwarebazaar,2025-12-03 01:03:45,15,19,malware,cve-2018-10561;upx;exploit;elf,2025-12-03T01:03:45.263238,success
+5dddfd8af478caa5c53c98306ab9461980d355ef38a4158ce9157ddcda3dc30c,sha256,malwarebazaar,2025-12-03 01:03:54,12,15,malware,cve-2018-10561;upx;64bits;exploit;elf,2025-12-03T01:03:54.006786,success
+b1c3a8818024ee86480bb83ea405ba2d9f96ea279e5cf9df19b3d3cb934ec42d,sha256,malwarebazaar,2025-12-03 01:04:11,1,1,unknown,android;apk;reflection;telephony;runtime-modules,2025-12-03T01:04:11.414477,success
+a773cd2e22fc5a09ff8d8fac9d022104f8e48c7923a3c6b4d9bf5953e0d40e4d,sha256,malwarebazaar,2025-12-03 01:04:20,27,35,malware,checks-network-adapters;detect-debug-environment;contains-elf;checks-cpu-name;android,2025-12-03T01:04:20.208009,success
