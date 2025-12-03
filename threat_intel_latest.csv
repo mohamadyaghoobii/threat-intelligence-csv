@@ -1232,3 +1232,5 @@ f4fb80f3436077aa3023cb662858ac662a88b9a7fdf2179d06205d7ad624e75d,sha256,malwareb
 711b890873df3573927acfd309bd85e5506fb68a282e5cfc29f59d467e50986d,sha256,malwarebazaar,2025-12-03 03:15:23,16,21,malware,elf;upx;64bits;sets-process-name;persistence,2025-12-03T03:15:23.024477,success
 67dcb03549ffff37f461654efb7ade244bcd032d9f68a598771d3d0cacf1de2c,sha256,malwarebazaar,2025-12-03 03:15:32,51,67,malware,persistence;peexe;checks-user-input;macro-create-ole,2025-12-03T03:15:32.130823,success
 f58c14370ca887ef557112732534fa842b8e443719285a962f1a4d66400a7123,sha256,malwarebazaar,2025-12-03 03:16:52,11,14,malware,signed;overlay;invalid-signature;peexe,2025-12-03T03:16:52.218391,success
+a7148acaabcee8323ea08dc1c3547c79cd0cab58a7b30a6bff16e721c194c9cf,sha256,malwarebazaar,2025-12-03 04:15:05,55,72,malware,assembly;peexe,2025-12-03T04:15:05.702603,success
+c541e889ba556bac37bd0359aeb24224d15363228f213b4acb87073ea6f56713,sha256,malwarebazaar,2025-12-03 04:15:14,23,30,malware,elf;spreader,2025-12-03T04:15:14.698715,success
