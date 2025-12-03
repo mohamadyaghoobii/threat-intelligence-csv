@@ -1192,3 +1192,8 @@ ba69344e4f9b1497c002e8c8b85710704d7ac7bd40ab643f7ea6600b0be9e9a7,sha256,malwareb
 7d98b3cc8507fa58772f6e9c491e164d2ab39cecde19124c6e893aa8ab203ed6,sha256,malwarebazaar,2025-12-03 01:15:32,23,30,malware,elf;cve-2017-17215;exploit;spreader,2025-12-03T01:15:32.439899,success
 cbeb6003217797f5f1ac9c58d57adf7696fbda8e6b2f156841eb63487b3c86d5,sha256,malwarebazaar,2025-12-03 01:15:41,23,30,malware,elf;exploit;cve-2017-17215;spreader,2025-12-03T01:15:41.139339,success
 0b1191308b4959156fd6bb25fb0ed91b22d9591b14f8307b85b1c11b2ed4bdf9,sha256,malwarebazaar,2025-12-03 01:15:49,10,13,malware,overlay;peexe,2025-12-03T01:15:49.850095,success
+f90a9fb4813d7ed9cb40727922307fbe926610903a8e9d14267a0a0aa26f9029,sha256,malwarebazaar,2025-12-03 01:33:34,30,39,malware,sends-sms;obfuscated;checks-cpu-name;detect-debug-environment;android,2025-12-03T01:33:34.965764,success
+9194b57673209c8534888f61b0cdefa34f463ae50cd78f72ab2b3348220baaf9,sha256,malwarebazaar,2025-12-03 01:33:43,57,75,malware,overlay;checks-user-input;executes-dropped-file;ssh-communication;malware,2025-12-03T01:33:43.936044,success
+ca5b40e938f68321dfa3a7f1ad2a03db4ff6ba27fdae5e230654cd5c30090692,sha256,malwarebazaar,2025-12-03 01:33:52,13,17,malware,encrypted;apk;android;obfuscated;checks-gps,2025-12-03T01:33:52.627963,success
+054308a34e0ac70a6c6f9aac99cc4e6e61cd884a03a491854a698d0d90a06f84,sha256,malwarebazaar,2025-12-03 01:34:01,25,32,malware,persistence;peexe;overlay;checks-disk-space,2025-12-03T01:34:01.464815,success
+aad9cb4486db41c4341099ee45be64b6ca7c5d34ea8bdee81e65dceee6376d29,sha256,malwarebazaar,2025-12-03 01:34:19,33,43,malware,themida;checks-disk-space;64bits;calls-wmi;peexe,2025-12-03T01:34:19.231342,success
