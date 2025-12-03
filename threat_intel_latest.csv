@@ -1202,3 +1202,8 @@ f84b00fc75f183c571c8f49fcc1d7e0241f538025db0f2daa4e2c5b9a6739049,sha256,malwareb
 1b2d716377268287bd48d76a6f8b6a92a4a8c416eab85e7f0ca2fc307664b57b,sha256,malwarebazaar,2025-12-03 01:49:02,19,25,malware,overlay;invalid-signature;peexe;signed,2025-12-03T01:49:02.032845,success
 5ceccb76120440b2a4f9d9c244125d1eefc621bb52c3544b6ec393474a50750f,sha256,malwarebazaar,2025-12-03 01:49:10,21,27,malware,signed;peexe;overlay;invalid-signature,2025-12-03T01:49:10.926665,success
 767591c7ab54ee46f6617723426bd00af661a6eac14a6c26874da2f078eefb8a,sha256,malwarebazaar,2025-12-03 01:49:19,18,23,malware,invalid-signature;overlay;peexe;signed;bobsoft,2025-12-03T01:49:19.774457,success
+192aa31ea7cf2449015d4e26ddff8be8c629cf7d71d3dcdcce9e67919b1121ca,sha256,malwarebazaar,2025-12-03 02:03:48,33,43,malware,checks-disk-space;peexe;persistence;malware;executes-dropped-file,2025-12-03T02:03:48.501615,success
+daa85eb29b4eb5b5e084727233f9e16750b18717337805bba4cbadc74b5a1cc0,sha256,malwarebazaar,2025-12-03 02:03:57,29,38,malware,64bits;peexe;idle,2025-12-03T02:03:57.239418,success
+1e0a49685187bfeff1ce4cae8673fe176cf9726b37fa0caf2a5dfdb2daba8572,sha256,malwarebazaar,2025-12-03 02:04:06,39,51,malware,peexe;64bits;spreader;persistence,2025-12-03T02:04:06.010423,success
+4caf2a7831a78d5e22fee325aef6b7aa350b43226c7392fa086a2f5cd13c51f8,sha256,malwarebazaar,2025-12-03 02:04:14,44,57,malware,spreader;persistence;peexe;64bits,2025-12-03T02:04:14.780701,success
+d9fa4a43701ad20105461cc3525b702faf9416485ca481f42c113bf87a6988dc,sha256,malwarebazaar,2025-12-03 02:04:23,35,46,malware,peexe;executes-dropped-file;overlay,2025-12-03T02:04:23.513476,success
