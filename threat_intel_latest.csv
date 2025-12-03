@@ -1283,3 +1283,4 @@ d4b3b178c6785a226abdc5905bd60b485117821d6d3e03c869a9158d34027c20,sha256,malwareb
 b8bc0566fdc98dde8c7ff22f813bddaa840c7feae97f3284fd4c1d1b6bf4b257,sha256,malwarebazaar,2025-12-03 06:18:26,22,28,malware,detect-debug-environment;elf;arm,2025-12-03T06:18:26.136301,success
 e3857637ddd0138f18dd96e81af43cbd6ca7d786764d43d341a666a878f6c561,sha256,malwarebazaar,2025-12-03 06:18:34,16,21,malware,detect-debug-environment;arm;upx;elf,2025-12-03T06:18:34.815564,success
 df72770f5e13e72b75a9f126baf586bbf91f795a2f4380a84484d9445a6cc2b2,sha256,malwarebazaar,2025-12-03 06:19:18,7,9,suspicious,elf;64bits;shared-lib,2025-12-03T06:19:18.333369,success
+6fe4828720a244e1b4f2ca720b2d4e70fdee761619026ea301713f2507a1aa9b,sha256,malwarebazaar,2025-12-03 06:31:58,7,9,suspicious,elf;upx;64bits;shared-lib;sets-process-name,2025-12-03T06:31:58.201720,success
