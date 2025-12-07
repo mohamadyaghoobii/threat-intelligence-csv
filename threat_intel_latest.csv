@@ -1644,3 +1644,7 @@ b94706bbb417a265474b58bd32324e916dc89991d45b066a932234c804475919,sha256,malwareb
 4af96671def2f773d9dc1ba72bbb457b6c1507b8d380c19cb6bfcab46344cc8f,sha256,malwarebazaar,2025-12-07 20:33:53,42,55,malware,detect-debug-environment;arm;elf,2025-12-07T20:33:53.459562,success
 4ddd645ca8ed85fc7732cd5d51708f7366e71cb1e74927d12f732dc455d67bd0,sha256,malwarebazaar,2025-12-07 20:34:02,44,57,malware,elf;self-delete;sets-process-name,2025-12-07T20:34:02.209009,success
 c02d8ec928bdc1375b9d2bd18f46e1568b15810de9208f31e7bdabc3a49c001d,sha256,malwarebazaar,2025-12-07 20:34:10,0,0,unknown,invalid-signature;overlay;via-tor;signed;detect-debug-environment,2025-12-07T20:34:10.905894,success
+9e8778cf70e7ef90f3de2a945ae453b5f1b9eb8d2f30a6888f8fc8331f96c16e,sha256,malwarebazaar,2025-12-07 21:30:05,4,5,unknown,64bits;elf;payload,2025-12-07T21:30:05.721018,success
+cc17c5a982a899986c292a41cdc0dfe75b7126b4833521a9b010722a382d11e8,sha256,malwarebazaar,2025-12-07 21:30:14,9,11,suspicious,upx;persistence;detect-debug-environment;checks-cpu-name;self-delete,2025-12-07T21:30:14.452514,success
+9ce72b322424576c79214284c7e4fd257ce7d6e22c9c2c83abb7c58d90b548d9,sha256,malwarebazaar,2025-12-07 21:30:31,12,15,malware,elf;payload;64bits,2025-12-07T21:30:31.853561,success
+00f6a25ffc788301e3e08d527f02834c12c7c945bb64c0c8267efb05146f0804,sha256,malwarebazaar,2025-12-07 21:30:40,6,7,suspicious,upx;64bits;elf;sets-process-name;service-scan,2025-12-07T21:30:40.704972,success
