@@ -1665,3 +1665,5 @@ b564480acae10dd5cadb4dc0c1a3defaeb76e4fbc634a770444ed48512c7ee68,sha256,malwareb
 86f08d25f3d3ce28b2a24423d081bca64e1ae63f03786aa4f030120d8a60d782,sha256,malwarebazaar,2025-12-07 22:31:53,15,19,malware,msi;calls-wmi;checks-usb-bus;checks-bios,2025-12-07T22:31:53.064024,success
 216b3c59f3c8f1be2e661f962eb2bf5df8933e85397a2c38b9ad82db8f76095b,sha256,malwarebazaar,2025-12-07 22:32:02,3,3,unknown,text,2025-12-07T22:32:02.020892,success
 2308bb46acec261999dd1455b9586ac7ebf3f677630e04256807130a6322e62e,sha256,malwarebazaar,2025-12-07 22:32:10,55,72,malware,long-sleeps;detect-debug-environment;assembly;calls-wmi;peexe,2025-12-07T22:32:10.871185,success
+d8f895e174af3d691a3c533b77673c9f02205e5bb1d15da242e726ddc4d2ca93,sha256,malwarebazaar,2025-12-07 23:04:12,34,44,malware,upx;spreader;elf;sets-process-name;persistence,2025-12-07T23:04:12.512344,success
+5b517cb9baf0a158a3bdf754e08098b17ca6da6aab1a6761b621a67c17e2446c,sha256,malwarebazaar,2025-12-07 23:04:21,31,40,malware,elf;upx,2025-12-07T23:04:21.272203,success
