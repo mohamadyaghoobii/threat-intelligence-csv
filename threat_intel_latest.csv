@@ -1648,3 +1648,5 @@ c02d8ec928bdc1375b9d2bd18f46e1568b15810de9208f31e7bdabc3a49c001d,sha256,malwareb
 cc17c5a982a899986c292a41cdc0dfe75b7126b4833521a9b010722a382d11e8,sha256,malwarebazaar,2025-12-07 21:30:14,9,11,suspicious,upx;persistence;detect-debug-environment;checks-cpu-name;self-delete,2025-12-07T21:30:14.452514,success
 9ce72b322424576c79214284c7e4fd257ce7d6e22c9c2c83abb7c58d90b548d9,sha256,malwarebazaar,2025-12-07 21:30:31,12,15,malware,elf;payload;64bits,2025-12-07T21:30:31.853561,success
 00f6a25ffc788301e3e08d527f02834c12c7c945bb64c0c8267efb05146f0804,sha256,malwarebazaar,2025-12-07 21:30:40,6,7,suspicious,upx;64bits;elf;sets-process-name;service-scan,2025-12-07T21:30:40.704972,success
+0ce3bb5bea2797af5ec6b881654640ee906821aee0928a98b06e8171577e692c,sha256,malwarebazaar,2025-12-07 22:04:10,32,42,malware,detect-debug-environment;elf;arm;upx,2025-12-07T22:04:10.898980,success
+7c43d96bd03fdcdb5e54ed8c8e619943867525495d5697c2a7fe0d6991f80d56,sha256,malwarebazaar,2025-12-07 22:04:19,23,30,malware,upx;elf;detect-debug-environment,2025-12-07T22:04:19.569112,success
