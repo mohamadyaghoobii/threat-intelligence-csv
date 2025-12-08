@@ -2132,3 +2132,17 @@ bac00be71feb7f3f3091eb54d53771e21eee2c422f148e8524bb09e1827e2b70,sha256,malwareb
 343a0ffbd5b9eb887a4fb642b6a508e49d75338c94c18404c0c4818b21ab1951,sha256,malwarebazaar,2025-12-08 21:33:11,39,51,malware,spreader;assembly;peexe;detect-debug-environment;long-sleeps,2025-12-08T21:33:11.192826,success
 e4a80d44697105c3a3521a0eb6133c5ef0af67a50e5fa836b9d4b508de3420ac,sha256,malwarebazaar,2025-12-08 21:33:19,37,48,malware,spreader;peexe;assembly;detect-debug-environment;long-sleeps,2025-12-08T21:33:19.936796,success
 07331f2676329925dec4ab24272c6c6cbbf6f20ac1d7af5be621c8bb2eee29bf,sha256,malwarebazaar,2025-12-08 21:33:28,44,57,malware,invalid-signature;overlay;peexe;detect-debug-environment;signed,2025-12-08T21:33:28.657011,success
+fd29bc834973da689e30a5386df77b77b16e845da6bbae5c0e2d9ea8d2da9706,sha256,malwarebazaar,2025-12-08 22:01:33,45,59,malware,peexe,2025-12-08T22:01:33.358156,success
+6df3475c922a4f5ea51201f1714ab7ce15d0e8d989211e5bacbf7ce083cf2cc5,sha256,malwarebazaar,2025-12-08 22:01:42,25,32,malware,peexe;persistence;detect-debug-environment;long-sleeps,2025-12-08T22:01:42.299786,success
+3570a0056a687e25de3bb0b36b3bf10dcfd82cef07652a0d51d80b704355a10f,sha256,malwarebazaar,2025-12-08 22:01:51,41,53,malware,assembly;spreader;peexe;malware;calls-wmi,2025-12-08T22:01:51.275147,success
+594c365596c21b70b4e929a54e88f0abdc2f8641956817881418a57508484912,sha256,malwarebazaar,2025-12-08 22:02:00,48,63,malware,spreader;peexe;assembly;cve-2014-6345;exploit,2025-12-08T22:02:00.123286,success
+a034122bb42b81cd6a61a4f7bd5040f8ed2ea5e9d7164d4786f52a2a53a77bde,sha256,malwarebazaar,2025-12-08 22:02:08,48,63,malware,peexe,2025-12-08T22:02:08.958556,success
+758643f9f44f6291396b1bcff804f8b045b1686ea7ffc3953e20d5eb231ec591,sha256,malwarebazaar,2025-12-08 22:02:17,36,47,malware,checks-network-adapters;malware;spreader;calls-wmi;checks-bios,2025-12-08T22:02:17.845118,success
+73df6000eae29d553b66408a42e601dd9be8871c8b27a799b1208659c53278b8,sha256,malwarebazaar,2025-12-08 22:02:26,35,46,malware,peexe;assembly;spreader;detect-debug-environment;long-sleeps,2025-12-08T22:02:26.617494,success
+950c352e028b1085ebdc862efc0441dd140aa26edab17571fdc2361498881071,sha256,malwarebazaar,2025-12-08 22:02:35,22,28,malware,peexe,2025-12-08T22:02:35.608991,success
+6ebc2f08b0d01b640217da63c4810e55526a6ab5913d18f67a7f318c1a478c79,sha256,malwarebazaar,2025-12-08 22:02:44,53,69,malware,invalid-signature;signed;overlay;peexe,2025-12-08T22:02:44.371304,success
+6e615ca8f0479953a6780ff4d97d338cd7f0fcd2d9ce419b4c926e2c11cb6aa2,sha256,malwarebazaar,2025-12-08 22:02:53,44,57,malware,spreader;peexe;assembly;calls-wmi;detect-debug-environment,2025-12-08T22:02:53.195677,success
+3a279099e6b83675a0f1b4ad779734a1c718d6b19a9ab225c54be70c78108ab5,sha256,malwarebazaar,2025-12-08 22:03:02,14,18,malware,assembly;peexe;calls-wmi;detect-debug-environment;long-sleeps,2025-12-08T22:03:02.008621,success
+6e27f960ff5e4248bddc0b7dedac0a43dd9038ef78f50bdc44e3d7c10aa572a4,sha256,malwarebazaar,2025-12-08 22:03:10,47,61,malware,signed;overlay;peexe;invalid-signature,2025-12-08T22:03:10.765855,success
+dc8de4880e68d0be6a8aac42d82f896bc158f1e6c9ac63a91bd8c25b17ded181,sha256,malwarebazaar,2025-12-08 22:03:19,37,48,malware,signed;invalid-signature;overlay;peexe,2025-12-08T22:03:19.506382,success
+b64f5a129e80b30e756466f1ea8d440e8f8aa08de3c04f9e0dd2cacfcfd8d4f3,sha256,malwarebazaar,2025-12-08 22:03:28,33,43,malware,peexe;invalid-signature;signed;overlay,2025-12-08T22:03:28.450903,success
