@@ -1695,3 +1695,5 @@ c0fcf20134d8dc79a9aad5776c0f479260a597778705c7629f4b9ab453d5006d,sha256,malwareb
 ef535709e78f488a86d873b8508c0a860b36e4bcce24bf68dc51c6a5d6b9077e,sha256,malwarebazaar,2025-12-08 04:04:20,35,46,malware,elf;corrupted,2025-12-08T04:04:20.283329,success
 12f69604826f63850bdfc60b9c418d1d24f50ded7daf00b38d8bbdad9fb4313c,sha256,malwarebazaar,2025-12-08 04:30:06,48,63,malware,obfuscated;detect-debug-environment;assembly;peexe,2025-12-08T04:30:06.404112,success
 e7bfd0e47e99841ad2636e7e2973a83d14eae433301526747f8610240edc7ddc,sha256,malwarebazaar,2025-12-08 05:04:18,29,38,malware,sets-process-name;arm;self-delete;upx;detect-debug-environment,2025-12-08T05:04:18.864535,success
+7f93edb9040b07b354eab3478e8c40ba33dc8604b7d556c3490aa87382471fa3,sha256,malwarebazaar,2025-12-08 05:30:05,10,13,malware,overlay;peexe;64bits;signed;invalid-signature,2025-12-08T05:30:05.739646,success
+9655393f76420e2a667816eb836b0b3c170824c23138d0eb82fa5533df40249d,sha256,malwarebazaar,2025-12-08 05:30:14,8,10,suspicious,powershell,2025-12-08T05:30:14.420853,success
