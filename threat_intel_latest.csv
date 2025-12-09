@@ -3091,3 +3091,11 @@ c34b5c5d3ca6e8ef51084329d45397a4533e736d7af5eb33d5845c689ab9c3f9,sha256,malwareb
 5834d20cfc80f6fe20514b7a1e3e9764765aa3f548e2874504e9d26345f80560,sha256,malwarebazaar,2025-12-09 22:32:18,10,13,malware,detect-debug-environment;signed;peexe;malware;overlay,2025-12-09T22:32:18.246938,success
 353583a5da2476e1792702fcc5c2a32c9898e7845ebf16014513d32ce3f609b9,sha256,malwarebazaar,2025-12-09 22:32:26,2,2,unknown,long-sleeps;text,2025-12-09T22:32:26.970909,success
 e97aedec12df098bcaf97646f5ba042b440fbf6dde1a349f12db6bfacdd2c1ec,sha256,malwarebazaar,2025-12-09 23:03:29,23,30,malware,elf,2025-12-09T23:03:29.846102,success
+136bbbbd01930a949f851e7e66b96f93c028313d903c91b9d27bc837d17011cf,sha256,malwarebazaar,2025-12-09 23:31:20,1,1,unknown,javascript;long-sleeps,2025-12-09T23:31:20.760564,success
+d7a86dadc15ebf5cc064a9d9b413093854c25fdb6b06d3710300fcf4ffc79519,sha256,malwarebazaar,2025-12-09 23:31:29,1,1,unknown,calls-wmi;overlay;detect-debug-environment;peexe;executes-dropped-file,2025-12-09T23:31:29.600744,success
+8c69bf1510821ddc6a072700e6d0c9e58cf7da4593c801501198cbcdfe8ec5fa,sha256,malwarebazaar,2025-12-09 23:31:38,7,9,suspicious,overlay;peexe;invalid-signature;signed;checks-bios,2025-12-09T23:31:38.388795,success
+a3a92d2969d0253930604940d7fb567f7dc6c5edbcd6bab30b925de905b76309,sha256,malwarebazaar,2025-12-09 23:31:47,39,51,malware,elf;corrupted;cve-2017-17215;exploit,2025-12-09T23:31:47.156802,success
+0f529e424b18e942540829a675f38b35c5bf190dcae224b8b92383d401e9824e,sha256,malwarebazaar,2025-12-09 23:31:55,0,0,unknown,overlay;executes-dropped-file;peexe,2025-12-09T23:31:55.954195,success
+263f1db1c1eafd6757f7ca97bd9eef9c4df026777d1d5db133c4482e9e70251b,sha256,malwarebazaar,2025-12-09 23:32:05,39,51,malware,pedll,2025-12-09T23:32:05.311040,success
+79192cba1c7037e1fe15dbf50bb2b3a96e53a85fbcbd2ce229af0efacdcb73c7,sha256,malwarebazaar,2025-12-09 23:32:14,29,38,malware,hiding-window;detect-debug-environment;self-delete;lnk;long-sleeps,2025-12-09T23:32:14.114328,success
+e5fae433d3965683a2ae5873781e001a9ecd77b69d996223f80ec0e709420631,sha256,malwarebazaar,2025-12-09 23:32:22,0,0,unknown,bat;detect-debug-environment;long-sleeps,2025-12-09T23:32:22.937290,success
