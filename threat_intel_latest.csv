@@ -3423,3 +3423,7 @@ aaaa6f11a25e03ed15efb244322808b170a2a897439ddec89cd756efa8620e77,sha256,malwareb
 dbf64e708a2f7d48d1a8116d6982e656f5b8d72b9125be1a207f55d07c43a824,sha256,malwarebazaar,2025-12-10 14:32:11,0,0,unknown,zip;contains-pe;detect-debug-environment;long-sleeps,2025-12-10T14:32:11.133353,success
 5799385dad9ebbfa8c321bb9e012d0870a75158948c46ffc36d9afcf22fcbfe2,sha256,malwarebazaar,2025-12-10 15:04:11,52,68,malware,peexe;invalid-signature;overlay;signed,2025-12-10T15:04:11.354937,success
 b0db942f65addd78d06d529e53da3c7c276c40e7995b576bca11c09ffa221558,sha256,malwarebazaar,2025-12-10 15:04:20,51,67,malware,spreader;peexe;detect-debug-environment;assembly;long-sleeps,2025-12-10T15:04:20.420526,success
+ec1a4674c22e88038a5dc21bcf8e9b7a1718f00df711a6cd13ba3eb021017a7d,sha256,malwarebazaar,2025-12-10 15:30:05,1,1,unknown,64bits;pedll;checks-user-input;detect-debug-environment;long-sleeps,2025-12-10T15:30:05.673187,success
+68f788cb6e558945fa7428a927a8368c72632860ddfc6ee882d2e30295ff4fd4,sha256,malwarebazaar,2025-12-10 15:30:14,1,1,unknown,peexe;corrupt;64bits,2025-12-10T15:30:14.786700,success
+218f18a82b89aa6a8859b9cf8ac4b5c1f76c89db07e77f070be28326b4ce8d08,sha256,malwarebazaar,2025-12-10 15:30:24,3,3,unknown,peexe;64bits;corrupt,2025-12-10T15:30:24.730340,success
+205f94ff00084777267d7aec5da96a87c7cd9bb7635df9d5b56992946c870746,sha256,malwarebazaar,2025-12-10 15:30:33,18,23,malware,overlay;peexe;corrupt,2025-12-10T15:30:33.458912,success
