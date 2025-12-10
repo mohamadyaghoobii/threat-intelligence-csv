@@ -3370,3 +3370,4 @@ dca8e7f9ca28773cfd9f56ede2aaafef95a0ba43fcb3001e10ef41933867ad0c,sha256,malwareb
 ea9685fd76cd94eb322a9dfb31519a60c8e0f67b2ff7b200381684c6c9301c17,sha256,malwarebazaar,2025-12-10 11:34:04,5,6,suspicious,shell,2025-12-10T11:34:04.144192,success
 03369bf3a8f0feeabdf6b16e7640f6f40eed5a96bff06a884ff30f10f55b5b68,sha256,malwarebazaar,2025-12-10 11:34:12,14,18,malware,peexe,2025-12-10T11:34:12.969040,success
 42c43660e6c30a812458adb9e9252fc72daa0fed1d0fff255724d65bd85c37e1,sha256,malwarebazaar,2025-12-10 11:34:21,38,50,malware,corrupted;exploit;cve-2017-17215;elf,2025-12-10T11:34:21.686347,success
+6c5f08e03aea51ddbab740787ca3a28fd4569eca81f973ce67e38b95a6f2b9f9,sha256,malwarebazaar,2025-12-10 12:00:33,51,67,malware,persistence;checks-user-input;peexe;detect-debug-environment;long-sleeps,2025-12-10T12:00:33.917666,success
