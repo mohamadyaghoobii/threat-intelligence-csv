@@ -3797,3 +3797,11 @@ ecafd18ecdf7175aaacd765f2e1e0254fcd52989bf903df27b2be2a7c3855317,sha256,malwareb
 dfe51282af3a23d6a5095c123473aba20286a671c15f778880a2ba8074cbc452,sha256,malwarebazaar,2025-12-11 18:32:26,32,42,malware,lnk;detect-debug-environment;long-sleeps;long-command-line-arguments;url-pattern,2025-12-11T18:32:26.554935,success
 0157c55310a3fc4a8d15396fa2fe3cb0611620916bebfa8887cb6bc71cb7fcf9,sha256,malwarebazaar,2025-12-11 18:32:35,28,36,malware,spreader;pedll;64bits,2025-12-11T18:32:35.480054,success
 fb5d080f641f961f2c9772b6dc9b5a834cd49cd726e1e5feac13c1ab53abfbcf,sha256,malwarebazaar,2025-12-11 18:32:44,31,40,malware,peexe;spreader;overlay,2025-12-11T18:32:44.198313,success
+241522084b7163c013306efd7f3f568c20481cd100e1f1793e6faf664ab15d41,sha256,malwarebazaar,2025-12-11 19:31:15,28,36,malware,spreader;elf;64bits,2025-12-11T19:31:15.404819,success
+d27d2c705a73c8435aa153589997766c6c9db56a1c93bc082f73fd20a4e9f842,sha256,malwarebazaar,2025-12-11 19:31:24,32,42,malware,payload;peexe,2025-12-11T19:31:24.257537,success
+dc711d118dc020bc0d2d756de1232e213c795efb930ee291dc54ef5e6404d9c5,sha256,malwarebazaar,2025-12-11 19:31:32,34,44,malware,upx;peexe;spreader;calls-wmi;checks-user-input,2025-12-11T19:31:32.992593,success
+1c22bb02a7e9af5cd61305a829cec018f80ddf111b6204f33260939dc38db4df,sha256,malwarebazaar,2025-12-11 19:31:42,30,39,malware,spreader;elf;arm,2025-12-11T19:31:42.762482,success
+7324dc59e2c7c2362de668932d9d38df2263dec910523d0596d1411a4f131d6f,sha256,malwarebazaar,2025-12-11 19:32:00,54,71,malware,payload;peexe;calls-wmi;assembly;persistence,2025-12-11T19:32:00.339656,success
+7d06d326f2fef30794744db1100d1c2792a507496f5cfc9cecac5434089d7f89,sha256,malwarebazaar,2025-12-11 19:32:09,43,56,malware,checks-user-input;peexe;assembly;detect-debug-environment,2025-12-11T19:32:09.150472,success
+60b2d66f73ea67316bc467351a8e1d1fd238927a7f369cb4af5263f39538fb1c,sha256,malwarebazaar,2025-12-11 19:32:26,29,38,malware,elf;spreader,2025-12-11T19:32:26.519872,success
+65e1038f0c2f75f9ab264ebe9357ab6858d13f333acffb8456c781c3ef15864c,sha256,malwarebazaar,2025-12-11 19:32:35,23,30,malware,signed;invalid-signature;malware;peexe;overlay,2025-12-11T19:32:35.299492,success
