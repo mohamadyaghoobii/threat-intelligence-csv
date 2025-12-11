@@ -3650,3 +3650,6 @@ d0e178ed6c9aa89d8e79d50a0313ea8db54cad186337973a3bc840e895f4abab,sha256,malwareb
 0298c8e5e36a5f156e1e9844c09e39739d678846600bbcc1cd490a68e51a37fd,sha256,malwarebazaar,2025-12-11 04:30:06,19,25,malware,themida;corrupt;peexe;64bits,2025-12-11T04:30:06.979148,success
 295cadd97ce5703753e88626dbb01faaf10e46f5b0bb91bd9ff16c7c1de6aeb1,sha256,malwarebazaar,2025-12-11 04:30:16,52,68,malware,detect-debug-environment;peexe;long-sleeps;obfuscated;assembly,2025-12-11T04:30:16.056476,success
 8943c75d3f974d35e552c914bc64df0bbce1eabab18b0ffda945665e7ba37691,sha256,malwarebazaar,2025-12-11 04:30:24,53,69,malware,assembly;detect-debug-environment;obfuscated;peexe;long-sleeps,2025-12-11T04:30:24.852460,success
+e0f7a0c2e3ab78890a3b5d6ec4ff9ca63df55433355b72dab536cbbe17fb050f,sha256,malwarebazaar,2025-12-11 05:01:19,0,0,unknown,,2025-12-11T05:01:19.453495,success
+e2e67d52821162ef4e0eccc5f36cfb8fe50a49fbd6157ce90603c4d3dc9694b3,sha256,malwarebazaar,2025-12-11 05:01:28,0,0,unknown,,2025-12-11T05:01:28.278589,success
+93ce367e397ebeb13d489cf11de4a2abad29711030e29e47e91f967a983fdbf0,sha256,malwarebazaar,2025-12-11 05:01:45,0,0,unknown,,2025-12-11T05:01:45.637348,success
