@@ -3653,3 +3653,7 @@ d0e178ed6c9aa89d8e79d50a0313ea8db54cad186337973a3bc840e895f4abab,sha256,malwareb
 e0f7a0c2e3ab78890a3b5d6ec4ff9ca63df55433355b72dab536cbbe17fb050f,sha256,malwarebazaar,2025-12-11 05:01:19,0,0,unknown,,2025-12-11T05:01:19.453495,success
 e2e67d52821162ef4e0eccc5f36cfb8fe50a49fbd6157ce90603c4d3dc9694b3,sha256,malwarebazaar,2025-12-11 05:01:28,0,0,unknown,,2025-12-11T05:01:28.278589,success
 93ce367e397ebeb13d489cf11de4a2abad29711030e29e47e91f967a983fdbf0,sha256,malwarebazaar,2025-12-11 05:01:45,0,0,unknown,,2025-12-11T05:01:45.637348,success
+90ee1e7a6193aa7c62de6fd466fc0ca1fe7b8aaec67fa98e96183079222593f4,sha256,malwarebazaar,2025-12-11 06:30:07,30,39,malware,malware;spreader;peexe;detect-debug-environment;long-sleeps,2025-12-11T06:30:07.377724,success
+283447a47c7a5e90bdf94f7fe4ca0710bbc238d471509d17f56e584b1458d63e,sha256,malwarebazaar,2025-12-11 06:30:16,35,46,malware,peexe;assembly;spreader,2025-12-11T06:30:16.082470,success
+b16fb6c2d492c7ae0f909dd7ed1b2b53e291710710b52f7b7333b546f5f00067,sha256,malwarebazaar,2025-12-11 06:30:24,29,38,malware,hiding-window;lnk;abused-exe-pattern;high-entropy;detect-debug-environment,2025-12-11T06:30:24.889385,success
+c469489d40b0e7905c61998f135808f8776c978cc8aaaab1c0cfb91ec2380b84,sha256,malwarebazaar,2025-12-11 06:31:53,37,48,malware,shell,2025-12-11T06:31:53.723186,success
