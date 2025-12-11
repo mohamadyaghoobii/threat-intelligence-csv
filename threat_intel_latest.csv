@@ -3832,3 +3832,4 @@ cf1baa38ddfa6fdc1e3998f8c850249ba267a77e94aa948f1315502c9eaa36c0,sha256,malwareb
 0f9b726f3582321df2eefb68b37ef457361cd63b75b852c124a5e8e6225ca64f,sha256,malwarebazaar,2025-12-11 21:33:01,28,36,malware,elf;arm;detect-debug-environment;upx,2025-12-11T21:33:01.300785,success
 739b4fcda28a04670e61279cc970f4a7b75b55727a54f6c528b31cc8bdb1d9f0,sha256,malwarebazaar,2025-12-11 21:33:18,20,26,malware,elf;corrupted,2025-12-11T21:33:18.844170,success
 1f6994e8527d920dfee0bca1c19cc6dd234687393fa5ca78fbbd500a938613ec,sha256,malwarebazaar,2025-12-11 21:33:27,54,71,malware,peexe;detect-debug-environment;obfuscated;assembly;malware,2025-12-11T21:33:27.836972,success
+9dcfd6ad92ba2a0b05036cec9696abd6b8ff922c8694723aa07790f08ae50495,sha256,malwarebazaar,2025-12-11 22:01:33,24,31,malware,peexe;64bits;checks-cpu-name;detect-debug-environment;long-sleeps,2025-12-11T22:01:33.411842,success
