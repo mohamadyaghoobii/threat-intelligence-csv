@@ -3740,3 +3740,4 @@ eef948e1d511bd86ff673f904bf0a97106d5395f0b7ed2cfb043da7ccc6ca6dd,sha256,malwareb
 9f269d664f5824eb7a79ea03fe887f895ec920df8d6e2013777933f2b0987ed1,sha256,malwarebazaar,2025-12-11 15:31:52,50,65,malware,assembly;detect-debug-environment;peexe;long-sleeps,2025-12-11T15:31:52.197361,success
 cb69e400baa013e05f71a998279bab86a8b21415d4763b0468fc77777e0df87b,sha256,malwarebazaar,2025-12-11 15:32:00,0,0,unknown,text,2025-12-11T15:32:00.914686,success
 5dc5de87fb868fb06e107a7695d7f002dfd31c51b9ef7e237c35973ce4716608,sha256,malwarebazaar,2025-12-11 15:32:10,3,3,unknown,xml;clipboard,2025-12-11T15:32:10.327997,success
+9a1e54f1770c951c3f028e94c6332b46f32bc6258f7601e255377ce8eccf03ff,sha256,malwarebazaar,2025-12-11 16:00:14,0,0,unknown,64bits;shared-lib;elf;detect-debug-environment,2025-12-11T16:00:14.971357,success
