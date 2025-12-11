@@ -3657,3 +3657,11 @@ e2e67d52821162ef4e0eccc5f36cfb8fe50a49fbd6157ce90603c4d3dc9694b3,sha256,malwareb
 283447a47c7a5e90bdf94f7fe4ca0710bbc238d471509d17f56e584b1458d63e,sha256,malwarebazaar,2025-12-11 06:30:16,35,46,malware,peexe;assembly;spreader,2025-12-11T06:30:16.082470,success
 b16fb6c2d492c7ae0f909dd7ed1b2b53e291710710b52f7b7333b546f5f00067,sha256,malwarebazaar,2025-12-11 06:30:24,29,38,malware,hiding-window;lnk;abused-exe-pattern;high-entropy;detect-debug-environment,2025-12-11T06:30:24.889385,success
 c469489d40b0e7905c61998f135808f8776c978cc8aaaab1c0cfb91ec2380b84,sha256,malwarebazaar,2025-12-11 06:31:53,37,48,malware,shell,2025-12-11T06:31:53.723186,success
+a49bd70b76be6ffcc5c77dcb0bea3d166fd22e5a4b726e6c9cbbe1b9f2661ba9,sha256,malwarebazaar,2025-12-11 07:30:07,32,42,malware,exploit;cve-2017-17215;elf;sets-process-name,2025-12-11T07:30:07.166857,success
+31c6d6c48591b5349d5e0aab8d2a5a188801b9730e7d0ded6028d54d280b1021,sha256,malwarebazaar,2025-12-11 07:30:16,20,26,malware,64bits;peexe;corrupt;themida,2025-12-11T07:30:16.034545,success
+e7c49cb8048b0d79a8afaca828b2099005759072837510ae3f90db7f4d86a72a,sha256,malwarebazaar,2025-12-11 07:30:24,31,40,malware,exploit;spreader;elf;64bits;cve-2017-17215,2025-12-11T07:30:24.838021,success
+221cde898e2a912166a774220e71facb070ec3f5f99682101ae8f8afddb14bca,sha256,malwarebazaar,2025-12-11 07:30:33,34,44,malware,spreader;arm;elf,2025-12-11T07:30:33.569691,success
+58648635a15923fe48cbf3ca928efbcbc5658aa563fd9ca281fc94e9c191ee16,sha256,malwarebazaar,2025-12-11 07:30:42,10,13,malware,macro-create-ole;detect-debug-environment;powershell;long-sleeps,2025-12-11T07:30:42.301776,success
+6d2ce895a41a7611bc8698f865c47b3b19b15369da5883f444e2b1041cc8d136,sha256,malwarebazaar,2025-12-11 07:30:51,36,47,malware,persistence;spreader;peexe;macro-create-ole;bobsoft,2025-12-11T07:30:51.088980,success
+2860229869ba19a3f5c9f2071c39dfa08aeeb45c6681b588346e78b433ab1d00,sha256,malwarebazaar,2025-12-11 07:30:59,7,9,suspicious,javascript,2025-12-11T07:30:59.786010,success
+3d54abfa620509fc0b06fff94ece35322c8ff8d76aeb512dae3371538ef4c5d2,sha256,malwarebazaar,2025-12-11 07:31:08,34,44,malware,spreader;exploit;cve-2017-17215;elf;sets-process-name,2025-12-11T07:31:08.569655,success
