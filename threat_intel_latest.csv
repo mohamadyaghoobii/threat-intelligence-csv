@@ -3683,3 +3683,4 @@ e9ab6a004dc53a477e72b440de125cd44bcc38d583cbfc54815bfcf21011c772,sha256,malwareb
 131c42e1ac3b31441c422226fe8e09915a86fe5395afe1c7a686bf18045b7f8f,sha256,malwarebazaar,2025-12-11 10:30:07,20,26,malware,exe-pattern;obfuscated;create-file;write-file;powershell,2025-12-11T10:30:07.326441,success
 30be03d9709a15d677b7692855993f1ef3708d568c27c293cc2f02295ce99c4b,sha256,malwarebazaar,2025-12-11 10:30:24,8,10,suspicious,exploit;attachment;cve-2017-0199;docx,2025-12-11T10:30:24.845917,success
 b4e27780b02fa1244ec4a9ee9b5dd44c82e034068b2376d08553376a5ae2befb,sha256,malwarebazaar,2025-12-11 10:30:33,25,32,malware,spreader;bobsoft;peexe,2025-12-11T10:30:33.622456,success
+9d12aae7dab13f17a28e4d123c9383fdee217d023ed9bd47668a771de7ff6987,sha256,malwarebazaar,2025-12-11 11:30:06,0,0,unknown,powershell;checks-memory-available;calls-wmi;long-sleeps;detect-debug-environment,2025-12-11T11:30:06.572970,success
