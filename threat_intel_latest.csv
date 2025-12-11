@@ -3696,3 +3696,12 @@ e1a90f94eb11455c951e86b9e8c5a2f90721382ca0b984e39a9ed2cfb10d4c15,sha256,malwareb
 7dfa074e8bb6ccb7ddaf2c664ea7d4087dec52e4187247cd5dd8365c29c769c8,sha256,malwarebazaar,2025-12-11 12:31:27,1,1,unknown,detect-debug-environment;contains-pe;zip;long-sleeps,2025-12-11T12:31:27.053107,success
 bf2360bd7af1eae22341d43679c3364769d4c4d29e4630274433f324f880ab8e,sha256,malwarebazaar,2025-12-11 12:31:35,1,1,unknown,msi;checks-usb-bus,2025-12-11T12:31:35.747981,success
 ed948a0a9be0dd5a875145c383241b29c2ec8a9f8b4fbe0ee01ee5356ccab328,sha256,malwarebazaar,2025-12-11 12:32:19,26,34,malware,shell,2025-12-11T12:32:19.245610,success
+2416af1b85a2c0a3fcbb58cf41a50b1e2777701502c6fab1e0ea0dad425af8aa,sha256,malwarebazaar,2025-12-11 13:30:06,59,77,malware,assembly;peexe,2025-12-11T13:30:06.227315,success
+cc3ee9cfdf857bce253c6ed7401d0c029ad2c29d4feda2f795cfc81a37a8e07f,sha256,malwarebazaar,2025-12-11 13:30:15,22,28,malware,invalid-signature;signed;overlay;detect-debug-environment;peexe,2025-12-11T13:30:15.115554,success
+3dafc00c3c65b1abe74a9933c3ff94455fee4e982e16f4378748997664facb6c,sha256,malwarebazaar,2025-12-11 13:30:23,14,18,malware,macho;64bits;multi-arch;arm,2025-12-11T13:30:23.907137,success
+aaa8bf0cd32ebc28b46c337e6d91a4202434f7bdbeb1ddb7c8bb84e2d69f3ddd,sha256,malwarebazaar,2025-12-11 13:30:32,47,61,malware,spreader;peexe;assembly,2025-12-11T13:30:32.635578,success
+9912e0378166110b748eb749ab94a2f480b5ded029f37c1bf53d3d0d6432cf99,sha256,malwarebazaar,2025-12-11 13:30:41,18,23,malware,rar,2025-12-11T13:30:41.523882,success
+6a45ce7c1191ed918743d689dc9026f4af3d946744849aa2fb464cda45c918eb,sha256,malwarebazaar,2025-12-11 13:30:50,14,18,malware,rar,2025-12-11T13:30:50.251958,success
+6f281e898bc55963a4cd5d3fa733f5ab03d5dfeb83105e6eb81e27198f319e3e,sha256,malwarebazaar,2025-12-11 13:31:00,30,39,malware,zip,2025-12-11T13:31:00.078388,success
+97fa44657b45691842fa643071d3eab44106539ef59ddf476f2ab896f84181d4,sha256,malwarebazaar,2025-12-11 13:31:08,11,14,malware,overlay;peexe;detect-debug-environment;long-sleeps;checks-disk-space,2025-12-11T13:31:08.798492,success
+6993daa15aa4e02d4d47b75e78aa8823e2b45928fc5ddd7950bff1ce30fe3a07,sha256,malwarebazaar,2025-12-11 13:31:17,11,14,malware,javascript,2025-12-11T13:31:17.534049,success
