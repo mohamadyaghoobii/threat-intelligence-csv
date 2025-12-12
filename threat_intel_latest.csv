@@ -4057,3 +4057,12 @@ eb69376e8cbc70007583ae4283dfba5451d44047c8f95a2a9fd12d81cdfe6062,sha256,malwareb
 bdbe9ff4873cf0ccd47d1fea87908b6412f74d8e89183ac7e0fca328cb6bf4ac,sha256,malwarebazaar,2025-12-12 09:34:05,4,5,unknown,peexe,2025-12-12T09:34:05.324454,success
 fc6ac19c444d34a3b0a08c2104cb239774a266b94917d418052f1e62dd6cb65c,sha256,malwarebazaar,2025-12-12 09:34:14,2,2,unknown,direct-cpu-clock-access;runtime-modules;peexe;idle;checks-user-input,2025-12-12T09:34:14.088321,success
 08c5044e32926a19f1ea6a176aa068a387cdf135c1af842ed25289f2ad63a85c,sha256,malwarebazaar,2025-12-12 09:34:23,15,19,malware,apk;telephony;android;checks-gps;sends-sms,2025-12-12T09:34:23.076149,success
+992218a8e2f146c8a36a1e8eccd9c757b0740a429eeeed4e238bc84fd3cf67bd,sha256,malwarebazaar,2025-12-12 10:00:40,2,2,unknown,contains-pe;zip;detect-debug-environment;long-sleeps;checks-user-input,2025-12-12T10:00:40.288885,success
+6fcc22f23f240c883e29be29ca7ddc7f45f02de35e66c4e191580a9102399043,sha256,malwarebazaar,2025-12-12 10:00:49,21,27,malware,contains-embedded-js;html;executes-dropped-file;malware;cve-2008-3018,2025-12-12T10:00:49.521198,success
+064e8a9472541791a49610aae16a458ff0f23f49f50be5a336b9427d5240e3a4,sha256,malwarebazaar,2025-12-12 10:00:58,3,3,unknown,rar;contains-pe;detect-debug-environment;long-sleeps,2025-12-12T10:00:58.289682,success
+1c567bc593e1cda8e6f470f911b743d7828f1458e18712901d6307235abe6b44,sha256,malwarebazaar,2025-12-12 10:01:07,9,11,suspicious,android;encrypted;apk;obfuscated;reflection,2025-12-12T10:01:07.128468,success
+adabd132d345315db2e4f03cf035ea5619caed172b1dd8066d5465d688291f9d,sha256,malwarebazaar,2025-12-12 10:01:16,5,6,suspicious,checks-usb-bus;signed;msi;detect-debug-environment,2025-12-12T10:01:16.452313,success
+0ed5419ac712a2b73cf43c49f3f6fbb3393bcb53528a605ba789ebce81224f7c,sha256,malwarebazaar,2025-12-12 10:01:25,1,1,unknown,android;contains-elf;apk,2025-12-12T10:01:25.294374,success
+6d6239544d4493f235836bda8fc38e4e1e1dba3bff7d0aaad5176c68bb34aae7,sha256,malwarebazaar,2025-12-12 10:01:34,1,1,unknown,apk;android,2025-12-12T10:01:34.912826,success
+74b3cda2b3699e69332de68183999e71917236b20be6be82ec00ebd51c692912,sha256,malwarebazaar,2025-12-12 10:01:43,6,7,suspicious,elf,2025-12-12T10:01:43.773725,success
+e218d424f50af9758788275d585d13bbd9bbdf25e1cbfc4015784140dc63f938,sha256,malwarebazaar,2025-12-12 10:01:52,18,23,malware,apk;android;contains-elf,2025-12-12T10:01:52.660216,success
