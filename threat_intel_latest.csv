@@ -4281,3 +4281,9 @@ d74de53c40975409d73268c4e471345d508ef8c23c3ee644cbeab132a75ba382,sha256,malwareb
 381aa9b16aecb9393674e318f08a2b5f9fe734f67ea372b9688b68644e4078ed,sha256,malwarebazaar,2025-12-12 21:32:46,1,1,unknown,msi;checks-usb-bus,2025-12-12T21:32:46.244948,success
 4ded17f3d9969dc4c5654c87199c7f7ea00d710ff99985f6a654debea613af52,sha256,malwarebazaar,2025-12-12 21:32:55,38,50,malware,exploit;elf;spreader;cve-2014-8361,2025-12-12T21:32:55.036760,success
 26c4ff1da1cb385c8808f5e56ca5f49ad15520778554bfed7f2cf80f9606e3fb,sha256,malwarebazaar,2025-12-12 21:33:03,30,39,malware,spreader;elf;upx,2025-12-12T21:33:03.871091,success
+3608134d9e3eff1759ca5c7a1839943c5be8fcef0f408488b2492a2283095d22,sha256,malwarebazaar,2025-12-12 22:31:19,11,14,malware,overlay;corrupt;peexe;64bits,2025-12-12T22:31:19.556009,success
+6891afdcfd8ff174219094f49c00e3c9549ec59a8a15e7f7292031129fb3c381,sha256,malwarebazaar,2025-12-12 22:31:28,1,1,unknown,msi;checks-usb-bus,2025-12-12T22:31:28.277232,success
+14703a96c5eb7b454998ee60a5effbedc43436486bf3b70355fcccce92dacc8e,sha256,malwarebazaar,2025-12-12 22:31:37,35,46,malware,64bits;peexe;checks-cpu-name,2025-12-12T22:31:37.050363,success
+a595cd8dbc7d91145ebfaf8194f400579b97689c9d81111286fd5accb4e331c7,sha256,malwarebazaar,2025-12-12 22:31:45,6,7,suspicious,64bits;overlay;pedll,2025-12-12T22:31:45.774826,success
+63ab011b4aaf7375959f33006597d22e918c5870be51b26f54c68bbd83c10ee3,sha256,malwarebazaar,2025-12-12 22:31:54,7,9,suspicious,persistence;signed;64bits;overlay;invalid-signature,2025-12-12T22:31:54.607670,success
+f52f2dab2735df1b68ae2ecf24656e5c11996e19fbd120c04c74fbcf0230d0cc,sha256,malwarebazaar,2025-12-12 22:32:56,3,3,unknown,android;apk;contains-elf;encrypted,2025-12-12T22:32:56.742692,success
