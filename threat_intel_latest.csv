@@ -4287,3 +4287,5 @@ d74de53c40975409d73268c4e471345d508ef8c23c3ee644cbeab132a75ba382,sha256,malwareb
 a595cd8dbc7d91145ebfaf8194f400579b97689c9d81111286fd5accb4e331c7,sha256,malwarebazaar,2025-12-12 22:31:45,6,7,suspicious,64bits;overlay;pedll,2025-12-12T22:31:45.774826,success
 63ab011b4aaf7375959f33006597d22e918c5870be51b26f54c68bbd83c10ee3,sha256,malwarebazaar,2025-12-12 22:31:54,7,9,suspicious,persistence;signed;64bits;overlay;invalid-signature,2025-12-12T22:31:54.607670,success
 f52f2dab2735df1b68ae2ecf24656e5c11996e19fbd120c04c74fbcf0230d0cc,sha256,malwarebazaar,2025-12-12 22:32:56,3,3,unknown,android;apk;contains-elf;encrypted,2025-12-12T22:32:56.742692,success
+e9c8470cf58fe9e8069d8417528c335201c527a3074a73883304f07a08b816ac,sha256,malwarebazaar,2025-12-12 23:31:18,47,61,malware,obfuscated;assembly;peexe;detect-debug-environment,2025-12-12T23:31:18.096421,success
+66b444adf1e227ef4240a25f9b8e9ff22caf5840495d227f32235aa328eec77c,sha256,malwarebazaar,2025-12-12 23:31:26,13,17,malware,checks-disk-space;peexe;detect-debug-environment;persistence;64bits,2025-12-12T23:31:26.976791,success
