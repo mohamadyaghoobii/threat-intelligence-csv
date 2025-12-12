@@ -4175,3 +4175,12 @@ d6ec7bb8f16dd354ebf089f663493c425ed67f719abed8a0b18a68ea3485b700,sha256,malwareb
 88204a854303321c9a9c030551b4ae0bfb01e658efda15301f98d85b0d704f8f,sha256,malwarebazaar,2025-12-12 15:32:49,16,21,malware,elf;exploit;64bits;cve-2021-4034,2025-12-12T15:32:49.902692,success
 b2377c7fc4e0d7559f6e31407592b7f8b625869ac575395cd083c8aac7ea06dc,sha256,malwarebazaar,2025-12-12 15:33:07,9,11,suspicious,exploit;64bits;cve-2021-4034;elf,2025-12-12T15:33:07.303358,success
 60cbcfa732d06e5eab5d96ab9067376be20a50bfad7c29da78b444bfa20f641a,sha256,malwarebazaar,2025-12-12 15:33:25,0,0,unknown,text,2025-12-12T15:33:25.813117,success
+15eb489cac2732bb86b1dc6d87b7279dca1e0946f521cea5e17b65a9d5944cc0,sha256,malwarebazaar,2025-12-12 16:30:15,50,65,malware,long-sleeps;checks-cpu-name;persistence;64bits;peexe,2025-12-12T16:30:15.830947,success
+9f63d82fd334044ca49d3b503f36180e4e21aec9e2134e13f8e23f862156ecc6,sha256,malwarebazaar,2025-12-12 16:30:24,46,60,malware,detect-debug-environment;64bits;persistence;peexe;checks-disk-space,2025-12-12T16:30:24.589077,success
+9f10d009d6f97851a6993589ada49360c447e1ce467565f9dc99b7ad2da93fef,sha256,malwarebazaar,2025-12-12 16:30:33,18,23,malware,contains-pe;isoimage,2025-12-12T16:30:33.357685,success
+843a0224d193c2f7aa8b7c8aeba6422870e38b5c44004199cb5c231f6d5fb64d,sha256,malwarebazaar,2025-12-12 16:30:42,57,75,malware,peexe;assembly,2025-12-12T16:30:42.375358,success
+a9e5a4ceb083e2a696a46e822cecdbefc4324ebf4931972575b8528ed601f8f4,sha256,malwarebazaar,2025-12-12 16:30:52,5,6,suspicious,checks-disk-space;signed;64bits;persistence;overlay,2025-12-12T16:30:52.342944,success
+ffd46048b8ead14d5bd8c05d340fe00b6695093dac18ad55eda6d74457fe29ae,sha256,malwarebazaar,2025-12-12 16:31:01,17,22,malware,peexe;persistence;64bits;calls-wmi;checks-cpu-name,2025-12-12T16:31:01.797422,success
+dcfa066d7f0212b85d1a0db36f0c5d672578049416b63978da37cd792bdae489,sha256,malwarebazaar,2025-12-12 16:31:10,23,30,malware,peexe;spreader;64bits,2025-12-12T16:31:10.616718,success
+6959e619221d9ddac8f66c25105507109476fad5ccd37421d067eb10155a233b,sha256,malwarebazaar,2025-12-12 16:31:28,4,5,unknown,64bits;elf,2025-12-12T16:31:28.104868,success
+48a6d0791e340dc909d5ac298b2cf70e139a936434095de721435194b3bf9e7e,sha256,malwarebazaar,2025-12-12 16:31:36,26,34,malware,exploit;cve-2021-4034;64bits;elf,2025-12-12T16:31:36.832133,success
