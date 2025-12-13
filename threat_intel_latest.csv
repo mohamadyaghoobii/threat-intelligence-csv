@@ -4289,3 +4289,12 @@ a595cd8dbc7d91145ebfaf8194f400579b97689c9d81111286fd5accb4e331c7,sha256,malwareb
 f52f2dab2735df1b68ae2ecf24656e5c11996e19fbd120c04c74fbcf0230d0cc,sha256,malwarebazaar,2025-12-12 22:32:56,3,3,unknown,android;apk;contains-elf;encrypted,2025-12-12T22:32:56.742692,success
 e9c8470cf58fe9e8069d8417528c335201c527a3074a73883304f07a08b816ac,sha256,malwarebazaar,2025-12-12 23:31:18,47,61,malware,obfuscated;assembly;peexe;detect-debug-environment,2025-12-12T23:31:18.096421,success
 66b444adf1e227ef4240a25f9b8e9ff22caf5840495d227f32235aa328eec77c,sha256,malwarebazaar,2025-12-12 23:31:26,13,17,malware,checks-disk-space;peexe;detect-debug-environment;persistence;64bits,2025-12-12T23:31:26.976791,success
+0cae3b04919050963b4413a43d10fcd7ea4b3f332234ee6c65dcceee7a0833e5,sha256,malwarebazaar,2025-12-13 00:00:08,0,0,unknown,64bits;overlay;signed;peexe,2025-12-13T00:00:08.180463,success
+b3fda3bcd8fcd0f69bc9bf73acf8c7f4bc467efaed40b593826acfe7f2a370c9,sha256,malwarebazaar,2025-12-13 00:00:17,45,59,malware,peexe;64bits;payload,2025-12-13T00:00:17.065469,success
+c4bf32c053950ad7e26b65e13f7513fb001a27652f434ada11a8bf7e5c1a14b7,sha256,malwarebazaar,2025-12-13 00:00:26,9,11,suspicious,corrupt;64bits;peexe;overlay,2025-12-13T00:00:26.345943,success
+ee08d090dd8e344c7745201232b1020dd7e2873896b2fc32374c3bd75d887a4d,sha256,malwarebazaar,2025-12-13 00:00:35,38,50,malware,payload;spreader;64bits;peexe,2025-12-13T00:00:35.113006,success
+6c644fd7ec9da6569d5808f37aacb67e3fc2263ae42b34e231f9cc4561571b56,sha256,malwarebazaar,2025-12-13 00:00:43,38,50,malware,spreader;upx;64bits;detect-debug-environment;peexe,2025-12-13T00:00:43.931612,success
+d541c839c517f253efa4a31bea968d738f215dda6a067408160289e4802c7c06,sha256,malwarebazaar,2025-12-13 00:00:52,30,39,malware,shell,2025-12-13T00:00:52.795999,success
+ee28b64d4e17826527e6ee7bdf9ac22f8adb5d2c06ed533e8206f9fceecdcd8c,sha256,malwarebazaar,2025-12-13 00:01:02,50,65,malware,peexe;spreader;assembly;calls-wmi;detect-debug-environment,2025-12-13T00:01:02.281348,success
+72e8e71d1592778c338a9a458a1f35b08e722139dfb59b4f1ba0fd7aa099a6b7,sha256,malwarebazaar,2025-12-13 00:01:11,12,15,malware,overlay;detect-debug-environment;64bits;peexe;corrupt,2025-12-13T00:01:11.352770,success
+ad0a12ded3a61912d0c59ec08acb4f81a45a965a65d2fb4a4694356c748b7ee4,sha256,malwarebazaar,2025-12-13 00:03:40,17,22,malware,arm;elf,2025-12-13T00:03:40.673417,success
