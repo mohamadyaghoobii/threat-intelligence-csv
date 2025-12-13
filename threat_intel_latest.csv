@@ -4376,3 +4376,7 @@ cd2e0c4f23040178d072c7d9b0135d433dcac6e55dc2b596c4a2ca88d8201546,sha256,malwareb
 9bc2157f451274b3e3c005e4b643a5b6637dc5878b6d20952d9c3f561fa9b067,sha256,malwarebazaar,2025-12-13 06:33:54,16,21,malware,arm;signed;ios;64bits;lib,2025-12-13T06:33:54.769035,success
 8fc8d04cb141da47f4758017db7d6a01fb62e6d4ee45f32c34549f3124cfceb6,sha256,malwarebazaar,2025-12-13 06:34:03,22,28,malware,invalid-signature;lib;signed;ios;arm,2025-12-13T06:34:03.501419,success
 bc4c1cd39d60c29959a4909a5ff71db566a06d62d75405a37e710daca2d4771f,sha256,malwarebazaar,2025-12-13 06:34:12,21,27,malware,lib;arm;signed;macho;64bits,2025-12-13T06:34:12.288309,success
+b49f326c7a4f5156fc6033fe83b1129ebf9679947afb36ade578a656eac96c10,sha256,malwarebazaar,2025-12-13 07:00:25,44,57,malware,detect-debug-environment;assembly;self-delete;long-sleeps;spreader,2025-12-13T07:00:25.695239,success
+554cb7af5469c5d2154f0f7c74cf50c4af15cbb7c652a47c5d9b40cb03a3579c,sha256,malwarebazaar,2025-12-13 07:00:34,10,13,malware,detect-debug-environment;arm;sets-process-name;elf,2025-12-13T07:00:34.462132,success
+a446383e81440474caf2cb203c63fc4cc02c17736a9c424835adadbc0e6178b5,sha256,malwarebazaar,2025-12-13 07:00:52,30,39,malware,spreader;elf,2025-12-13T07:00:52.170742,success
+5e09b0e9335626b4d53148959ce78a8f82db51080f7662fe9f3e97557dac6889,sha256,malwarebazaar,2025-12-13 07:01:27,29,38,malware,elf;arm;spreader,2025-12-13T07:01:27.467126,success
