@@ -4341,3 +4341,4 @@ d2670dd44eb6690c5f51e500da348566473f84665992d899c816fb66834a9081,sha256,malwareb
 a4cb5422b2a7e49ad24ab4a80a1938fd0989e18d29541389ff6e4d37e40fb296,sha256,malwarebazaar,2025-12-13 03:31:07,41,53,malware,spreader;elf,2025-12-13T03:31:07.309137,success
 8436e9fc86edbd9ade63c6a8bf00b4ae4470cd27159417d0ff62955365f5857c,sha256,malwarebazaar,2025-12-13 03:31:16,38,50,malware,checks-hostname;self-delete;detect-debug-environment;sets-process-name;shell,2025-12-13T03:31:16.080972,success
 404dd8778337a5c688973771df50cb5d76a176bcb9d51834bfd406de5d0451d0,sha256,malwarebazaar,2025-12-13 03:31:24,16,21,malware,checks-disk-space;invalid-signature;long-sleeps;calls-wmi;signed,2025-12-13T03:31:24.894914,success
+98e813ee69ab1a034e3fae2966c4f5e68681e59950254e78857003a821772fcc,sha256,malwarebazaar,2025-12-13 04:30:13,28,36,malware,checks-cpu-name;detect-debug-environment;pedll;signed;long-sleeps,2025-12-13T04:30:13.273458,success
