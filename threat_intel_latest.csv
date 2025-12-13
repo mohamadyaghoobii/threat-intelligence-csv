@@ -4695,3 +4695,4 @@ b50abbaee32ea54e7f535e2dd7222e8548a513215195fb2e39759cbb522bfee4,sha256,malwareb
 7be46bf5d6f94592f1a62e1943b5127a9e6c664729ba509c3e286d01270f2325,sha256,malwarebazaar,2025-12-13 18:32:16,12,15,malware,signed;overlay;invalid-signature;64bits;detect-debug-environment,2025-12-13T18:32:16.641698,success
 3527cc56b0de4698317427fd0285fcaab71ca02b606ca4952fe655e9386f608b,sha256,malwarebazaar,2025-12-13 18:32:25,24,31,malware,upx;elf;64bits,2025-12-13T18:32:25.387778,success
 cab4b5ba9013d23a3cf7a6d209c80a2c7cb2810e78d9a0a7d613e39258cdd9c5,sha256,malwarebazaar,2025-12-13 18:32:42,12,15,malware,shared-lib;64bits;elf,2025-12-13T18:32:42.770411,success
+ab19b181a1fa1fe6211abbcf083c7eba048faaefa1f64f28df269b9f2254b2a3,sha256,malwarebazaar,2025-12-13 19:01:17,17,22,malware,elf;upx;arm,2025-12-13T19:01:17.244155,success
