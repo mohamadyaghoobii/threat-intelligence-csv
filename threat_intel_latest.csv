@@ -4676,3 +4676,13 @@ f6446f0ddd218ccae232aa7f187492652c7cdf1e80482987f745bdec090eae45,sha256,malwareb
 a380fcaa1ff910f507ee16a65efba06940e62223a077e0c1e7d8ade2407a230d,sha256,malwarebazaar,2025-12-13 16:32:38,2,2,unknown,overlay;signed;peexe,2025-12-13T16:32:38.963657,success
 63cc15e9bc28c3c483335aebb42b47ae74c4ca24b09990cf7c9153baf3eba128,sha256,malwarebazaar,2025-12-13 16:32:47,1,1,unknown,checks-usb-bus;msi,2025-12-13T16:32:47.692314,success
 bc609ecf8b6e86c3cc0427c760a99122d02e3b699b7454a45cea48bdedefb5b4,sha256,malwarebazaar,2025-12-13 16:33:22,0,0,unknown,contains-embedded-js;idle;html,2025-12-13T16:33:22.581375,success
+86da5c01dd038b50e4cae3fd8feda896415204a5364d0f8d92540b96bad84593,sha256,malwarebazaar,2025-12-13 17:30:06,29,38,malware,64bits;spreader;elf,2025-12-13T17:30:06.319069,success
+db5135c8741173d079f2050311d611c702360a1c64674f048e99221ee8fc3d1f,sha256,malwarebazaar,2025-12-13 17:30:15,37,48,malware,arm;spreader;elf,2025-12-13T17:30:15.058547,success
+b1c6b05f4c16fc5ee55151905d453db63ae1913bbe5f91d043558bc2c64f19b4,sha256,malwarebazaar,2025-12-13 17:30:32,26,34,malware,elf;upx,2025-12-13T17:30:32.542770,success
+a9c5e5e50af14289a1c9ddfeef4abc9f145fc0761bc9faf486c9f8aba76553a9,sha256,malwarebazaar,2025-12-13 17:30:41,26,34,malware,upx;elf;arm,2025-12-13T17:30:41.263827,success
+a29828923481108b477df9f34543d24a8f1898e0c96386fcc4b20ed57bd8aff7,sha256,malwarebazaar,2025-12-13 17:30:50,24,31,malware,64bits;peexe;calls-wmi;checks-cpu-name;detect-debug-environment,2025-12-13T17:30:50.015590,success
+19caed3f5ccfad4c6a546ef382e0b6e563226004db6cd02fb64d12ba2419f7b4,sha256,malwarebazaar,2025-12-13 17:31:07,27,35,malware,elf;upx;arm,2025-12-13T17:31:07.613623,success
+a311b3e95beec66ad6d53f6e0f73ee6b3d4b2ccd293dd06f460ca654b0bc29d1,sha256,malwarebazaar,2025-12-13 17:31:16,33,43,malware,spreader;arm;elf,2025-12-13T17:31:16.378345,success
+e2f79d1a2b28391b751250f39fc96fe730d95acebdca700f273e1c3d69c905a1,sha256,malwarebazaar,2025-12-13 17:31:25,28,36,malware,elf;spreader;upx,2025-12-13T17:31:25.147888,success
+8748bdca4da79a648c861baa16fbdb07c46fc058db89df6b46ef7ec2ca60d869,sha256,malwarebazaar,2025-12-13 17:31:34,11,14,malware,peexe;64bits;checks-disk-space;persistence,2025-12-13T17:31:34.075369,success
+c39f4a82642778198c30e8f2c06a70df627c558f159ce9fcfff0f5005e8efb0f,sha256,malwarebazaar,2025-12-13 17:31:42,30,39,malware,detect-debug-environment;long-sleeps;spreader;64bits;peexe,2025-12-13T17:31:42.882535,success
