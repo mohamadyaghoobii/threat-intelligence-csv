@@ -4885,3 +4885,4 @@ f4120dc9c20302a27ad8a1e462f9ca34b6693ea066c65d46a43ff8f73229c0d2,sha256,malwareb
 e4d13cb5c3dcb794f7464ae665fafa2390107672417b8203432a6646344e3895,sha256,malwarebazaar,2025-12-14 06:30:39,48,63,malware,enigma;peexe;bobsoft;malware;checks-usb-bus,2025-12-14T06:30:39.955016,success
 9e910564d805b4e0ffa67ec224590ef459f97295439b9de4ed0c2299c3dc0312,sha256,malwarebazaar,2025-12-14 06:31:32,24,31,malware,elf;arm;detect-debug-environment,2025-12-14T06:31:32.327340,success
 98305a7db33304b218ef3fba6ecb53cc226c7b73f5297ee6873088db8a656e99,sha256,malwarebazaar,2025-12-14 06:32:07,25,32,malware,elf,2025-12-14T06:32:07.387469,success
+cb0d819e976cd3cae8c6d18c306b90d7dad904d355b46ad803d68ec8e2533e1b,sha256,malwarebazaar,2025-12-14 07:02:26,21,27,malware,elf;arm;sets-process-name;detect-debug-environment,2025-12-14T07:02:26.729952,success
