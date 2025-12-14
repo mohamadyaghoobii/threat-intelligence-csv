@@ -5081,3 +5081,5 @@ d309efc04c1c6d7a8ebd5c2d5780b44cf6a6cd27da5323db80c1068f9e7b3f71,sha256,malwareb
 c640b2f8182c98d7e8819eb33180fa15bc242829c3933637f099951dcbb192df,sha256,malwarebazaar,2025-12-14 19:33:02,12,15,malware,elf,2025-12-14T19:33:02.798914,success
 d1cd37816a3c2871ff7921b1f6c5d28c07adcfb63157d8107d525bbe52ee181f,sha256,malwarebazaar,2025-12-14 19:33:11,24,31,malware,elf,2025-12-14T19:33:11.845380,success
 c94e22e1bdbe15a69f445887e28df6e8ad09ae02f54e34014336b4611d4aa98b,sha256,malwarebazaar,2025-12-14 19:33:20,16,21,malware,64bits;persistence;detect-debug-environment;peexe;checks-disk-space,2025-12-14T19:33:20.638172,success
+36d2fb77a1c54ed99e4561e4a20a9ec4c080ee59225fe267df9e1d2cd77c0c77,sha256,malwarebazaar,2025-12-14 20:02:17,7,9,suspicious,peexe,2025-12-14T20:02:17.476462,success
+675a0ec616d8c3e8bee5f39377819d0c02b284894cff9978db9dcb36eb63ed84,sha256,malwarebazaar,2025-12-14 20:02:43,20,26,malware,themida;detect-debug-environment;long-sleeps;64bits;peexe,2025-12-14T20:02:43.768010,success
