@@ -4849,3 +4849,11 @@ a166599e051e6455acd472e66dbefa1de90de169dd4a15808a625b79e5826d6c,sha256,malwareb
 352de6ef2915bba0f5d83b53835e0537f7234704d135bf629d5b6326eaa06a93,sha256,malwarebazaar,2025-12-14 02:33:47,35,46,malware,arm;elf;detect-debug-environment,2025-12-14T02:33:47.097019,success
 8728bebf4405e2d004aa7b2bfb6161c9963987aaf35822cdf4f851ea939bc0c4,sha256,malwarebazaar,2025-12-14 02:33:56,31,40,malware,elf;arm;sets-process-name;detect-debug-environment,2025-12-14T02:33:56.017008,success
 56a3e6a8affd0c3d62c786240919b639a94e3b5e9ccb2c7b5eb60c299807d01d,sha256,malwarebazaar,2025-12-14 02:34:13,34,44,malware,elf;arm;detect-debug-environment,2025-12-14T02:34:13.444601,success
+ecc9226e5d459ca62c4787f40a2b9e2ebb34324021c20f176af602142696ee26,sha256,malwarebazaar,2025-12-14 03:01:33,27,35,malware,arm;elf;detect-debug-environment,2025-12-14T03:01:33.509069,success
+9c02fb973facc9ce807d46179c21124e9edd37febcb1db49b7a7055cfffae72e,sha256,malwarebazaar,2025-12-14 03:02:18,28,36,malware,64bits;elf;upx;detect-debug-environment,2025-12-14T03:02:18.368460,success
+d58acea96a43aced3c3f6946c7d659bc6dd0c1ff50bfee3619a40d7463333d9f,sha256,malwarebazaar,2025-12-14 03:02:27,28,36,malware,elf,2025-12-14T03:02:27.186893,success
+b666e212424b1f06a5eac020055c6521a6dfed257a23e1b6156a4eff1eb5031a,sha256,malwarebazaar,2025-12-14 03:02:35,23,30,malware,64bits;upx;elf,2025-12-14T03:02:35.897391,success
+1c2f16524fd6a2934eadb72cfbb75a802058d27d500117bd00011cb348da22fa,sha256,malwarebazaar,2025-12-14 03:02:44,33,43,malware,upx;elf,2025-12-14T03:02:44.641841,success
+e4c2b70c6f37704d28ebfb4fdd1a7a9383847e90284b9b03db45b0d731650032,sha256,malwarebazaar,2025-12-14 03:03:19,21,27,malware,elf;corrupted,2025-12-14T03:03:19.844613,success
+b213109f876af840157f2c2b2ca610052201fcd908286c9f91c29a9b30fb2652,sha256,malwarebazaar,2025-12-14 03:03:37,22,28,malware,corrupted;elf,2025-12-14T03:03:37.345112,success
+d8c6772c020048da775df5cb5c4eb75263c1602aed86ee6e2bee28844ca57f49,sha256,malwarebazaar,2025-12-14 03:03:54,33,43,malware,elf;arm;sets-process-name;detect-debug-environment;service-scan,2025-12-14T03:03:54.844111,success
