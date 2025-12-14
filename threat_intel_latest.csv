@@ -4870,3 +4870,8 @@ e36f23a8fa59e0d256c28bb433e5e357fe43b5eb14651bc983ef9c043ed25cc2,sha256,malwareb
 4743737b3db4ead6766d40e9097f8075326eba60c1efb365fc2fda9e3ce08d2e,sha256,malwarebazaar,2025-12-14 04:03:43,36,47,malware,elf;payload,2025-12-14T04:03:43.224899,success
 5ee2671d4f96dbb3fe30bbd959d9f800cac1044467a31198449346acc4e356fc,sha256,malwarebazaar,2025-12-14 04:03:51,36,47,malware,spreader;elf,2025-12-14T04:03:51.938316,success
 a76bb6d6eadc2cb308987edfe2a56b0b42efd47d445b3086284433f8ee428713,sha256,malwarebazaar,2025-12-14 04:04:01,31,40,malware,elf;spreader,2025-12-14T04:04:01.122078,success
+24a4491b4b6faf15549a8ee1ae35ec7e2494df2e9f8226128eb37114db9e7335,sha256,malwarebazaar,2025-12-14 04:30:06,0,0,unknown,shell;sets-process-name;detect-debug-environment,2025-12-14T04:30:06.809544,success
+abdcb98e0429578618744001b632f222d6dfd80e6b9cb959e149f3aad22ba50d,sha256,malwarebazaar,2025-12-14 04:30:15,1,1,unknown,shell;checks-hostname;detect-debug-environment,2025-12-14T04:30:15.583662,success
+53581c2994eb607d1be0c5aaf6c41480a83ea289321a0e62a41e11fc520ce9bc,sha256,malwarebazaar,2025-12-14 04:30:24,19,25,malware,exe-pattern;calls-wmi;macro-powershell;write-file;download,2025-12-14T04:30:24.427252,success
+070d543bc5792f1f1d3831269640d2c2ff8e2c50ecd59b3de01160fde3c23dd6,sha256,malwarebazaar,2025-12-14 04:31:08,30,39,malware,elf;corrupted,2025-12-14T04:31:08.246715,success
+ab54858bd9775331907085518e3c02ee3d08188f0b335f8d66d16dd3e3aad7b6,sha256,malwarebazaar,2025-12-14 04:33:20,23,30,malware,elf,2025-12-14T04:33:20.367089,success
