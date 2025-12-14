@@ -5083,3 +5083,6 @@ d1cd37816a3c2871ff7921b1f6c5d28c07adcfb63157d8107d525bbe52ee181f,sha256,malwareb
 c94e22e1bdbe15a69f445887e28df6e8ad09ae02f54e34014336b4611d4aa98b,sha256,malwarebazaar,2025-12-14 19:33:20,16,21,malware,64bits;persistence;detect-debug-environment;peexe;checks-disk-space,2025-12-14T19:33:20.638172,success
 36d2fb77a1c54ed99e4561e4a20a9ec4c080ee59225fe267df9e1d2cd77c0c77,sha256,malwarebazaar,2025-12-14 20:02:17,7,9,suspicious,peexe,2025-12-14T20:02:17.476462,success
 675a0ec616d8c3e8bee5f39377819d0c02b284894cff9978db9dcb36eb63ed84,sha256,malwarebazaar,2025-12-14 20:02:43,20,26,malware,themida;detect-debug-environment;long-sleeps;64bits;peexe,2025-12-14T20:02:43.768010,success
+2b5cc5dedd93fd77ec4d8c28d26df606b16e6a5bdd3b88dd77be9e38f24a98b1,sha256,malwarebazaar,2025-12-14 20:31:15,31,40,malware,peexe;detect-debug-environment;checks-usb-bus;persistence;long-sleeps,2025-12-14T20:31:15.461954,success
+035e65ec653bb1f2dc25c77067ae38a0f3ff711a598f822ff8fdebaff92ddd59,sha256,malwarebazaar,2025-12-14 20:31:33,3,3,unknown,contains-pe;zip;sets-process-name;detect-debug-environment;checks-user-input,2025-12-14T20:31:33.401949,success
+811471a5b0b641fb1f8e9e077f54f9f631022cb1f8372f2daca3323c7e7128d6,sha256,malwarebazaar,2025-12-14 20:31:42,26,34,malware,trojan;spreader;persistence;checks-cpu-name;peexe,2025-12-14T20:31:42.209564,success
