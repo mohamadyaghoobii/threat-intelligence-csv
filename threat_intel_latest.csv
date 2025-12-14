@@ -5098,3 +5098,5 @@ b7bbc5e217162c0d2a5799c78b105037e0707de7eda04a0103a1161d8d604102,sha256,malwareb
 92147d07877a45ff6462b0bfb22bbbe49466f1d6c3a853c36426acde59ca35da,sha256,malwarebazaar,2025-12-14 21:32:35,9,11,suspicious,arm;elf;sets-process-name;detect-debug-environment,2025-12-14T21:32:35.372845,success
 27ac0a02c0cd622e7440a20a7307843f13285ff77b1f9666280affe8dd3e6076,sha256,malwarebazaar,2025-12-14 21:32:52,3,3,unknown,contains-embedded-js;html,2025-12-14T21:32:52.788844,success
 085ba6b8c8fb8392c24ae05b57e18b97283f836fed1cd17a6161f99473cc64f8,sha256,malwarebazaar,2025-12-14 21:33:01,1,1,unknown,detect-debug-environment;nxdomain;long-sleeps;powershell;calls-wmi,2025-12-14T21:33:01.635510,success
+4e69665d02dafb07cfe5e4f350df946de85c9224a74912c7f81adb90fd045811,sha256,malwarebazaar,2025-12-14 22:02:11,22,28,malware,corrupted;elf,2025-12-14T22:02:11.507677,success
+e87ce25ea213a5e0cd7a89fef576b3425e650c88ef8d2524e03d81fabe4f5280,sha256,malwarebazaar,2025-12-14 22:02:38,22,28,malware,elf,2025-12-14T22:02:38.028662,success
