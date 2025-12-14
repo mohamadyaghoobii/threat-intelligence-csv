@@ -4857,3 +4857,11 @@ b666e212424b1f06a5eac020055c6521a6dfed257a23e1b6156a4eff1eb5031a,sha256,malwareb
 e4c2b70c6f37704d28ebfb4fdd1a7a9383847e90284b9b03db45b0d731650032,sha256,malwarebazaar,2025-12-14 03:03:19,21,27,malware,elf;corrupted,2025-12-14T03:03:19.844613,success
 b213109f876af840157f2c2b2ca610052201fcd908286c9f91c29a9b30fb2652,sha256,malwarebazaar,2025-12-14 03:03:37,22,28,malware,corrupted;elf,2025-12-14T03:03:37.345112,success
 d8c6772c020048da775df5cb5c4eb75263c1602aed86ee6e2bee28844ca57f49,sha256,malwarebazaar,2025-12-14 03:03:54,33,43,malware,elf;arm;sets-process-name;detect-debug-environment;service-scan,2025-12-14T03:03:54.844111,success
+e36f23a8fa59e0d256c28bb433e5e357fe43b5eb14651bc983ef9c043ed25cc2,sha256,malwarebazaar,2025-12-14 03:30:06,52,68,malware,long-sleeps;peexe;detect-debug-environment;assembly;obfuscated,2025-12-14T03:30:06.092522,success
+11cad7bb93cc985d87b4aca9bdde00e9ed6e3adcc894c3b7773b2784e0343971,sha256,malwarebazaar,2025-12-14 03:30:14,19,25,malware,open-file;vba;powershell;download;create-ole,2025-12-14T03:30:14.897404,success
+0516272c399062788057a2f1a22ad723a69cf8f71fa237a6b09ece859d794b3d,sha256,malwarebazaar,2025-12-14 03:30:23,21,27,malware,calls-wmi;macro-powershell;vba;run-dll;system-library,2025-12-14T03:30:23.758259,success
+9ecafea587089db9e4c582d52154fdaffe11bfc9c3352c8e65badae8c94215ff,sha256,malwarebazaar,2025-12-14 03:30:32,40,52,malware,checks-bios;signed;invalid-signature;checks-disk-space;overlay,2025-12-14T03:30:32.551287,success
+0b9d396bec97510c21c1ee1873c9f1c3d34f9f2cddd6c53cdc2003a3d5267a60,sha256,malwarebazaar,2025-12-14 03:33:54,23,30,malware,elf;arm;sets-process-name;detect-debug-environment;service-scan,2025-12-14T03:33:54.569615,success
+0b83c706b6cd311f83cce72c0e533711a1477e03b6e89b9aece9313d5742c22f,sha256,malwarebazaar,2025-12-14 03:34:03,23,30,malware,elf,2025-12-14T03:34:03.344817,success
+663f92b3c4c229456187a0eb07f29490e63801c3eacedfaded786fe5a3d588b6,sha256,malwarebazaar,2025-12-14 03:34:12,23,30,malware,elf;sets-process-name;service-scan,2025-12-14T03:34:12.107532,success
+0aa5ee09aacde092639f9851b468ce26b431e4950ce0014bb30eb0f1bd60f128,sha256,malwarebazaar,2025-12-14 03:34:20,28,36,malware,elf,2025-12-14T03:34:20.816786,success
