@@ -5630,3 +5630,5 @@ ad58ac8cff8d7372bfd468aa900abd6b09fcf3da3484e6e77f56d1b13150773b,sha256,malwareb
 d73d918f9ab310d7d349e4516f355da043dabd14dc7ffed16f5a5946d7728050,sha256,malwarebazaar,2025-12-15 18:32:26,16,21,malware,cve-2017-17215;elf;arm;upx;exploit,2025-12-15T18:32:26.880744,success
 31be9bef5b968b1f3557106b2d764e7933d20810b4cbc79cd5e53429fcc4b444,sha256,malwarebazaar,2025-12-15 18:32:35,24,31,malware,elf;arm;detect-debug-environment,2025-12-15T18:32:35.639604,success
 65aec5729ee340219c49a0c4a3e9d73f9a90a1ecf1f0bb82fc97089a4cdd07ab,sha256,malwarebazaar,2025-12-15 18:33:29,40,52,malware,detect-debug-environment;64bits;long-sleeps;peexe;spreader,2025-12-15T18:33:29.565403,success
+09a36e93dc1233930de2d1c913b0bac01841acb4d27cabe3c2f0effd67a6ae3a,sha256,malwarebazaar,2025-12-15 19:03:04,3,3,unknown,elf,2025-12-15T19:03:04.332794,success
+fa5f2451f87fdc73ac05d2076f1533b177b282e0d6adeb49d3b9706dd0bfa1fa,sha256,malwarebazaar,2025-12-15 19:03:30,11,14,malware,contains-embedded-js;html,2025-12-15T19:03:30.762146,success
