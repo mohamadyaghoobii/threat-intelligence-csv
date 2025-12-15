@@ -5354,3 +5354,6 @@ bc7c3a3f2b617a7bec37ae806fad0d53a0763f0b2cc905050a5b93ecc486e3f7,sha256,malwareb
 718d144add29a41cc67656f6880f39bafa3bbf4552e5e72d096ea0a51c3cb0aa,sha256,malwarebazaar,2025-12-15 10:33:13,12,15,malware,text;long-sleeps,2025-12-15T10:33:13.204711,success
 66cc777e529024aec7a2bf3fe5c9c78e348a1874a4dc15bfb3b3c19f74159d9b,sha256,malwarebazaar,2025-12-15 10:33:30,38,50,malware,checks-bios;clipboard;peexe;spreader;detect-debug-environment,2025-12-15T10:33:30.727761,success
 e5f6fd0c891f8165c769bec4d5aa10a2426c074c4a324d1c8b96b06bc7807054,sha256,malwarebazaar,2025-12-15 10:33:39,26,34,malware,spreader;gzip,2025-12-15T10:33:39.612678,success
+9d1f5585211fcaaadac45c80d471bf9f99d706d2c474c1b90c42fb9981b631f2,sha256,malwarebazaar,2025-12-15 11:02:42,24,31,malware,arm;elf;detect-debug-environment,2025-12-15T11:02:42.309837,success
+9655bdc16157405b7b6cac409913972bd10f27930b73667cbd130c96eaa31274,sha256,malwarebazaar,2025-12-15 11:03:17,25,32,malware,elf,2025-12-15T11:03:17.211820,success
+1f984d0ca8c9f8b92d0f34afd449b540206b6634730e2975b309d494bc682e13,sha256,malwarebazaar,2025-12-15 11:03:52,27,35,malware,arm;upx;elf;detect-debug-environment,2025-12-15T11:03:52.436984,success
