@@ -5678,3 +5678,4 @@ b515e68461aabdb4afacf844fea102fe30af418395d06a03a6ebbda5f5b02277,sha256,malwareb
 58a801b67cd12af2712bcadfc9b7f4fd8a5fe98ae1f01a1a92fb2091d3441ab1,sha256,malwarebazaar,2025-12-15 21:32:53,5,6,suspicious,msi;signed;checks-usb-bus;detect-debug-environment,2025-12-15T21:32:53.477458,success
 c1abe0b35bbce86644dfb7a54934d8dfcf27e3d7f637f8394ae9b64b39222b6e,sha256,malwarebazaar,2025-12-15 21:33:02,21,27,malware,assembly;peexe;calls-wmi;checks-memory-available;detect-debug-environment,2025-12-15T21:33:02.383967,success
 3980a7218813dadbaa4bad4aa1e2fe826832747e1c989db910b933afba2c7a88,sha256,malwarebazaar,2025-12-15 21:33:11,1,1,unknown,text,2025-12-15T21:33:11.251341,success
+12affec37ead42f73dd183de74725c5bd3d6621478fe4e0d1b81f1eb46d0c18f,sha256,malwarebazaar,2025-12-15 22:02:46,24,31,malware,elf,2025-12-15T22:02:46.583154,success
