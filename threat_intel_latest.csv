@@ -5108,3 +5108,11 @@ d2c48f4fa4b0285889ef6c7667e12a1c0eda1393632ef2eac67b32777bf096f7,sha256,malwareb
 db0ed0e7a29ace4dd055f704a1d14c35a76f73fa40fb70ac9a03cca44864365b,sha256,malwarebazaar,2025-12-14 23:31:42,7,9,suspicious,overlay;corrupt;peexe;64bits,2025-12-14T23:31:42.328210,success
 f7ca7837683a7514cd991e5a0ab8dc4b1b7542d537284e6a131bf176dc6c08e7,sha256,malwarebazaar,2025-12-14 23:31:51,49,64,malware,assembly;checks-user-input;peexe;detect-debug-environment;long-sleeps,2025-12-14T23:31:51.245343,success
 7ab47b7b14f4d6848b9f4d410d1315ccc68e9a6714d94a2e870b6ba77d28e828,sha256,malwarebazaar,2025-12-14 23:32:00,25,32,malware,macho;service-scan;checks-hostname;64bits,2025-12-14T23:32:00.104962,success
+31c7ba1ae705063552f31e6deca1602468cfa6f93ed33e59b89312bb7dd0d8aa,sha256,malwarebazaar,2025-12-15 00:00:07,29,38,malware,elf;corrupted,2025-12-15T00:00:07.257145,success
+a24a51b3ea4777475bad5ad18c053d99707d85d0e816278e4a27058a919eb224,sha256,malwarebazaar,2025-12-15 00:00:16,29,38,malware,elf,2025-12-15T00:00:16.021162,success
+8599b16eace1c51d44969f51251f725dde69a5a0377f9925a2a86698a25ed0f7,sha256,malwarebazaar,2025-12-15 00:00:25,28,36,malware,shell,2025-12-15T00:00:25.875657,success
+d1cadd89c1cb5ea780456fa9145a47e0965994020ff03ea4f769bfb7a74ead08,sha256,malwarebazaar,2025-12-15 00:00:34,33,43,malware,elf;detect-debug-environment,2025-12-15T00:00:34.640154,success
+51e5d00211eb3a69cd7796e2208a2010aa263ce3490cf19ced71bec279bd303b,sha256,malwarebazaar,2025-12-15 00:00:43,28,36,malware,spreader;elf;upx,2025-12-15T00:00:43.488912,success
+c0fea10495f260c2343db21e874b691b594204773b84d5f50f8083e53810adfb,sha256,malwarebazaar,2025-12-15 00:01:01,46,60,malware,spreader;64bits;pedll,2025-12-15T00:01:01.707934,success
+639e0c6a4c6a4864c73ed5836bc9578cb5272d94d0b133d73b339cfcf8eced5f,sha256,malwarebazaar,2025-12-15 00:01:11,49,64,malware,obfuscated;calls-wmi;detect-debug-environment;long-sleeps;assembly,2025-12-15T00:01:11.187140,success
+945f6ac31b315300cbae764a0d10508ade4aa3f7d7f248d1893bb819cf78c69d,sha256,malwarebazaar,2025-12-15 00:04:16,23,30,malware,arm;elf;detect-debug-environment,2025-12-15T00:04:16.121383,success
