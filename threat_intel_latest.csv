@@ -5700,3 +5700,4 @@ d5583dee83e985c0b6b5556d9efde5b197d68c52d970f13d25f00443231474e8,sha256,malwareb
 7610f8610d4b9d1339b6e470522cff6ac98ed6c3cac5f223d0ffd59b618b12fc,sha256,malwarebazaar,2025-12-15 23:33:05,5,6,suspicious,checks-usb-bus;detect-debug-environment;msi;signed,2025-12-15T23:33:05.413412,success
 9569089d9460ec165d7c01d889e239a16155515867d198e8664e4327d07142b3,sha256,malwarebazaar,2025-12-15 23:33:14,35,46,malware,assembly;calls-wmi;peexe;detect-debug-environment;spreader,2025-12-15T23:33:14.278392,success
 d416bc70ce48f9eeccf93e87d2d05b69866233c07fda1488b44a67b8c5d22699,sha256,malwarebazaar,2025-12-15 23:33:32,9,11,suspicious,peexe;overlay;persistence;signed,2025-12-15T23:33:32.447974,success
+7f842f0c7d6d5c70421cbc0d9a74430932eef8feee20682d050bcd30ab399771,sha256,malwarebazaar,2025-12-16 00:00:52,33,43,malware,elf;arm;sets-process-name;detect-debug-environment;service-scan,2025-12-16T00:00:52.619936,success
