@@ -6037,3 +6037,9 @@ a3ff9e338bd8877bdfb296295994b5237cceb01d1496dab3e4fe571c7fd8ada8,sha256,malwareb
 7e7b9fbc3e8ea0f47980169333e3e2d05b53a803238d02565a0005d8d85647cd,sha256,malwarebazaar,2025-12-16 16:33:17,31,40,malware,run-dll;run-file;create-ole;create-file;environ,2025-12-16T16:33:17.101803,success
 16f89d294182f47f0844762e53503ac9a70b3819f300f890f457f7f60fe3d754,sha256,malwarebazaar,2025-12-16 16:33:25,22,28,malware,powershell;checks-network-adapters;long-sleeps;detect-debug-environment;checks-disk-space,2025-12-16T16:33:25.859280,success
 dd050b981f91e37f130b966b1866c3b8d6902549f76b1c96d205c0d97610d937,sha256,malwarebazaar,2025-12-16 17:03:12,35,46,malware,elf;sets-process-name,2025-12-16T17:03:12.783553,success
+5403ddd6bcf740df0500709101ec06f8af432724c0d7bb49e0bd3119fa29d644,sha256,malwarebazaar,2025-12-16 17:30:07,9,11,suspicious,assembly;pedll,2025-12-16T17:30:07.851943,success
+3351dbb034f88632ef1f1e5b4cede3a5ee7696039a2bb793fb29d117c13e4b22,sha256,malwarebazaar,2025-12-16 17:30:25,30,39,malware,arm;elf;sets-process-name;detect-debug-environment;service-scan,2025-12-16T17:30:25.364980,success
+1a7459f21ffafdad32a74c37bab2c625a1751ad3aadccfc147006177d044f986,sha256,malwarebazaar,2025-12-16 17:30:34,48,63,malware,malware;payload;peexe;checks-user-input;detect-debug-environment,2025-12-16T17:30:34.200641,success
+628b3d1725dd4d33e8e2a4052a3f91603088198c8629d6aa386a868977c49879,sha256,malwarebazaar,2025-12-16 17:30:43,7,9,suspicious,overlay;signed;detect-debug-environment;pedll,2025-12-16T17:30:43.035928,success
+e6ad90bcbdeb7ef46f0bdd2d9a0a94be8a0c15bcb20022dd7433617ea78d785f,sha256,malwarebazaar,2025-12-16 17:30:51,22,28,malware,64bits;themida;overlay;pedll,2025-12-16T17:30:51.771439,success
+411a839a7ed451f987b7b949e09e555cd061dd86967ba502adf1c32e651a809b,sha256,malwarebazaar,2025-12-16 17:31:53,12,15,malware,html;obfuscated;long-sleeps,2025-12-16T17:31:53.573101,success
