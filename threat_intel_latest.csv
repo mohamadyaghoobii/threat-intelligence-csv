@@ -6036,3 +6036,4 @@ dbc2c3848d7b8d6024305318a36b42e67119a508ef3cb198c614f676ad2693d4,sha256,malwareb
 a3ff9e338bd8877bdfb296295994b5237cceb01d1496dab3e4fe571c7fd8ada8,sha256,malwarebazaar,2025-12-16 16:33:08,57,75,malware,peexe;assembly;spreader;payload,2025-12-16T16:33:08.255904,success
 7e7b9fbc3e8ea0f47980169333e3e2d05b53a803238d02565a0005d8d85647cd,sha256,malwarebazaar,2025-12-16 16:33:17,31,40,malware,run-dll;run-file;create-ole;create-file;environ,2025-12-16T16:33:17.101803,success
 16f89d294182f47f0844762e53503ac9a70b3819f300f890f457f7f60fe3d754,sha256,malwarebazaar,2025-12-16 16:33:25,22,28,malware,powershell;checks-network-adapters;long-sleeps;detect-debug-environment;checks-disk-space,2025-12-16T16:33:25.859280,success
+dd050b981f91e37f130b966b1866c3b8d6902549f76b1c96d205c0d97610d937,sha256,malwarebazaar,2025-12-16 17:03:12,35,46,malware,elf;sets-process-name,2025-12-16T17:03:12.783553,success
