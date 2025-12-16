@@ -6061,3 +6061,10 @@ c1fce75dce50f88fe0e2e261b69532964219cf990155cb96d9dec9aa4e6e1e51,sha256,malwareb
 f21809af9cc04144f333ca497e3b1cd5d5431276b9926c50b4c76262ee18783e,sha256,malwarebazaar,2025-12-16 19:03:10,1,1,unknown,detect-debug-environment;calls-wmi;long-sleeps;powershell,2025-12-16T19:03:10.246175,success
 e5a49062122c8c7a05187f50a4ccbf213f2f3b2e8df86806ce3acea7726bbb81,sha256,malwarebazaar,2025-12-16 19:03:19,2,2,unknown,contains-pe;sets-process-name;zip;detect-debug-environment,2025-12-16T19:03:19.881249,success
 3abe326cb2326ed1a57916d322fb951ceadfdd0a88e226e753dc8c9c93adaee0,sha256,malwarebazaar,2025-12-16 19:03:28,32,42,malware,arm;elf;sets-process-name;detect-debug-environment;service-scan,2025-12-16T19:03:28.617820,success
+a179b6b2d2b3d7ae3ec4e1a1e3afd2c043696f9c9f9b80ed20e893744516594d,sha256,malwarebazaar,2025-12-16 19:31:33,28,36,malware,elf,2025-12-16T19:31:33.687171,success
+667669a88a7dc87f0ece2055912e95a0ffa8723087db871cc306b267beeccad0,sha256,malwarebazaar,2025-12-16 19:31:51,29,38,malware,elf,2025-12-16T19:31:51.447842,success
+ffe2acaafd74c1e7306297f3b2b996532226757a5bd7b64c4c242f9ffad72e30,sha256,malwarebazaar,2025-12-16 19:32:17,30,39,malware,arm;elf;sets-process-name;detect-debug-environment;service-scan,2025-12-16T19:32:17.622541,success
+aaea938b8e08a6e79fba4c1e267ca68a9d42a618d1e4253d2de8c1183d2318f0,sha256,malwarebazaar,2025-12-16 19:32:26,29,38,malware,elf,2025-12-16T19:32:26.325151,success
+91026f32f2fd4e66fb1a49260a4d6589e7ad1496f166b5f1d75da71e3c2f705a,sha256,malwarebazaar,2025-12-16 19:33:01,30,39,malware,elf;arm;sets-process-name;detect-debug-environment;service-scan,2025-12-16T19:33:01.510601,success
+61b5d23f69ced0009d9e4ae80247f49a67879d10e2d97bbb49d89f1da53947f5,sha256,malwarebazaar,2025-12-16 19:33:10,32,42,malware,elf;arm;sets-process-name;detect-debug-environment;service-scan,2025-12-16T19:33:10.313027,success
+485c72adfc4641b73adde7c3e9c998cedb18871710aeadfe561eb7625cb6dece,sha256,malwarebazaar,2025-12-16 19:33:27,33,43,malware,peexe;payload;spreader;64bits,2025-12-16T19:33:27.956102,success
