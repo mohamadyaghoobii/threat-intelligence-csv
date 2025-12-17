@@ -6306,3 +6306,10 @@ aa7009c496e5dcd5070705aa45a6aeb5b0c956a04abb253437f1c73c364db308,sha256,malwareb
 8eba3494e583f80bca8e3cc08d15a9dba534b6991ecd94f80b44087f9c6fff28,sha256,malwarebazaar,2025-12-17 16:30:53,24,32,malware,elf;sets-process-name,2025-12-17T16:30:53.113050,success
 2cf9f130e65e3235c13250772a9682e4ee352e0ff4f1342f71c46a0224783e83,sha256,malwarebazaar,2025-12-17 16:31:01,39,52,malware,64bits;elf;detect-debug-environment;spreader;sets-process-name,2025-12-17T16:31:01.977481,success
 4af85457e49b8521328bf1cc0f9c53cad89b453f45382108fe55b805618ba1c5,sha256,malwarebazaar,2025-12-17 16:31:20,10,13,malware,checks-usb-bus;detect-debug-environment;msi,2025-12-17T16:31:20.255664,success
+3fb59b7657edcf0b5e2ebb865c8aafe6537246c4d2cf948b1227ba2bb913487d,sha256,malwarebazaar,2025-12-17 17:30:17,9,12,suspicious,checks-usb-bus;msi,2025-12-17T17:30:17.269497,success
+45f93ac0b19e3404dd4b9141173bb6d399b2a07087748d85791f3ff09595f805,sha256,malwarebazaar,2025-12-17 17:30:26,8,10,suspicious,detect-debug-environment;long-sleeps;url-pattern;write-file;checks-user-input,2025-12-17T17:30:26.042620,success
+a2244173724a0dee07c7e325527728ac850316032f7b87bab1583de1fac50037,sha256,malwarebazaar,2025-12-17 17:30:34,6,8,suspicious,exploit;rar;cve-2025-8088;cve-2025-6218,2025-12-17T17:30:34.818911,success
+8b2f98fb98fc244ac31b17f4de913320e72e30154f9e521de4ff131b1092c14b,sha256,malwarebazaar,2025-12-17 17:30:43,1,1,unknown,64bits;elf;arm;detect-debug-environment,2025-12-17T17:30:43.578445,success
+6a57035160b0a2adfef6ee692928e6fe626a370c625fd75e1f844407ef272632,sha256,malwarebazaar,2025-12-17 17:30:52,0,0,unknown,64bits;elf;payload,2025-12-17T17:30:52.313672,success
+9f4f88bda70c073f663c0a000f6092bcdb4818349123e217a1f8e4b7e1ac5810,sha256,malwarebazaar,2025-12-17 17:31:01,3,4,unknown,64bits;upx;elf,2025-12-17T17:31:01.049497,success
+c258bc3b4e7828735830dfa3004facc7a6612eecc2ab5dfb2d16c7bda65b0a1f,sha256,malwarebazaar,2025-12-17 17:31:18,48,64,malware,detect-debug-environment;overlay;peexe;long-sleeps;malware,2025-12-17T17:31:18.706508,success
