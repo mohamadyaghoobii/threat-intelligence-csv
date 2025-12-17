@@ -6201,3 +6201,14 @@ faeeabf20b1307f2b790bad95755fb3478006f3f654ea4d12a3ebb86c4dda31f,sha256,malwareb
 3633884d1de43a6d1cd4808f6c2bf4d3e419ca8aaee97a438c678bda3412c699,sha256,malwarebazaar,2025-12-17 08:31:18,3,3,unknown,android;apk;contains-elf;reflection;runtime-modules,2025-12-17T08:31:18.430795,success
 bc117f681d081390e7ff161b1b9b1ae8b1b7b7822a64476d39f0b1e4acdcf9c2,sha256,malwarebazaar,2025-12-17 08:31:27,22,28,malware,detect-debug-environment;peexe;64bits,2025-12-17T08:31:27.174719,success
 f3f3976190b025517f090dd9c616f22506381e0afa6dccfb0b17b9a0572bf150,sha256,malwarebazaar,2025-12-17 08:31:44,7,9,suspicious,telephony;contains-elf;android;obfuscated;runtime-modules,2025-12-17T08:31:44.789621,success
+b7d832a0f8ee1bf0d18ae6f9ded860df0d88cc98de15dcfb231e0c6d6152bbeb,sha256,malwarebazaar,2025-12-17 09:30:05,38,50,malware,peexe;64bits;executes-dropped-file;spreader,2025-12-17T09:30:05.990287,success
+f40194bde902c666865288ff0ad0c00013a19936f19524c44e1fb8dc59836206,sha256,malwarebazaar,2025-12-17 09:30:14,44,57,malware,peexe;malware,2025-12-17T09:30:14.814888,success
+40ed4c2dcb5ed32a4c46657b9e8b9379c51158be81c398827d4c0a833cafcf9d,sha256,malwarebazaar,2025-12-17 09:30:23,32,42,malware,detect-debug-environment;rar;long-sleeps,2025-12-17T09:30:23.570556,success
+936ae6747220ed0035c8c4093c2ecbf301b49f0cfe8c7578d09f1a56607b632a,sha256,malwarebazaar,2025-12-17 09:30:32,3,3,unknown,elf,2025-12-17T09:30:32.358279,success
+db441a08161752aff9151b92c0c41c6db20da960a23f5e019e31f4059a920090,sha256,malwarebazaar,2025-12-17 09:30:41,11,14,malware,peexe;assembly;executes-dropped-file;cve-2014-6345;exploit,2025-12-17T09:30:41.375589,success
+ce489dbc5ecb376acb4784f93631a9c5f6dfa4bf096c84ed29aeefd480a5d487,sha256,malwarebazaar,2025-12-17 09:30:50,21,27,malware,detect-debug-environment;contains-pe;long-sleeps;zip,2025-12-17T09:30:50.112952,success
+5af35092dfe5bbf9aa9a2033156ae8c0a72365ab967413e0f841dfef98293360,sha256,malwarebazaar,2025-12-17 09:30:59,5,6,suspicious,rar,2025-12-17T09:30:59.044657,success
+c029bd68aa2b1a11faba10175901ea3a40db4b33e2ab9e3ad523ce398bbf9345,sha256,malwarebazaar,2025-12-17 09:31:08,12,15,malware,text,2025-12-17T09:31:08.250693,success
+9a795745c38473772fd0af1433fff9b84c430314601f048a0de43959666a67f2,sha256,malwarebazaar,2025-12-17 09:31:17,10,13,malware,rar,2025-12-17T09:31:17.240455,success
+80c55b318bf7eae5c932b64ed8e65882c2de40d41839710270ec30b32838a31a,sha256,malwarebazaar,2025-12-17 09:31:26,23,30,malware,spreader;peexe;assembly,2025-12-17T09:31:26.048777,success
+d75ed6e4f4786d5e514ec53278826067c9036e83d89ade6ca9e906f93effdf9b,sha256,malwarebazaar,2025-12-17 09:31:35,35,46,malware,elf;spreader,2025-12-17T09:31:35.138833,success
