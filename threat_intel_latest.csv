@@ -6364,3 +6364,5 @@ dd99c676c3e4c1d1d3c4a6435888c987b19f83ca17d2dda283ac25f0760a8300,sha256,malwareb
 4e2c0b4c8c2b27070d8290ab9edceb545ac0b7925306124ec2cc6cc9bddf833e,sha256,malwarebazaar,2025-12-17 20:33:14,24,32,malware,elf,2025-12-17T20:33:14.948087,success
 253e8082a7dc04456718a612a293e458949bdc561127fef7673216db2b22b1bc,sha256,malwarebazaar,2025-12-17 20:33:32,10,13,malware,calls-wmi;detect-debug-environment;macro-create-ole;macro-powershell;vba,2025-12-17T20:33:32.428151,success
 f911a5130f9608781db253c2686e1a133c01cd76295ec55404517062e5fde5a9,sha256,malwarebazaar,2025-12-17 21:02:11,11,14,malware,detect-debug-environment;obfuscated;long-sleeps;vba;macro-powershell,2025-12-17T21:02:11.208647,success
+80b58c0755f836525d933ab9100ec5a22de371c32ac6d0932ee80b4ce9138f0e,sha256,malwarebazaar,2025-12-17 21:31:24,25,33,malware,elf;arm;sets-process-name;detect-debug-environment;service-scan,2025-12-17T21:31:24.901493,success
+2390425e802f528531bd72d05ffbd96a8205955887aa91ceac334fd995540cb6,sha256,malwarebazaar,2025-12-17 21:31:33,49,65,malware,calls-wmi;malware;assembly;detect-debug-environment;peexe,2025-12-17T21:31:33.744213,success
