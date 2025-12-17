@@ -6180,3 +6180,6 @@ a0b90bc23e17bccc7dae01aafbe9081749ba33a02ad4a5e12c0eaa68f1ff8a67,sha256,malwareb
 2e027f0f14977c903c68335aa8f25e3a6ff8f9163f8947c07749bef3819653be,sha256,malwarebazaar,2025-12-17 03:04:07,32,42,malware,elf;spreader,2025-12-17T03:04:07.470648,success
 bde90775fa76800cedcba621f145d65840005647e3c3bbfe3b83d15e36eccd85,sha256,malwarebazaar,2025-12-17 03:30:06,60,78,malware,overlay;pedll;malware;trojan;detect-debug-environment,2025-12-17T03:30:06.986513,success
 90e8b7e31fd00f3209ed27b8eb5f74ac9b0b29aa9eeacc116518c9912ab11378,sha256,malwarebazaar,2025-12-17 03:30:15,24,31,malware,overlay;invalid-signature;peexe;signed,2025-12-17T03:30:15.704043,success
+a14c78f5a3627644ab5fb6ea5579af5a51b9684bfdcb0f81e6a56714c2f1d065,sha256,malwarebazaar,2025-12-17 04:30:09,36,47,malware,payload;peexe,2025-12-17T04:30:09.850840,success
+80b9765d99ff6b8beb6eda2f1bc500279988ee156f850c30fd133b6848702be0,sha256,malwarebazaar,2025-12-17 04:30:18,33,43,malware,upx;persistence;peexe;checks-user-input;calls-wmi,2025-12-17T04:30:18.669165,success
+54407209bda2ef7d39284a69b32942c69aa18971c1515981235e1dd7e354d085,sha256,malwarebazaar,2025-12-17 04:30:27,8,10,suspicious,64bits;checks-usb-bus;peexe,2025-12-17T04:30:27.409556,success
