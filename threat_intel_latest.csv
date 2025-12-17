@@ -6293,3 +6293,9 @@ c04f3c0c359057740a11e3893df15102fd05a8699b8781311e0e8ebb153c25e6,sha256,malwareb
 efb7f62ea75348ad21434728ad59b7a98d709bf56b00e590a7df744482ecfbca,sha256,malwarebazaar,2025-12-17 15:03:57,43,57,malware,upx;peexe;spreader;calls-wmi;checks-user-input,2025-12-17T15:03:57.428696,success
 5389f1f82cf76d2cab9ed97ccd1e09d6d3edebc50096342a0a40d206df05266e,sha256,malwarebazaar,2025-12-17 15:04:06,24,32,malware,elf,2025-12-17T15:04:06.343417,success
 d9161d71949cef9c273832cbc4d8cf39022d3c361d6d0b261ae192760fde9c9a,sha256,malwarebazaar,2025-12-17 15:04:15,16,21,malware,zip;detect-debug-environment;long-sleeps,2025-12-17T15:04:15.091060,success
+c212994e2748acfb73d56a113bb0be5817d72f2bd507a00ca47f42ec33235980,sha256,malwarebazaar,2025-12-17 15:30:06,14,18,malware,msi;detect-debug-environment;checks-usb-bus,2025-12-17T15:30:06.274847,success
+36cfb6a6e89a192a57ce0f4abfa155f19e6559cb0213097a19715bb80d255537,sha256,malwarebazaar,2025-12-17 15:30:15,2,2,unknown,signed;detect-debug-environment;msi;checks-usb-bus,2025-12-17T15:30:15.082468,success
+3045a48aed11d76baad7434e5ceda053a3e18440afb76e5925d491bba0b88bc4,sha256,malwarebazaar,2025-12-17 15:30:32,35,46,malware,pedll;spreader;signed;64bits;long-sleeps,2025-12-17T15:30:32.434301,success
+adbd29511f149301dbf97c6c6acb924e850c1a0383a7b4a391bf6b75ef979ffa,sha256,malwarebazaar,2025-12-17 15:30:41,5,6,suspicious,msi;checks-usb-bus,2025-12-17T15:30:41.171922,success
+19ddbbfe9cedfb4ef9284921da4b63d1d058ea20a30c57b1f9c453edbb18c0ca,sha256,malwarebazaar,2025-12-17 15:30:49,23,30,malware,elf,2025-12-17T15:30:49.918905,success
+fb0cd7a03fb6ff42a5e5946af416b4c6fcc30551f8df0c27abad30165d99047d,sha256,malwarebazaar,2025-12-17 15:32:20,22,29,malware,elf;sets-process-name;detect-debug-environment,2025-12-17T15:32:20.005879,success
