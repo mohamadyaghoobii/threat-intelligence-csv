@@ -6175,3 +6175,6 @@ bec3f34c7cf5993469bb44bf8fbb00d76779a326f53f217f7c1df27569e6be92,sha256,malwareb
 1cb51eeeaeededbf376dd97bd158ac2002632278cac14ef34064c80a2c834b6e,sha256,malwarebazaar,2025-12-17 02:33:08,35,46,malware,elf;upx,2025-12-17T02:33:08.717995,success
 165e9ae4a6cb930e7560a3e88063642a1e5c356cbd6be7d6545ab1d50f7c1a0b,sha256,malwarebazaar,2025-12-17 02:33:17,41,53,malware,elf;sets-process-name;detect-debug-environment,2025-12-17T02:33:17.705571,success
 8bcd2d9acbc9d9e2ee473e393a68791934fd45d610d7ef56fb68993c6ed1f0e3,sha256,malwarebazaar,2025-12-17 02:33:52,34,44,malware,arm;elf;sets-process-name;detect-debug-environment;service-scan,2025-12-17T02:33:52.535045,success
+a0b90bc23e17bccc7dae01aafbe9081749ba33a02ad4a5e12c0eaa68f1ff8a67,sha256,malwarebazaar,2025-12-17 03:02:22,29,38,malware,elf,2025-12-17T03:02:22.233589,success
+479bf8edc5c04cf23d5721b7bbb4a31830a557d37546ae5440a711217e7337c6,sha256,malwarebazaar,2025-12-17 03:03:40,33,43,malware,arm;elf;sets-process-name;detect-debug-environment;service-scan,2025-12-17T03:03:40.827881,success
+2e027f0f14977c903c68335aa8f25e3a6ff8f9163f8947c07749bef3819653be,sha256,malwarebazaar,2025-12-17 03:04:07,32,42,malware,elf;spreader,2025-12-17T03:04:07.470648,success
