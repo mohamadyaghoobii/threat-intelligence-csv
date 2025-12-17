@@ -6363,3 +6363,4 @@ dd99c676c3e4c1d1d3c4a6435888c987b19f83ca17d2dda283ac25f0760a8300,sha256,malwareb
 404c3949f90592c9dbebdbf986c2977dac82aee52c8725d43f7184601666652f,sha256,malwarebazaar,2025-12-17 20:32:48,11,14,malware,xorcrypt;zip;contains-pe;malware;detect-debug-environment,2025-12-17T20:32:48.715869,success
 4e2c0b4c8c2b27070d8290ab9edceb545ac0b7925306124ec2cc6cc9bddf833e,sha256,malwarebazaar,2025-12-17 20:33:14,24,32,malware,elf,2025-12-17T20:33:14.948087,success
 253e8082a7dc04456718a612a293e458949bdc561127fef7673216db2b22b1bc,sha256,malwarebazaar,2025-12-17 20:33:32,10,13,malware,calls-wmi;detect-debug-environment;macro-create-ole;macro-powershell;vba,2025-12-17T20:33:32.428151,success
+f911a5130f9608781db253c2686e1a133c01cd76295ec55404517062e5fde5a9,sha256,malwarebazaar,2025-12-17 21:02:11,11,14,malware,detect-debug-environment;obfuscated;long-sleeps;vba;macro-powershell,2025-12-17T21:02:11.208647,success
