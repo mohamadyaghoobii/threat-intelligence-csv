@@ -6623,3 +6623,11 @@ ec831b1de5e2d9c38a3ebd096ef9af1425abc2a866cb042a31600d98c64b5740,sha256,malwareb
 fd0908d341a2784ad4bef7522e1cba635ed6c0397c5b67276b19ca972dea5b60,sha256,malwarebazaar,2025-12-18 16:30:08,19,25,malware,peexe;calls-wmi;detect-debug-environment;long-sleeps;64bits,2025-12-18T16:30:08.510928,success
 3102223607ff33eafa0ad3c714ae0d0e3c3f4670659864dfbf8d2d0d4fb8cdd3,sha256,malwarebazaar,2025-12-18 16:30:17,16,21,malware,overlay;64bits;peexe;executes-dropped-file,2025-12-18T16:30:17.319313,success
 9704bf2565bf56fa37fb80fde33d3a30b2845408b174c17a7bc82201913be6ab,sha256,malwarebazaar,2025-12-18 17:04:26,42,56,malware,arm;elf;self-delete;detect-debug-environment,2025-12-18T17:04:26.382146,success
+4a88da26e5a11f1d90e7061472daf5bfe8ebcc2322416633200ec5b5007095bc,sha256,malwarebazaar,2025-12-18 17:30:14,29,38,malware,checks-cpu-name;persistence;long-sleeps;detect-debug-environment;invalid-signature,2025-12-18T17:30:14.735475,success
+443c84ae78710635e67314f056d4b9d03feb7ba9299f607501ee4e6afeabf902,sha256,malwarebazaar,2025-12-18 17:30:23,10,13,malware,invalid-signature;signed;peexe;overlay;64bits,2025-12-18T17:30:23.410691,success
+bcbab17266fcbc791ff931e8af5b6c659192bce6c45ed3b045d9b341f5c590a2,sha256,malwarebazaar,2025-12-18 17:30:32,21,27,malware,spreader;64bits;pedll;signed;invalid-signature,2025-12-18T17:30:32.186779,success
+51eb3631da5705e9f250bf1b57177963ffeedf2e2d56a99ddafe7181ad28a4df,sha256,malwarebazaar,2025-12-18 17:30:40,46,60,malware,assembly;peexe;calls-wmi;malware;detect-debug-environment,2025-12-18T17:30:40.927207,success
+10183a5473a22d1ddd8fa4e3d196604534581d5bc0fe38349331fc44892b9497,sha256,malwarebazaar,2025-12-18 17:30:49,49,64,malware,peexe;64bits;idle,2025-12-18T17:30:49.901365,success
+8f73e814ebe964497fc34f7395b1022a732b5a22dcfcb741fe22fd2a24f93971,sha256,malwarebazaar,2025-12-18 17:30:59,16,21,malware,zip;contains-pe,2025-12-18T17:30:59.015168,success
+23d149cde5c26c3038ae300de14e7a3b14edadfa57df2b1027a415b82a19117f,sha256,malwarebazaar,2025-12-18 17:31:07,22,28,malware,peexe;bobsoft;spreader;malware,2025-12-18T17:31:07.785596,success
+54923ea8ca61cd3ed1c8debdf9254799d93603fc23c34553d893812897d22340,sha256,malwarebazaar,2025-12-18 17:31:16,17,22,malware,malware;peexe;64bits;detect-debug-environment,2025-12-18T17:31:16.703703,success
