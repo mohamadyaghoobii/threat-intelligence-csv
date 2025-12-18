@@ -6442,3 +6442,7 @@ fbe3a6c52c6e77be2999464e3c74c206cf20f6f077c919caf74a5c966ab5e0ab,sha256,malwareb
 e56b0301292cb870d1d11ba697e19b3ca6808a480ca005ee4351947eadf600e5,sha256,malwarebazaar,2025-12-18 02:33:53,36,48,malware,elf;spreader,2025-12-18T02:33:53.488197,success
 0f587df60a5f86c7d2905b958a2af6a5440bb4e51f5e9e65585e1c51588ecf6d,sha256,malwarebazaar,2025-12-18 02:34:02,2,2,unknown,long-sleeps;shell;checks-cpu-name;sets-process-name;persistence,2025-12-18T02:34:02.319972,success
 624c19c03e5e9bfdef482f1c28d01d011f421733710ae603f048ebc629608dfc,sha256,malwarebazaar,2025-12-18 02:34:11,33,44,malware,elf;spreader,2025-12-18T02:34:11.060650,success
+ec37ed56c471f97e75edff825b981f68a7eef6528e46de88654dd3fce1cb550b,sha256,malwarebazaar,2025-12-18 03:03:01,12,16,malware,msi;checks-usb-bus,2025-12-18T03:03:01.567122,success
+85e820c56acd10a63589c956ac80b187e1519a5ce248684656763150c044a27e,sha256,malwarebazaar,2025-12-18 03:03:10,27,36,malware,sets-process-name;arm;elf;detect-debug-environment,2025-12-18T03:03:10.346444,success
+8084d2a98a8a09aa1cc54171abd670623687ce3263160668cf54a606cc5f7e8c,sha256,malwarebazaar,2025-12-18 03:04:04,25,33,malware,elf;sets-process-name,2025-12-18T03:04:04.052965,success
+47f111bff8f14e9e9bd19dfbec0ea2a2ebc6e313958c983ef6db7ab8147cafe3,sha256,malwarebazaar,2025-12-18 03:04:21,40,53,malware,checks-cpu-name;spreader;persistence;64bits;long-sleeps,2025-12-18T03:04:21.567862,success
