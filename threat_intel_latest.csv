@@ -6528,3 +6528,4 @@ a26f590d5d4083ff08c6fdddaf12a61a35cc84272b6560b0ce480539bb4eec28,sha256,malwareb
 378afc8d85ca9a0e482c422fc63c11bbdf07f20a8f0d2a93bcf13baabb021d48,sha256,malwarebazaar,2025-12-18 10:33:18,52,68,malware,peexe;detect-debug-environment;long-sleeps,2025-12-18T10:33:18.490771,success
 122789db14d04b78b14c224259ab48f0489e98aa5255fd5bd6dff5c0be241b2f,sha256,malwarebazaar,2025-12-18 10:33:27,55,72,malware,64bits;peexe;spreader;detect-debug-environment;long-sleeps,2025-12-18T10:33:27.314934,success
 0b8af99acc6ea0b0b25c7cec0e0403836975c93e2153213cb74b2e823d9aaaf8,sha256,malwarebazaar,2025-12-18 10:33:36,28,36,malware,peexe;64bits;spreader;executes-dropped-file,2025-12-18T10:33:36.028395,success
+960b26f5508297da201b0e19bee746f44a052a807988cde02275cd35d54312cf,sha256,malwarebazaar,2025-12-18 11:01:02,22,28,malware,elf;arm,2025-12-18T11:01:02.069782,success
