@@ -6388,3 +6388,14 @@ bf724f5f19df9b2fdb0f45a79b6d9a88e8acf02843465ce891c6a4ad6c8d47a6,sha256,malwareb
 f83e3add76ec1497e86676ecd70cbbb8818fb545b1da0b530636592e1ab9c85c,sha256,malwarebazaar,2025-12-18 00:04:10,39,52,malware,corrupted;elf,2025-12-18T00:04:10.316845,success
 f4a2f70c32ba358d9264154e507866beaae66f4f1a196146fc5315accb9f6baa,sha256,malwarebazaar,2025-12-18 00:04:18,40,53,malware,elf;spreader,2025-12-18T00:04:18.998806,success
 782a74958217a6513be00f5244f6b6964e58db3aa31eefc5ce006c31c07a711a,sha256,malwarebazaar,2025-12-18 00:04:27,32,42,malware,elf;detect-debug-environment;spreader;sets-process-name;arm,2025-12-18T00:04:27.902322,success
+50ced153269dd746e69c17e7ac2e3656f029ac8c370e28dbc5e872b0f21e452b,sha256,malwarebazaar,2025-12-18 00:30:15,2,2,unknown,elf,2025-12-18T00:30:15.189449,success
+7d7c344dc9aa570de17e95c027c6b053ac23332ad92dc7fe63cd46cfc9af8df6,sha256,malwarebazaar,2025-12-18 00:30:23,0,0,unknown,64bits;detect-debug-environment;elf;checks-cpu-name,2025-12-18T00:30:23.925730,success
+49d597f824dc68a4f9f404f9e20774ff6a502680849ebbfecf3427ed0cdae5e7,sha256,malwarebazaar,2025-12-18 00:30:41,28,37,malware,detect-debug-environment;signed;invalid-signature;malware;long-sleeps,2025-12-18T00:30:41.562312,success
+951cf36358700207066a5b20601cc5e13c7072fffb400aa34593a56a296ae4a6,sha256,malwarebazaar,2025-12-18 00:30:50,53,70,malware,corrupt;aspack;malware;peexe,2025-12-18T00:30:50.407687,success
+18f8e2ee5bcf5ff764f5fb24b74cbb58f54e85981fc70835a23d0d135843170c,sha256,malwarebazaar,2025-12-18 00:30:59,3,4,unknown,64bits;elf;shared-lib,2025-12-18T00:30:59.095629,success
+8d77ebc10b1064dd934ea085f28c81bb4923ee62cb81da4e9a706deb537f6e60,sha256,malwarebazaar,2025-12-18 00:31:07,28,37,malware,calls-wmi;overlay;checks-bios;peexe;64bits,2025-12-18T00:31:07.911747,success
+5a253b4a1955cbbcddc59556b103a518287e13bbef26cebea84dba6a58158d59,sha256,malwarebazaar,2025-12-18 00:33:46,36,48,malware,elf,2025-12-18T00:33:46.521101,success
+8cd4879abceee6ebd845fb50ca693303450e349514f080c3ffc27d1605ce3d86,sha256,malwarebazaar,2025-12-18 00:33:55,1,1,unknown,checks-cpu-name;persistence;sets-process-name;long-sleeps;detect-debug-environment,2025-12-18T00:33:55.618865,success
+b040c465611828774178b2d40d60460352c21ffb040c0b087935f763a43fc8c7,sha256,malwarebazaar,2025-12-18 00:34:04,36,48,malware,corrupted;elf,2025-12-18T00:34:04.361100,success
+abb348ae0c3394fd6aed0344f2245a8a695217bbffd29e44cf230fa0d93625d9,sha256,malwarebazaar,2025-12-18 00:34:13,40,53,malware,elf,2025-12-18T00:34:13.078601,success
+ee8c004a426483e15a908c8050807e90826107c0de312a72564b3958f255e391,sha256,malwarebazaar,2025-12-18 00:34:21,37,49,malware,elf;spreader,2025-12-18T00:34:21.807864,success
