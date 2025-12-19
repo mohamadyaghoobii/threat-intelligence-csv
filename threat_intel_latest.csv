@@ -6800,3 +6800,4 @@ acc440c4a7c00dd3feb9b7e2a1dd440b765cb6628b571d4a43c3036a539b37b4,sha256,malwareb
 4e1c34e1ed66c662b86b4c37c0a3e847754dfc93e2ef5f388648cf2ecd10a075,sha256,malwarebazaar,2025-12-19 02:33:02,20,26,malware,corrupted;elf,2025-12-19T02:33:02.984814,success
 20647a5746ff42e464884d399f76dd09fa81782ac4d770d4b0cccbebca05c599,sha256,malwarebazaar,2025-12-19 03:04:24,35,46,malware,elf;spreader,2025-12-19T03:04:24.335701,success
 03224277f831034a084fcbcc5def473d113edef62842e5337db2408b6281d501,sha256,malwarebazaar,2025-12-19 03:30:05,45,59,malware,64bits;peexe;malware;checks-cpu-name;detect-debug-environment,2025-12-19T03:30:05.257116,success
+cc6f6e9ed69008189ddbd378fd9abb42e97b9df516a5dde7cd2827c0f168dd3e,sha256,malwarebazaar,2025-12-19 04:30:08,15,19,malware,invalid-signature;64bits;peexe;overlay;signed,2025-12-19T04:30:08.423624,success
