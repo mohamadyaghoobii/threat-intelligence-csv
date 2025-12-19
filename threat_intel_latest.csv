@@ -7032,3 +7032,4 @@ e656e804954b88515342a0a4ceb387c8ddce501a3736a251d8b161342e3ed8b7,sha256,malwareb
 ed95a49a75b82cf84437740c079763b96865da27687a7d8a942896af42620db4,sha256,malwarebazaar,2025-12-19 19:03:07,17,22,malware,elf;arm;upx;detect-debug-environment,2025-12-19T19:03:07.295902,success
 83a6c359a3a79fa80bec38905a9e0240d2bbd24afa850dd5c6aa4d0489f07e98,sha256,malwarebazaar,2025-12-19 19:03:16,24,31,malware,persistence;64bits;detect-debug-environment;overlay;pedll,2025-12-19T19:03:16.173410,success
 451d5a38b1ee4c58dfe164633dbf8a684b9554efe0093491d69484c25e30687f,sha256,malwarebazaar,2025-12-19 19:03:25,36,47,malware,shell;service-scan;checks-hostname;sets-process-name;detect-debug-environment,2025-12-19T19:03:25.241520,success
+24510ff3f801adcdd064322fcfc57805a7349bfa4098da7ced719175be2e26c6,sha256,malwarebazaar,2025-12-19 19:31:16,23,30,malware,payload;elf,2025-12-19T19:31:16.412379,success
