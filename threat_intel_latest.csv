@@ -7000,3 +7000,9 @@ fe4b40891cd274c1e52c68245cb604da1c55cce46163edd9ba3705cebed76ffa,sha256,malwareb
 342859bbd2e4e5aa82befc8dd426475c0d5ec38bef579075cb2da9fb11e1b72d,sha256,malwarebazaar,2025-12-19 16:30:34,14,18,malware,powershell;checks-disk-space;long-sleeps;detect-debug-environment,2025-12-19T16:30:34.731060,success
 8f5c48e5aaf564eb9296a4513ebbe88cfa83770b4831c30661a371c400dd393a,sha256,malwarebazaar,2025-12-19 16:30:43,1,1,unknown,peexe,2025-12-19T16:30:43.812546,success
 e071989778ac25e69209addcac3c95aa734ed23585649a268a75a63f4bb58182,sha256,malwarebazaar,2025-12-19 16:30:52,41,53,malware,overlay;64bits;peexe;detect-debug-environment,2025-12-19T16:30:52.546448,success
+ea188a31b1e6850622b60044aacabbf918e83e1c8b325cacb309c87f6b72a98e,sha256,malwarebazaar,2025-12-19 17:30:05,6,7,suspicious,corrupt;overlay;peexe;64bits,2025-12-19T17:30:05.607317,success
+2a0e1d40de36b9f21f637087454bc63b68cf69ce9550f5ffceb9438330ac43b4,sha256,malwarebazaar,2025-12-19 17:30:14,10,13,malware,64bits;peexe;corrupt;checks-cpu-name;overlay,2025-12-19T17:30:14.810789,success
+d3467757f33f714653fc734b8ef1b4da80837bba7a24af19042e83573e72a01b,sha256,malwarebazaar,2025-12-19 17:30:23,1,1,unknown,64bits;corrupt;peexe,2025-12-19T17:30:23.715118,success
+b88e7575720259ecae4ab92c19b3c593b4c7db12c21d15ead8a5d5f7ec92b271,sha256,malwarebazaar,2025-12-19 17:30:32,22,28,malware,invalid-signature;signed;pedll;overlay;64bits,2025-12-19T17:30:32.437482,success
+34faec23b67107f433c08966cbe29ab34c251b04d8dfb6813a42e01726ba7e0c,sha256,malwarebazaar,2025-12-19 17:30:41,2,2,unknown,corrupt;peexe;64bits,2025-12-19T17:30:41.259904,success
+b238dcd191fc9b84241ff814838e01c3b0e6ee2c350381fb6e6f78c4e1eb20d4,sha256,malwarebazaar,2025-12-19 17:30:50,4,5,unknown,peexe;64bits,2025-12-19T17:30:50.000732,success
