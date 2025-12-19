@@ -6852,3 +6852,11 @@ bdf7479ed9d15ad280dbdec59efcb1c9e122d0db24a7cbe32ea4542e4bd0fcd2,sha256,malwareb
 ade59b13f99e124bb4e5082cdce6ae56e0f6d41167af76cc83a6b08dcab2ace3,sha256,malwarebazaar,2025-12-19 08:34:06,40,52,malware,spreader;elf,2025-12-19T08:34:06.294185,success
 c6ac779294d26d03cfa0008f71d57c8ceadb3b46d9ca347ab53cc0be0493ea27,sha256,malwarebazaar,2025-12-19 08:34:15,32,42,malware,elf;spreader,2025-12-19T08:34:15.017192,success
 f247652f31131dc099cbb208fb49f1eae0206987ce199840c57985498b38314a,sha256,malwarebazaar,2025-12-19 08:34:23,41,53,malware,arm;spreader;elf,2025-12-19T08:34:23.764667,success
+dcd0b084465cf8eccde3b4353127815b2e3d18e644624caf071cec99963568c9,sha256,malwarebazaar,2025-12-19 09:00:06,40,52,malware,corrupted;elf;spreader,2025-12-19T09:00:06.323365,success
+5be960002ffa4d2d4701e96cd17e70571c1601ac43b294ba3d4330c9e29b3876,sha256,malwarebazaar,2025-12-19 09:00:15,40,52,malware,spreader;elf,2025-12-19T09:00:15.261369,success
+16a3429cd156a7cd748b891c8aa3e14466366f9e9cbca013f723735e07ddec78,sha256,malwarebazaar,2025-12-19 09:00:24,40,52,malware,service-scan;detect-debug-environment;spreader;elf;arm,2025-12-19T09:00:24.804987,success
+a5999d02f482d12f23d69c3f3c74668c3698758f0079931105b8c3677ebbc6dc,sha256,malwarebazaar,2025-12-19 09:00:33,41,53,malware,arm;spreader;elf,2025-12-19T09:00:33.623433,success
+acf0c0dd413677431a03e790aab3da094b1a357054ed5505bec0f904f4fab78f,sha256,malwarebazaar,2025-12-19 09:00:42,41,53,malware,elf;detect-debug-environment;service-scan,2025-12-19T09:00:42.823137,success
+d31dcf1b1f18a9e0d56ebf1ca1140438ee8311ea4cd0d2a335b476d71144f265,sha256,malwarebazaar,2025-12-19 09:00:51,41,53,malware,elf;arm;spreader,2025-12-19T09:00:51.947489,success
+cc330539646dd2236211292f682a59f045a9ebaaf0b36ecca8e0fd6ab3f16e81,sha256,malwarebazaar,2025-12-19 09:01:01,10,13,malware,invalid-signature;64bits;signed;peexe;overlay,2025-12-19T09:01:01.007417,success
+633c48ec794472eb428b2e0f3f5efd04cf6b1d961ffbcc3a0df5110b5fba6075,sha256,malwarebazaar,2025-12-19 09:02:46,17,22,malware,shell,2025-12-19T09:02:46.144432,success
