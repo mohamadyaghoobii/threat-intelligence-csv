@@ -7042,3 +7042,4 @@ db8a8dae3d5e99accf0f98a7eb14a09822665bba542a86c0cafd9771d20bd527,sha256,malwareb
 a6f458a42d0b5e7f9d4285f0a95b77bef05458d254b20698622ee6df4415f35a,sha256,malwarebazaar,2025-12-19 20:32:11,1,1,unknown,peexe;detect-debug-environment;64bits;corrupt;calls-wmi,2025-12-19T20:32:11.010240,success
 042366ac5d905e47c2f48e852534b5074937dbc0a2053cea0e0614e55a6a4c9d,sha256,malwarebazaar,2025-12-19 20:32:19,24,31,malware,peexe;spreader;detect-debug-environment;64bits,2025-12-19T20:32:19.842513,success
 c585b81e0285d171fdd99cc9a44e0873c2bbd6778c20307c96d0a5f4fb5e7c89,sha256,malwarebazaar,2025-12-19 20:32:28,36,47,malware,shell;sets-process-name;detect-debug-environment,2025-12-19T20:32:28.676530,success
+28bd8714ee4bf3a45af2c991d2f44e0ea8946306722c2ee67cac40e16d1885cf,sha256,malwarebazaar,2025-12-19 21:31:17,56,73,malware,assembly;peexe;spreader,2025-12-19T21:31:17.340503,success
