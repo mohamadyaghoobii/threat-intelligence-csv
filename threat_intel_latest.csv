@@ -6883,3 +6883,4 @@ fd10992c807133713f87397e461d9ded132a188a6eceb0feae9dbbf4ba72a285,sha256,malwareb
 0bf6e2366b49ba9f1a5cf30d9d5ae0bb713bf891780fbcd1e4ac82db8f2b6ff3,sha256,malwarebazaar,2025-12-19 10:31:17,9,11,suspicious,peexe;64bits;overlay;executes-dropped-file,2025-12-19T10:31:17.601461,success
 53ba47c9dbe3667d6e10f3645ceec4e9b5f5691dc4839078c8ddbf43671a0e2c,sha256,malwarebazaar,2025-12-19 10:31:26,22,28,malware,peexe;calls-wmi;overlay;detect-debug-environment;64bits,2025-12-19T10:31:26.468945,success
 881677965aedcb8fcd1a4b5ab358fe6b59bb728030700adad480cae557430b5f,sha256,malwarebazaar,2025-12-19 10:31:35,22,28,malware,malware;spreader;checks-usb-bus;msi,2025-12-19T10:31:35.285956,success
+775160adbc64c36f489891183aef9c5d2775a3836f93861594379d0a998a0cb0,sha256,malwarebazaar,2025-12-19 11:04:21,19,25,malware,self-delete;sets-process-name;shell;detect-debug-environment,2025-12-19T11:04:21.209692,success
