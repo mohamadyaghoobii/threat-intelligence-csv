@@ -6815,3 +6815,10 @@ fca0b419653c29b2b3c30df673d8810227ed32743035f7f063f005c540a6f45e,sha256,malwareb
 9c033cf8304f0ed83cbba11c153b4fa29d766a90e57b1e8b715b9d25ef05ed76,sha256,malwarebazaar,2025-12-19 06:30:59,22,28,malware,elf;service-scan;64bits;sets-process-name,2025-12-19T06:30:59.693098,success
 6166766749db76eea93a6d50a5247df12fbbae1248ddaf94b525718ee85c375f,sha256,malwarebazaar,2025-12-19 06:31:08,23,30,malware,elf;arm;detect-debug-environment,2025-12-19T06:31:08.485263,success
 de92dcdbf17f8dd86e4ad196a06426bd690e01c68c17618e6e5a3d9d12a70b33,sha256,malwarebazaar,2025-12-19 06:31:26,26,34,malware,elf;64bits;spreader,2025-12-19T06:31:26.003100,success
+55478ba26121a160ac9fa3680c430c1ae64a4f46a3c5d2e24cae99a44a2aecb4,sha256,malwarebazaar,2025-12-19 07:30:06,33,43,malware,sets-process-name;detect-debug-environment;service-scan;checks-hostname;shell,2025-12-19T07:30:06.306892,success
+23ed73ccbf2f48d145d675135afc15e283d841e68d4e0cd023c69d2800539885,sha256,malwarebazaar,2025-12-19 07:30:15,14,18,malware,overlay;peexe;executes-dropped-file;detect-debug-environment;long-sleeps,2025-12-19T07:30:15.227565,success
+d92f59a96c263daac2f309720d0619c2fb473ec9ce21c7b4475941c3f82a8632,sha256,malwarebazaar,2025-12-19 07:30:24,28,36,malware,detect-debug-environment;checks-cpu-name;peexe;64bits;long-sleeps,2025-12-19T07:30:24.078308,success
+dd23d80709df7b574e859681a96355d14042b9c364b0b9f3992745bc02fba181,sha256,malwarebazaar,2025-12-19 07:30:33,8,10,suspicious,self-delete;64bits;elf,2025-12-19T07:30:33.060948,success
+8fa2c6e4d5ecea3384827138712ce48a6a7aa4b2635c2e134742fd87d616315b,sha256,malwarebazaar,2025-12-19 07:30:42,14,18,malware,html;detect-debug-environment,2025-12-19T07:30:42.154243,success
+ecf4965d8a385eea02f5946ac707f88713f8a251d0a6bb3a675c58212040fac8,sha256,malwarebazaar,2025-12-19 07:30:50,13,17,malware,overlay;peexe;executes-dropped-file;detect-debug-environment;long-sleeps,2025-12-19T07:30:50.949103,success
+28a4ef762d15f043b23bfd1e621955e4fd0ab65b6c21b82c985fb5ac4cb9109e,sha256,malwarebazaar,2025-12-19 07:32:11,2,2,unknown,detect-debug-environment;text;long-sleeps,2025-12-19T07:32:11.014638,success
