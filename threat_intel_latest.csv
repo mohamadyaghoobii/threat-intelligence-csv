@@ -7319,3 +7319,10 @@ c000352bf234f177c6448a10b8fe13f2a4fe6b2b675bb2ee088f79021b16b78b,sha256,malwareb
 b09ac54cad07e93d71fc613da775a956500d7223a6bc7a7b77ccf1664d2e5a3e,sha256,malwarebazaar,2025-12-20 19:33:29,24,31,malware,elf;upx,2025-12-20T19:33:29.060904,success
 3cf2e42ad3e749e0947d239557a810f14522b39ae3396d4c26bf06266f5974e9,sha256,malwarebazaar,2025-12-20 20:01:18,27,35,malware,arm;detect-debug-environment;upx;sets-process-name;elf,2025-12-20T20:01:18.271780,success
 f5953e80e5f409c2edf86b10d26b9e5da356cf319dc0ca8cb0e8482ba92c5683,sha256,malwarebazaar,2025-12-20 20:01:27,15,19,malware,upx;arm;elf;detect-debug-environment,2025-12-20T20:01:27.272426,success
+930fd881cec8867db13d789dd138441cdf2df2a05df8804baa93c267b5934940,sha256,malwarebazaar,2025-12-20 20:31:19,16,21,malware,checks-usb-bus;msi;malware;signed,2025-12-20T20:31:19.035648,success
+955355b4318989a7fd1332f99553879f98e842709609218ce18a6af9b1461233,sha256,malwarebazaar,2025-12-20 20:31:27,8,10,suspicious,overlay;signed;malware;executes-dropped-file;long-sleeps,2025-12-20T20:31:27.858345,success
+d018ddb0901c8f1bd062a0a894902e54346e01ad8401cab49de71bd1e9e2fea2,sha256,malwarebazaar,2025-12-20 20:31:36,9,11,suspicious,long-sleeps;overlay;executes-dropped-file;malware;detect-debug-environment,2025-12-20T20:31:36.866705,success
+d9942a6d35dded924026b36301f00829d2cbf05c57904f167a5d53609219dea5,sha256,malwarebazaar,2025-12-20 20:31:45,3,3,unknown,peexe;overlay;calls-wmi,2025-12-20T20:31:45.603739,success
+6f50b97cfaf3b9e36e3b970517cbe56cbb8afc267a30c42985dd36f56f341f37,sha256,malwarebazaar,2025-12-20 20:31:54,14,18,malware,detect-debug-environment;peexe;64bits,2025-12-20T20:31:54.279754,success
+5379e5da6c6eae2eab376717f13ec203dea2307167bbe32fbd2156deabf1d356,sha256,malwarebazaar,2025-12-20 20:32:03,23,30,malware,shell;detect-debug-environment;checks-hostname,2025-12-20T20:32:03.044989,success
+684ea3832261520e77302d3a844d33e18b1c5fb0ec01d7497a52919e41854b4f,sha256,malwarebazaar,2025-12-20 20:32:11,18,23,malware,upx;elf;arm;sets-process-name;detect-debug-environment,2025-12-20T20:32:11.796542,success
