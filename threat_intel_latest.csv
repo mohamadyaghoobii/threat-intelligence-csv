@@ -7070,3 +7070,7 @@ a7a1ac9acfddee4802354baf4f04cfb64c377194b6efcd72301a847b050566ba,sha256,malwareb
 36c1f3654cff0f52dbf25a437622ade0b2be6c6176f6b793fa5cf53d0802c335,sha256,malwarebazaar,2025-12-20 00:01:27,52,68,malware,trojan;malware;payload;peexe,2025-12-20T00:01:27.374221,success
 dc5ef9711ba36969a58a05388e39a530804bdf919f5bf85d5972e58562fbd598,sha256,malwarebazaar,2025-12-20 00:01:36,6,7,suspicious,elf;arm;detect-debug-environment;self-delete,2025-12-20T00:01:36.367346,success
 30496f3cae78dae238ac5e7a4512f119ea29f835531775ff92d7c8b74a26295c,sha256,malwarebazaar,2025-12-20 00:02:02,2,2,unknown,overlay;peexe;invalid-signature;long-sleeps;64bits,2025-12-20T00:02:02.826094,success
+0f16593a11aa14112ef436893864a1fe91a58c42a85d2d65a276eb10035d5512,sha256,malwarebazaar,2025-12-20 00:30:32,62,81,malware,assembly;peexe;payload,2025-12-20T00:30:32.309831,success
+627b12a9c3d031b3b42c47e87a099ef9b6c7e167f1de7b22d5e71e39512a6889,sha256,malwarebazaar,2025-12-20 00:30:41,9,11,suspicious,elf;64bits;arm;detect-debug-environment,2025-12-20T00:30:41.022048,success
+62e5dd1bbb94acc488302add66fa55d4bfbbf04cd811b00bdac71e1ec917b9e4,sha256,malwarebazaar,2025-12-20 00:31:16,8,10,suspicious,elf;64bits;detect-debug-environment,2025-12-20T00:31:16.771556,success
+4e35888cf9a697a2a06ee306160c8a19d2b9ac1f9cf459e8b525fbc051097c41,sha256,malwarebazaar,2025-12-20 00:32:09,26,34,malware,elf;arm;detect-debug-environment,2025-12-20T00:32:09.169013,success
