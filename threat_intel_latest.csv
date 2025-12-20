@@ -7132,3 +7132,4 @@ ee69d2f047fb8bd98d96d1ff4fb41f5dbea8aa91d81b60819542c8de7eb80a62,sha256,malwareb
 395006c72090f8f0313cef21dc9c104d5176f7d837a3e21cca99016fe705c538,sha256,malwarebazaar,2025-12-20 08:30:42,21,27,malware,arm;elf;upx;detect-debug-environment,2025-12-20T08:30:42.194019,success
 16fbcffc53a4f39b8b9491e00fc5c7e46c89deff564d5d44b5a8e18535c3a02e,sha256,malwarebazaar,2025-12-20 08:30:51,33,43,malware,shell;sets-process-name;detect-debug-environment;self-delete;cve-2006-3869,2025-12-20T08:30:51.007571,success
 344e90b4b35bbdefefd49f2be7ee087bc54b30029c1f6a336abfab7ddd703fbf,sha256,malwarebazaar,2025-12-20 08:33:02,31,40,malware,exploit;elf;cve-2017-17215,2025-12-20T08:33:02.480615,success
+60b5b171e979d2079cff3e47bee2fe990a7650e6c0eeffeaee72208adbb4cb69,sha256,malwarebazaar,2025-12-20 09:30:05,32,42,malware,spreader;elf,2025-12-20T09:30:05.994783,success
