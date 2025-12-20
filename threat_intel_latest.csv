@@ -7293,3 +7293,10 @@ fe42c0e128ed02574179e239ec54ac6b3979c77912af2c287c79cf7cdad837d9,sha256,malwareb
 5de1f5d0c7480b77ede252a5c31db9d10ebaf2e9f87d5b8bb872d772ce32d692,sha256,malwarebazaar,2025-12-20 17:33:37,24,31,malware,upx;elf,2025-12-20T17:33:37.827778,success
 020b5d89315667708d7d91af70bbc3bdbbf9a2abc19282644def144a7c54d538,sha256,malwarebazaar,2025-12-20 17:33:46,23,30,malware,upx;elf,2025-12-20T17:33:46.579586,success
 06ddb288650b2e578ee649cae738710dd7238fdae4df75a8d68ee70fcf0807d8,sha256,malwarebazaar,2025-12-20 17:33:55,39,51,malware,peexe;long-sleeps;persistence;detect-debug-environment;64bits,2025-12-20T17:33:55.414532,success
+7e370c8d16a920984f55456dad8b8dc94ab441fcc0de9e8534d33842876b8cdc,sha256,malwarebazaar,2025-12-20 18:30:05,7,9,suspicious,run-dll;obfuscated;write-file;run-file;detect-debug-environment,2025-12-20T18:30:05.986563,success
+916746c949b22bf302f611e2309f1bc6296b42f6687826dade74edb37c11e769,sha256,malwarebazaar,2025-12-20 18:30:14,1,1,unknown,shared-lib;payload;64bits;elf,2025-12-20T18:30:14.729936,success
+0521d57d084530fec9359fd3b2a07dd784f04c5367b8d94e20019e535c37dd5b,sha256,malwarebazaar,2025-12-20 18:30:23,0,0,unknown,shared-lib;64bits;upx;sets-process-name;elf,2025-12-20T18:30:23.620241,success
+4646218a45f88177a9d221680deaf9cfbb876a092494a8aafc4a61bbcfd0123e,sha256,malwarebazaar,2025-12-20 18:30:32,1,1,unknown,persistence;sets-process-name;detect-debug-environment;shell;service-scan,2025-12-20T18:30:32.436833,success
+b5d7ad2514e1a8ddd0dd6f4339dda8a4fa7eed5d923026029b025f750c6dec68,sha256,malwarebazaar,2025-12-20 18:30:41,17,22,malware,peexe;calls-wmi;detect-debug-environment;64bits;long-sleeps,2025-12-20T18:30:41.499993,success
+4f039c90a185cf2b4e09111403b53acc3977877cb0c0da4ff115bf7add684b50,sha256,malwarebazaar,2025-12-20 18:30:51,23,30,malware,javascript;detect-debug-environment;long-sleeps;obfuscated,2025-12-20T18:30:51.207269,success
+9bf8c65d3c4ec875ffcc169900f21a5eeb2bacb22c9bd6c5c8f27e02839209e6,sha256,malwarebazaar,2025-12-20 18:30:59,24,31,malware,rar,2025-12-20T18:30:59.937956,success
