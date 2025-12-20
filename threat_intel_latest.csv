@@ -7075,3 +7075,5 @@ dc5ef9711ba36969a58a05388e39a530804bdf919f5bf85d5972e58562fbd598,sha256,malwareb
 62e5dd1bbb94acc488302add66fa55d4bfbbf04cd811b00bdac71e1ec917b9e4,sha256,malwarebazaar,2025-12-20 00:31:16,8,10,suspicious,elf;64bits;detect-debug-environment,2025-12-20T00:31:16.771556,success
 4e35888cf9a697a2a06ee306160c8a19d2b9ac1f9cf459e8b525fbc051097c41,sha256,malwarebazaar,2025-12-20 00:32:09,26,34,malware,elf;arm;detect-debug-environment,2025-12-20T00:32:09.169013,success
 9b53b1602ab093243bbbbcb4158736d53bd63daa5b6d141a3a12b17eb8e4de7f,sha256,malwarebazaar,2025-12-20 01:01:35,23,30,malware,elf;64bits,2025-12-20T01:01:35.747830,success
+4b300071c641431d957ff346721775a0790856d5dec8f9310d92d7a732908c9c,sha256,malwarebazaar,2025-12-20 01:30:51,7,9,suspicious,elf;arm;detect-debug-environment,2025-12-20T01:30:51.168637,success
+ee3b6aaa1edecd0ed27bcd9ab835ca41735c85263fc8219cc2a9c62f66cad920,sha256,malwarebazaar,2025-12-20 01:30:59,7,9,suspicious,shell;detect-debug-environment;persistence;sudo;checks-cpu-name,2025-12-20T01:30:59.937717,success
