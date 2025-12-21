@@ -7429,3 +7429,4 @@ c470d8cc4dc48b026dfad38b265ef3f8997795dcedfa217f799794b72d10e24e,sha256,malwareb
 200c8b2de1f1b6634f4e8150c87354912636cd847c5534f645b98dc08fe4f54a,sha256,malwarebazaar,2025-12-21 07:33:28,5,6,suspicious,peexe;64bits,2025-12-21T07:33:28.976214,success
 5e5ee3d24153feed686619e1979afc5fcfe82f94a43c62b197ed0644ffd31675,sha256,malwarebazaar,2025-12-21 07:33:37,17,22,malware,telephony;encrypted;checks-gps;reflection;apk,2025-12-21T07:33:37.709985,success
 cca270a8d72c90da8d4cc60a8d97c681635fc7169e08401292c4983496e66839,sha256,malwarebazaar,2025-12-21 07:33:55,0,0,unknown,arm;shared-lib;detect-debug-environment;elf;64bits,2025-12-21T07:33:55.412135,success
+3b06ba44b952ae6694cf3efdd745e5a853a42df9636d2706f6998b1cc4b75533,sha256,malwarebazaar,2025-12-21 08:03:54,3,3,unknown,environ;run-file;enum-windows;powershell;exe-pattern,2025-12-21T08:03:54.604297,success
