@@ -7435,3 +7435,9 @@ cca270a8d72c90da8d4cc60a8d97c681635fc7169e08401292c4983496e66839,sha256,malwareb
 9b2a851f233972d421481a79d7be7ac7ee45288b0599ecdb62a6a6f203f44d84,sha256,malwarebazaar,2025-12-21 08:30:34,25,32,malware,elf;sets-process-name;self-delete,2025-12-21T08:30:34.069918,success
 6bba0da3baffbbc5ec9d66d6ba8ff52ca7d7bf9782ab900072a64578c8da1744,sha256,malwarebazaar,2025-12-21 08:30:51,20,26,malware,detect-debug-environment;self-delete;sets-process-name;shell,2025-12-21T08:30:51.782365,success
 d10ab4a6d83b7ce0e136cd791781049a5c8185ac0c9efcf811450c1b92ff3441,sha256,malwarebazaar,2025-12-21 09:00:32,18,23,malware,shell,2025-12-21T09:00:32.532538,success
+613d363367a9ab36b881e94555e38bf2b5466716606a14bddb7c1d9f2fc1d555,sha256,malwarebazaar,2025-12-21 09:30:08,13,17,malware,overlay;64bits;peexe,2025-12-21T09:30:08.918204,success
+4b0ade22bb0b305a5dff80a38411a138f3ecdd2f14d1526705dbfc5d262cc147,sha256,malwarebazaar,2025-12-21 09:30:17,34,44,malware,shell;sets-process-name;detect-debug-environment;self-delete;checks-hostname,2025-12-21T09:30:17.825821,success
+d52db1cc49fb05faa69226670727ead0af151c2b303f682a05386719a7e183dd,sha256,malwarebazaar,2025-12-21 09:30:26,30,39,malware,elf,2025-12-21T09:30:26.551273,success
+de6d9f8c9189bf1c09cbda7595a343757ec894c594d4030a80682b59b5c47b97,sha256,malwarebazaar,2025-12-21 09:30:44,14,18,malware,signed;peexe;overlay;idle;invalid-signature,2025-12-21T09:30:44.410517,success
+a16ca63d5027bd0c74dccf7982d323f167ad3595cac26cd6b24d3bd49f6fcf63,sha256,malwarebazaar,2025-12-21 09:31:10,4,5,unknown,elf,2025-12-21T09:31:10.593091,success
+a04ede576aa16c227ad500289a8c66fdd19fdbff2697ece9a24705418b42b9e0,sha256,malwarebazaar,2025-12-21 09:31:54,30,39,malware,elf,2025-12-21T09:31:54.920068,success
