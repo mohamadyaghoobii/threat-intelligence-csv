@@ -7430,3 +7430,7 @@ c470d8cc4dc48b026dfad38b265ef3f8997795dcedfa217f799794b72d10e24e,sha256,malwareb
 5e5ee3d24153feed686619e1979afc5fcfe82f94a43c62b197ed0644ffd31675,sha256,malwarebazaar,2025-12-21 07:33:37,17,22,malware,telephony;encrypted;checks-gps;reflection;apk,2025-12-21T07:33:37.709985,success
 cca270a8d72c90da8d4cc60a8d97c681635fc7169e08401292c4983496e66839,sha256,malwarebazaar,2025-12-21 07:33:55,0,0,unknown,arm;shared-lib;detect-debug-environment;elf;64bits,2025-12-21T07:33:55.412135,success
 3b06ba44b952ae6694cf3efdd745e5a853a42df9636d2706f6998b1cc4b75533,sha256,malwarebazaar,2025-12-21 08:03:54,3,3,unknown,environ;run-file;enum-windows;powershell;exe-pattern,2025-12-21T08:03:54.604297,success
+971022f5aea46754224a9e59bb44fb5e7ccffbb3090a47707e203f5bed570f73,sha256,malwarebazaar,2025-12-21 08:30:16,28,36,malware,elf;64bits;detect-debug-environment,2025-12-21T08:30:16.560463,success
+88ac8de5b6b836ba87166c5bc36f2b06b39b05b0164d3ff34e72f556b3543744,sha256,malwarebazaar,2025-12-21 08:30:25,45,59,malware,detect-debug-environment;long-sleeps;assembly;peexe,2025-12-21T08:30:25.315344,success
+9b2a851f233972d421481a79d7be7ac7ee45288b0599ecdb62a6a6f203f44d84,sha256,malwarebazaar,2025-12-21 08:30:34,25,32,malware,elf;sets-process-name;self-delete,2025-12-21T08:30:34.069918,success
+6bba0da3baffbbc5ec9d66d6ba8ff52ca7d7bf9782ab900072a64578c8da1744,sha256,malwarebazaar,2025-12-21 08:30:51,20,26,malware,detect-debug-environment;self-delete;sets-process-name;shell,2025-12-21T08:30:51.782365,success
