@@ -7434,3 +7434,4 @@ cca270a8d72c90da8d4cc60a8d97c681635fc7169e08401292c4983496e66839,sha256,malwareb
 88ac8de5b6b836ba87166c5bc36f2b06b39b05b0164d3ff34e72f556b3543744,sha256,malwarebazaar,2025-12-21 08:30:25,45,59,malware,detect-debug-environment;long-sleeps;assembly;peexe,2025-12-21T08:30:25.315344,success
 9b2a851f233972d421481a79d7be7ac7ee45288b0599ecdb62a6a6f203f44d84,sha256,malwarebazaar,2025-12-21 08:30:34,25,32,malware,elf;sets-process-name;self-delete,2025-12-21T08:30:34.069918,success
 6bba0da3baffbbc5ec9d66d6ba8ff52ca7d7bf9782ab900072a64578c8da1744,sha256,malwarebazaar,2025-12-21 08:30:51,20,26,malware,detect-debug-environment;self-delete;sets-process-name;shell,2025-12-21T08:30:51.782365,success
+d10ab4a6d83b7ce0e136cd791781049a5c8185ac0c9efcf811450c1b92ff3441,sha256,malwarebazaar,2025-12-21 09:00:32,18,23,malware,shell,2025-12-21T09:00:32.532538,success
