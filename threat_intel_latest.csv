@@ -7392,3 +7392,5 @@ ad231997456ddb2cfede395e0e83bcec403d3e7e0804d8eccd3da115f023550b,sha256,malwareb
 66233ea314a3a5be48a3623f50de1566832fbd54d942b76c947533937fd02a81,sha256,malwarebazaar,2025-12-21 02:30:37,58,76,malware,spreader;malware;peexe,2025-12-21T02:30:37.210085,success
 311d6c2eb62e8cc02df535559b319eaa62f38e6061039bf2ba68aa205fafe6f6,sha256,malwarebazaar,2025-12-21 02:30:45,52,68,malware,peexe;64bits;spreader;persistence;checks-cpu-name,2025-12-21T02:30:45.920450,success
 a2694bc3ee8c763bf6a279112136c90da6cdc75f0cc23837de5e78460f8175e6,sha256,malwarebazaar,2025-12-21 02:30:54,20,26,malware,elf;arm;detect-debug-environment,2025-12-21T02:30:54.672030,success
+eec2f41de43920d9b4cc2b13c428be347b659378a202e683ec2d25a499aad8f3,sha256,malwarebazaar,2025-12-21 03:30:15,9,11,suspicious,peexe;64bits;checks-disk-space;persistence,2025-12-21T03:30:15.018571,success
+705b25b05ed81a3763d262a530022ddff14f4d68aaed7c33511eef7f440f20e5,sha256,malwarebazaar,2025-12-21 03:30:23,2,2,unknown,android;apk,2025-12-21T03:30:23.897948,success
