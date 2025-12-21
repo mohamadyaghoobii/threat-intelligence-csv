@@ -7420,3 +7420,12 @@ f22694b03f0dc9650e5ff6b8a7daaf46341655253e80bdad8daa9b0a33d95f98,sha256,malwareb
 bf6c9e4963ee8953de311d88b339545dc4d100cd1b21725818683f0a82feb96e,sha256,malwarebazaar,2025-12-21 06:33:28,31,40,malware,elf;upx,2025-12-21T06:33:28.637627,success
 ff083d3a7d4df9aa969d3198366cef237dacfbcdc4381945ebb5101dc1abb58f,sha256,malwarebazaar,2025-12-21 06:33:37,36,47,malware,upx;elf,2025-12-21T06:33:37.373974,success
 45168bc663329c3b1d883b83a59fe84f08b6e01895c37144ddfa9156bea3eaee,sha256,malwarebazaar,2025-12-21 06:33:54,31,40,malware,elf;spreader;arm;detect-debug-environment,2025-12-21T06:33:54.833650,success
+3f4e7724b9a7a9b223fea61514cbb18eefc6156276202575c6798a110dd84bf8,sha256,malwarebazaar,2025-12-21 07:30:06,18,23,malware,64bits;peexe;checks-cpu-name;detect-debug-environment;long-sleeps,2025-12-21T07:30:06.540747,success
+d659ad9d00570077e5918aa2f53783c5e5b105ef10c7f776496332527776fc58,sha256,malwarebazaar,2025-12-21 07:30:33,14,18,malware,overlay;malware;peexe;executes-dropped-file;detect-debug-environment,2025-12-21T07:30:33.245910,success
+e530b4adb8b1ffa561ed18c4ad5886a1daf860aec402ecf679fb8559fa2b4cdc,sha256,malwarebazaar,2025-12-21 07:30:41,25,32,malware,elf,2025-12-21T07:30:41.968562,success
+96c43a2bbdd790cc4c8b2721b8364757c774c5c3b7d8617dca11eda425839089,sha256,malwarebazaar,2025-12-21 07:31:25,24,31,malware,elf,2025-12-21T07:31:25.752802,success
+4b00c9ff1eb55bd1ab7e067a274dc00a16fd07870f915cbc871e887f16d0277d,sha256,malwarebazaar,2025-12-21 07:31:34,34,44,malware,arm;elf;spreader;sets-process-name;self-delete,2025-12-21T07:31:34.508012,success
+c470d8cc4dc48b026dfad38b265ef3f8997795dcedfa217f799794b72d10e24e,sha256,malwarebazaar,2025-12-21 07:33:11,33,43,malware,detect-debug-environment;long-sleeps;spreader;64bits;peexe,2025-12-21T07:33:11.440971,success
+200c8b2de1f1b6634f4e8150c87354912636cd847c5534f645b98dc08fe4f54a,sha256,malwarebazaar,2025-12-21 07:33:28,5,6,suspicious,peexe;64bits,2025-12-21T07:33:28.976214,success
+5e5ee3d24153feed686619e1979afc5fcfe82f94a43c62b197ed0644ffd31675,sha256,malwarebazaar,2025-12-21 07:33:37,17,22,malware,telephony;encrypted;checks-gps;reflection;apk,2025-12-21T07:33:37.709985,success
+cca270a8d72c90da8d4cc60a8d97c681635fc7169e08401292c4983496e66839,sha256,malwarebazaar,2025-12-21 07:33:55,0,0,unknown,arm;shared-lib;detect-debug-environment;elf;64bits,2025-12-21T07:33:55.412135,success
