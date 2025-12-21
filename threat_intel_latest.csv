@@ -7395,3 +7395,4 @@ a2694bc3ee8c763bf6a279112136c90da6cdc75f0cc23837de5e78460f8175e6,sha256,malwareb
 eec2f41de43920d9b4cc2b13c428be347b659378a202e683ec2d25a499aad8f3,sha256,malwarebazaar,2025-12-21 03:30:15,9,11,suspicious,peexe;64bits;checks-disk-space;persistence,2025-12-21T03:30:15.018571,success
 705b25b05ed81a3763d262a530022ddff14f4d68aaed7c33511eef7f440f20e5,sha256,malwarebazaar,2025-12-21 03:30:23,2,2,unknown,android;apk,2025-12-21T03:30:23.897948,success
 ff86b365045d30bad56d386f863d9aaf133f19b6653b9f5a16a3a41c323653ac,sha256,malwarebazaar,2025-12-21 04:00:06,24,31,malware,shell,2025-12-21T04:00:06.474949,success
+cf86be95b4d744d5141fc689631852fc6ae4d9aeb83e2e850b4c0203b7eaaefd,sha256,malwarebazaar,2025-12-21 04:30:07,43,56,malware,detect-debug-environment;assembly;peexe,2025-12-21T04:30:07.995187,success
