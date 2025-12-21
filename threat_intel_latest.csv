@@ -7541,3 +7541,5 @@ aa4159c80bbecface26a26be3b128d189061b5f49a6f754a29937fbd835778f6,sha256,malwareb
 5acbedbd3431ce49de8e7973389d0365357956bb1c15fbafd9f2663b947b62a8,sha256,malwarebazaar,2025-12-21 13:33:16,39,51,malware,64bits;elf;spreader;shared-lib,2025-12-21T13:33:16.046168,success
 dc0a766ad6dfb84cedd35a182d7b19b5579a21c386e76c79b16a7f56e13e625a,sha256,malwarebazaar,2025-12-21 13:33:24,1,1,unknown,shell;detect-debug-environment;persistence;checks-cpu-name;checks-hostname,2025-12-21T13:33:24.847550,success
 0ca7b95826de30ef9feec115dcc90c1305ded0920edeeec3b5f4e556ebce1d87,sha256,malwarebazaar,2025-12-21 13:33:33,30,39,malware,spreader;elf,2025-12-21T13:33:33.594740,success
+f09f5d5bfe4674b015fa934217fdc8d6bceca8324441671d8a4295ec8d46c852,sha256,malwarebazaar,2025-12-21 14:30:06,9,11,suspicious,elf,2025-12-21T14:30:06.434740,success
+5f4831d6685b10793fcdf3fcac397864e1e62ede9ca4e11b70c41bb1611dcbb3,sha256,malwarebazaar,2025-12-21 14:30:15,25,32,malware,shell;service-scan;sets-process-name;detect-debug-environment;checks-hostname,2025-12-21T14:30:15.235142,success
