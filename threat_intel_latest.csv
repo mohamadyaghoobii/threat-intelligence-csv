@@ -8306,3 +8306,10 @@ e6aa8eede0f32c363db8db9119c061904f6cbaafb736858ff1c1d5ef6ac9c6b1,sha256,malwareb
 c74af2d163d0492645f5579d803259a444e62c5708ee8f63ccde7ffc37fd1d22,sha256,malwarebazaar,2025-12-22 23:02:50,18,23,malware,elf;arm;detect-debug-environment,2025-12-22T23:02:50.597023,success
 49629d7af7938cb5739b0b08bc2669555b1cb7d9ae0ca18ab34b550119defb54,sha256,malwarebazaar,2025-12-22 23:02:59,5,6,suspicious,corrupted;elf,2025-12-22T23:02:59.323945,success
 4d5117792fb1f8c372b5ac12ea8c944a97509a61e2c69a9becc7a7c0c2e422c5,sha256,malwarebazaar,2025-12-22 23:03:08,20,26,malware,elf;sets-process-name;detect-debug-environment,2025-12-22T23:03:08.252625,success
+f1ec1791833bf98da73b948306fddc7085265fdb3bfeb6aaf67a697931e094ed,sha256,malwarebazaar,2025-12-22 23:31:17,18,23,malware,64bits;peexe;corrupt;checks-user-input;detect-debug-environment,2025-12-22T23:31:17.636248,success
+bb53c80e89c03c910ee91eaa9a6a69b7834b835ee05c290cad9c86af29a821a9,sha256,malwarebazaar,2025-12-22 23:31:44,22,28,malware,arm;elf;sets-process-name;detect-debug-environment;service-scan,2025-12-22T23:31:44.062309,success
+dae2d48b205ebd40a029d64b7143f29fbb35fff3f3b6eb93e8ccd418b37df249,sha256,malwarebazaar,2025-12-22 23:31:53,21,27,malware,peexe;signed;overlay,2025-12-22T23:31:53.018645,success
+c3ff9855cb9697f49eae943960bdf82ecac6ab1b9256e0fb63d6acf662cf2302,sha256,malwarebazaar,2025-12-22 23:32:01,20,26,malware,lnk;url-pattern;long-command-line-arguments;detect-debug-environment;long-sleeps,2025-12-22T23:32:01.832457,success
+8f4cd390af0fac9037f87d949df86802e509273188f5cf196021be36ad231eea,sha256,malwarebazaar,2025-12-22 23:32:10,12,15,malware,signed;overlay;peexe,2025-12-22T23:32:10.757224,success
+cef044e0065c13da7b0d6c4b4d985dd4c24d86893d4f0084f1d844972cfd3927,sha256,malwarebazaar,2025-12-22 23:32:19,46,60,malware,detect-debug-environment;peexe;malware;checks-cpu-name;64bits,2025-12-22T23:32:19.689245,success
+a803ed591843a6c85c5f1207566eea2c7b345243a8613eb7a258a098a2473b61,sha256,malwarebazaar,2025-12-22 23:32:28,1,1,unknown,long-base64;powershell;detect-debug-environment;long-sleeps,2025-12-22T23:32:28.471589,success
