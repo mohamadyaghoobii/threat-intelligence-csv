@@ -7966,3 +7966,7 @@ ce6cdd32be80466f6207d7d77a55ef4bc781f77eababdd502bd7c99f881865bb,sha256,malwareb
 d76029d827359aba3a619bf54644c00513150243b406937e0708eb1282e48886,sha256,malwarebazaar,2025-12-22 03:33:38,21,27,malware,arm;elf;sets-process-name;detect-debug-environment;service-scan,2025-12-22T03:33:38.453946,success
 0b2b62e1b05659012daceb08af36da7011b14c5978be5985ba93827047f4da21,sha256,malwarebazaar,2025-12-22 03:33:47,34,44,malware,assembly;peexe;overlay;spreader;detect-debug-environment,2025-12-22T03:33:47.335418,success
 4ac8cc6f74488b3dd50dad7262f8cdad5ce75fdcf25539b073ac97c3d2203290,sha256,malwarebazaar,2025-12-22 03:33:56,4,5,unknown,apk;android;reflection;checks-gps;telephony,2025-12-22T03:33:56.065211,success
+ea95889e1be7ae3975562b861493eb7ee6d2ef2e01b5d2960b52cd53305db4a3,sha256,malwarebazaar,2025-12-22 04:30:09,19,25,malware,self-delete;elf;64bits;persistence;long-sleeps,2025-12-22T04:30:09.012692,success
+16e6b7df460a86b040cbebacd1d8a4fa5e521e9f0f03c2c3ffcc94ee19067b0d,sha256,malwarebazaar,2025-12-22 04:30:18,37,48,malware,payload;peexe,2025-12-22T04:30:18.064795,success
+b126954176fc1d67a1744f17999a628be85094787936f7a72489169156d6606d,sha256,malwarebazaar,2025-12-22 04:30:27,32,42,malware,checks-user-input;upx;peexe;calls-wmi,2025-12-22T04:30:27.003970,success
+6b1432b24402839fc8b0ce0f8976acd35887e42b49a679d677f221dc8bcc9f85,sha256,malwarebazaar,2025-12-22 04:30:35,48,63,malware,peexe;spreader,2025-12-22T04:30:35.808027,success
