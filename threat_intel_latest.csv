@@ -8173,3 +8173,11 @@ af7d7cf72234fda83fef3034dfc823c35cc03a8a2d20f363ea4860c9ce1a08e4,sha256,malwareb
 a9d1dcab5311381057e464fcb08efad0cabd21fd7b9ef3e1f520935869f1328d,sha256,malwarebazaar,2025-12-22 16:30:16,34,44,malware,exploit;spreader;elf;cve-2017-17215,2025-12-22T16:30:16.942488,success
 b55491c69dad6bdf40e0b9b0b0264baf2d9d0c9a8f45936fe44d94e1b9a7cb91,sha256,malwarebazaar,2025-12-22 16:30:25,30,39,malware,elf;cve-2017-17215;spreader;exploit,2025-12-22T16:30:25.856641,success
 1fc0b8915005e6ba6adc9e4d3deba1fcd5d1898c5200537e69fbcf0eb7bf2b4c,sha256,malwarebazaar,2025-12-22 16:30:34,33,43,malware,cve-2017-17215;exploit;elf;spreader,2025-12-22T16:30:34.829943,success
+3f369751f1b58e23d838e25846c03bd66f8e84dc08c878ab2d58073e37b59389,sha256,malwarebazaar,2025-12-22 17:01:18,10,13,malware,shell,2025-12-22T17:01:18.616607,success
+3351d6b8aae469ac5683b4f6c66b64465b9be0daac8405ed34227a2fd616b9f6,sha256,malwarebazaar,2025-12-22 17:01:46,22,28,malware,elf,2025-12-22T17:01:46.253606,success
+2fe9924cd0b8bbbf4c3cca78584fe6fd909efe77897e9ea1b80087028de978d8,sha256,malwarebazaar,2025-12-22 17:02:12,22,28,malware,elf,2025-12-22T17:02:12.780481,success
+2ff7bc011a4608692fa1dab1d1a8ebe678d07d1fa9343ceeaf58dced0ac99d05,sha256,malwarebazaar,2025-12-22 17:02:21,22,28,malware,arm;elf;detect-debug-environment,2025-12-22T17:02:21.677483,success
+b1af0b244ddf47023ad34f14b6ccef5def7ca48d9e027e25db2067234334c7ee,sha256,malwarebazaar,2025-12-22 17:03:14,23,30,malware,elf,2025-12-22T17:03:14.945540,success
+ed5ab255e2561a6f0fd7dc6417d7df82d2f3189ad126455a42fd3b9c244bf62f,sha256,malwarebazaar,2025-12-22 17:03:23,22,28,malware,elf;arm;sets-process-name;detect-debug-environment;service-scan,2025-12-22T17:03:23.744544,success
+92672b0ae6d01414680a6361ff8567f96e8ac8085dd7e4f686ea929edeb362cb,sha256,malwarebazaar,2025-12-22 17:03:50,22,28,malware,elf;arm;sets-process-name;detect-debug-environment;service-scan,2025-12-22T17:03:50.077090,success
+6980a82f2d1a7dfe0a314fef70c7f490335627a7390c45eb368947241bcb4248,sha256,malwarebazaar,2025-12-22 17:04:17,21,27,malware,corrupted;elf,2025-12-22T17:04:17.330629,success
