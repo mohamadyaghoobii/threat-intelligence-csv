@@ -7933,3 +7933,11 @@ ca5987b20abcbc2981c9f3525ad04540ace0c4bf5f9429a225689eab4b2f8a43,sha256,malwareb
 584bcf138445917e18c427d8e8a7b59d9da45693c3e24ac0031459609f0dd98d,sha256,malwarebazaar,2025-12-22 01:31:52,28,36,malware,elf;spreader,2025-12-22T01:31:52.220107,success
 e114c8a29885b499183faff97897578b048a4a53a069f19fa7d6f7e531b85256,sha256,malwarebazaar,2025-12-22 01:32:01,24,31,malware,elf;sets-process-name;service-scan,2025-12-22T01:32:01.090200,success
 f11cfa41192f935db9d5a29b1026a54ab5827a2386ca390c23ddc650ba370651,sha256,malwarebazaar,2025-12-22 01:32:27,27,35,malware,elf;arm;sets-process-name;persistence;detect-debug-environment,2025-12-22T01:32:27.358031,success
+e9824ae1d8fa7b52e82e77504f3e6b3d80239bf63af06e0a8cd884a48ce220ab,sha256,malwarebazaar,2025-12-22 02:30:08,21,27,malware,spreader;elf,2025-12-22T02:30:08.684555,success
+af5c75b11bdb46a35a412d9b5aa10c81cdbe758842bd6e272bf268bacd7c2343,sha256,malwarebazaar,2025-12-22 02:30:27,18,23,malware,elf,2025-12-22T02:30:27.110485,success
+f4532f82fde2319b94eb48d87dfb8786df4e25e1a59bc3b835c5b558576eefda,sha256,malwarebazaar,2025-12-22 02:30:36,7,9,suspicious,elf,2025-12-22T02:30:36.326286,success
+99c3e31628d4c1e5ffc94be945d4aaa0a4a0577565f6578dc7f4db8d10e9dfca,sha256,malwarebazaar,2025-12-22 02:31:03,20,26,malware,elf;sets-process-name;persistence;long-sleeps;self-delete,2025-12-22T02:31:03.006666,success
+8533ccd2ce86793b22f72c5cb8049c5847124c15b402c500539861139eedc541,sha256,malwarebazaar,2025-12-22 02:31:21,21,27,malware,elf,2025-12-22T02:31:21.654015,success
+524f37aa2bf91d6267fea83a24d5b828c9028d3c96592f0ce8e87f5459303927,sha256,malwarebazaar,2025-12-22 02:31:40,2,2,unknown,apk;android;contains-elf;runtime-modules;reflection,2025-12-22T02:31:40.061886,success
+fe185a3ecc4457cb256e5bc96cf83a3df2abe2486e36542c7b84299e14ded4a3,sha256,malwarebazaar,2025-12-22 02:31:49,12,15,malware,android;apk,2025-12-22T02:31:49.079334,success
+5fb357cce5bf1aae2e65de04908eb13f706a486c527b67a5305aab0e159e594d,sha256,malwarebazaar,2025-12-22 02:31:58,24,31,malware,elf;sets-process-name;service-scan,2025-12-22T02:31:58.111010,success
