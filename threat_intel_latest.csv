@@ -7921,3 +7921,4 @@ b4af234303f169d2c19d42bbcd6d1d5788de4e2081a50e8cf472de05dbd0e175,sha256,malwareb
 49a9bbc49ccd3aec08bd2f8702db35bacb539ebc8879d9fc00aa0cb4b5e6787c,sha256,malwarebazaar,2025-12-22 00:33:46,60,78,malware,64bits;peexe,2025-12-22T00:33:46.301346,success
 13ea3af735de37816fee8d491afab87ff3646f3465571bc0e74a140feeaaeeeb,sha256,malwarebazaar,2025-12-22 00:33:55,37,48,malware,executes-dropped-file;peexe;64bits;payload;malware,2025-12-22T00:33:55.086722,success
 27d1bf648ae648d9320e6850f7773b32dbfed15fbc78b4a16d4ea23fd2a6d31c,sha256,malwarebazaar,2025-12-22 00:34:03,4,5,unknown,64bits;pedll,2025-12-22T00:34:03.847856,success
+43b1aa38b408fa120ea8020d63c3ca9ad47b7dfa68c3499deff58b4ad498b8f5,sha256,malwarebazaar,2025-12-22 01:04:07,28,36,malware,self-delete;detect-debug-environment;sets-process-name;elf;arm,2025-12-22T01:04:07.852891,success
