@@ -8449,3 +8449,6 @@ a978b6f3e70e380384597e4a52f4b7ab04af36d55c4cb95d0e354b50aa3eaf73,sha256,malwareb
 0cf3fb386d1f239872280e541515970c0392465015beabd51bc12c0fe9a5eb23,sha256,malwarebazaar,2025-12-23 08:33:59,5,6,suspicious,checks-disk-space;long-base64;detect-debug-environment;exe-pattern;powershell,2025-12-23T08:33:59.650881,success
 f7d13cb6db2aefec961d1ba8cd01a9093d2e698c4878f02646918881b46f820a,sha256,malwarebazaar,2025-12-23 08:34:08,3,3,unknown,long-sleeps;url-pattern;powershell;detect-debug-environment,2025-12-23T08:34:08.486952,success
 712b356dc0f2e2737ff23955c25dd50b9d2511ba258c064798f4f118d6746dc9,sha256,malwarebazaar,2025-12-23 08:34:17,1,1,unknown,long-sleeps;detect-debug-environment;bat,2025-12-23T08:34:17.217313,success
+1c0a6d90e8b34ef3b8406be47df82bccc16a1811ea3762cf5951b1a1f3ac02c3,sha256,malwarebazaar,2025-12-23 09:01:25,29,38,malware,long-sleeps;checks-cpu-name;peexe;persistence;assembly,2025-12-23T09:01:25.627067,success
+4f799f6c834a8fcc22231b2b52fd8f3c1d8aa26843e87d4eb4adc3d4ed67e156,sha256,malwarebazaar,2025-12-23 09:02:26,22,28,malware,elf,2025-12-23T09:02:26.962361,success
+f025adcb0cfe1b89161d7f971cc827a7811c9a43dc9d67a36322cba44dfbaba3,sha256,malwarebazaar,2025-12-23 09:02:53,21,27,malware,64bits;elf;spreader,2025-12-23T09:02:53.288434,success
