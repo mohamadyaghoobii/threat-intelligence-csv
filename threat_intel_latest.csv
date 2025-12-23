@@ -8550,3 +8550,5 @@ e557b3dad1f2d8a294450ba1f5d2c8ce8aee296af27b8d6282ad291fb9c82e0f,sha256,malwareb
 1ae3af7517c66182b3ca64e025c4b9b74add830a7a2fc06c41914c6df17581f9,sha256,malwarebazaar,2025-12-23 12:33:21,3,3,unknown,detect-debug-environment;url-pattern;exe-pattern;long-sleeps;powershell,2025-12-23T12:33:21.016483,success
 413a08efe39bc4eea9841564f4497bf2ab6e5e074d7bf4e7f9be6d80da274e68,sha256,malwarebazaar,2025-12-23 12:33:29,1,1,unknown,javascript;long-sleeps,2025-12-23T12:33:29.775338,success
 72d494f6c9a48cfaf5a6fcceb97b98cb83c38a73235d7b87eb84d2c4e9e0df4b,sha256,malwarebazaar,2025-12-23 12:33:38,2,2,unknown,assembly;pedll,2025-12-23T12:33:38.498723,success
+55ad516d8e13fe32e7ac5da48da200f25327ea85b93b5705cd395908b8566852,sha256,malwarebazaar,2025-12-23 13:04:06,10,13,malware,javascript,2025-12-23T13:04:06.774942,success
+ccf2830646298d97a8afa16657ad6f3c97df41d26e1324b5fb8a1d61a10548a1,sha256,malwarebazaar,2025-12-23 13:04:15,11,14,malware,javascript,2025-12-23T13:04:15.526657,success
