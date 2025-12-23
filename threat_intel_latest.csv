@@ -8666,3 +8666,15 @@ acf2d29c8c65ee2fe57445e672fbee01fa240b0039b66ea507f110468c6c8210,sha256,malwareb
 aa3b976475e375e92f09bf4b06db50693ad42dd7c0abfcbfd598f3e9d46f0744,sha256,malwarebazaar,2025-12-23 19:33:10,39,51,malware,apk;android;reflection;telephony;obfuscated,2025-12-23T19:33:10.569028,success
 14ebed0d51768cfa90ace0d74ce17763a7accd1c526976e5b4609156521e7ca8,sha256,malwarebazaar,2025-12-23 19:33:23,27,35,malware,obfuscated;reflection;telephony;detect-debug-environment;runtime-modules,2025-12-23T19:33:23.932756,success
 7a449a292f2498734e22aa7f43857fda0d34f81910ffb8a85cd679eb9c3694de,sha256,malwarebazaar,2025-12-23 19:33:32,41,53,malware,android;apk;reflection;obfuscated;checks-gps,2025-12-23T19:33:32.775104,success
+6e2fc0c835dd7030d0b0f8e0d90a5e2e90ba9bdb584beaec4a9e00fb3b3c026d,sha256,malwarebazaar,2025-12-23 20:01:44,20,26,malware,overlay;peexe,2025-12-23T20:01:44.105440,success
+a146b14df5e049038b47a5cfa30bbc120aae3fa85da0cae414dff3eea1375e04,sha256,malwarebazaar,2025-12-23 20:01:52,13,17,malware,peexe;detect-debug-environment;overlay,2025-12-23T20:01:52.845842,success
+8c60924560de7800b980ed881d140ab7163f041a0e6d508bbe2bbfc483128923,sha256,malwarebazaar,2025-12-23 20:02:01,12,15,malware,contains-pe;isoimage;detect-debug-environment;calls-wmi;long-sleeps,2025-12-23T20:02:01.617460,success
+f389fa1b3c670b8985f34851fa490ed18ac2f0bea2166b734bc11ab01c1cb803,sha256,malwarebazaar,2025-12-23 20:02:10,35,46,malware,exploit;xlsx;cve-2017-11882,2025-12-23T20:02:10.557013,success
+440b16adc385f603aaa8fa1d4d867f491cb89e7c1d484a7c5879a3ad0af99b3d,sha256,malwarebazaar,2025-12-23 20:02:19,29,38,malware,open-file;download;xlsx;detect-debug-environment;calls-wmi,2025-12-23T20:02:19.370912,success
+3dcc673a854935ef98a19331d51622000a866396a430f81014795b9dca996a04,sha256,malwarebazaar,2025-12-23 20:02:28,3,3,unknown,handle-file;run-dll;download;auto-open;run-file,2025-12-23T20:02:28.401484,success
+7f54636439c9e2a50214b0b8bcdaf46d746ebdc26d4e06828dc91960ac6a0902,sha256,malwarebazaar,2025-12-23 20:02:37,1,1,unknown,run-file;enum-windows;xlsx;create-ole;calls-wmi,2025-12-23T20:02:37.173134,success
+83f63e10b56a7d1bd3b28f7fe9e8d6c9cf917509e4521f8ec1aaabf424767d6e,sha256,malwarebazaar,2025-12-23 20:02:46,27,35,malware,checks-cpu-name;detect-debug-environment;long-sleeps;64bits;peexe,2025-12-23T20:02:46.005103,success
+8ef4f92eeff604c0dbd125cf358350141d9e3c1ef400775365b202c5d95b920e,sha256,malwarebazaar,2025-12-23 20:02:55,2,2,unknown,macro-run-file;anti-analysis;email-pattern;obfuscated;run-file,2025-12-23T20:02:55.177747,success
+17215529c2b6867985d3d79a2aa4f2b07cbc02ae07a49441b5cf34981c9555f7,sha256,malwarebazaar,2025-12-23 20:03:03,1,1,unknown,calls-wmi;doc,2025-12-23T20:03:03.969049,success
+2d8d41b91fa96a7c4d50b549927f510d06886405f9bd2423ab42c97ce65facc8,sha256,malwarebazaar,2025-12-23 20:03:12,1,1,unknown,calls-wmi;doc,2025-12-23T20:03:12.708066,success
+c32ccb9151f6eeceb567d083fa02d951555d008c22f3fb1e2aafe759d7120e2f,sha256,malwarebazaar,2025-12-23 20:03:21,20,26,malware,persistence;peexe;detect-debug-environment;malware;64bits,2025-12-23T20:03:21.453684,success
