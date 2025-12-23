@@ -8427,3 +8427,4 @@ ca284de89072e35f499624e288e7c520ebbf62977f2714b5924b70ff0cace55e,sha256,malwareb
 16e1ee418331636fe990b7869dcf83c30b72b00a72c1ec034d75111613ab693d,sha256,malwarebazaar,2025-12-23 07:33:12,12,15,malware,elf;sets-process-name;service-scan,2025-12-23T07:33:12.228625,success
 fa3aca53a9ce6132422aea7163f99c1df8afbe576d1cd4391f0350a983686064,sha256,malwarebazaar,2025-12-23 07:33:29,8,10,suspicious,upx;elf;sets-process-name;service-scan,2025-12-23T07:33:29.841369,success
 6bbfa0ddee2012390bc1c7199df8d1f2434da098649f3cbe6267f2160456dd7b,sha256,malwarebazaar,2025-12-23 07:34:05,12,15,malware,64bits;elf;sets-process-name;service-scan,2025-12-23T07:34:05.173286,success
+b89e008bfaaf3ca24f9a5124b31d8a43cbad8030dd6a0a09a5a71ec7ed1c0bd1,sha256,malwarebazaar,2025-12-23 08:03:30,7,9,suspicious,upx;elf;64bits;sets-process-name;service-scan,2025-12-23T08:03:30.142537,success
