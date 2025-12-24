@@ -8850,3 +8850,7 @@ fdee6844b2e2283990ac0eb316eb3f6d2f752cf7a273420d8b16358a3fcc4f52,sha256,malwareb
 e145f75c6b0a046943c0fe4a1375e316f46bda247d2f63184977d65ce63bf230,sha256,malwarebazaar,2025-12-24 05:30:15,2,2,unknown,elf,2025-12-24T05:30:15.710283,success
 fad8344b6ca36f80c215720ebcb94fcba67d3b8dbc83e2364534cc90c5d75416,sha256,malwarebazaar,2025-12-24 06:30:23,23,30,malware,elf;sets-process-name;detect-debug-environment;service-scan,2025-12-24T06:30:23.951819,success
 529a2497e7b08da36753004715ead51b0897838bd1744919f1677511d9117f0d,sha256,malwarebazaar,2025-12-24 06:30:32,2,2,unknown,html;contains-embedded-js,2025-12-24T06:30:32.680253,success
+995b41b98d9e9510b0a945de450334dc921bad211d2f6efe4de6278e2aa0645f,sha256,malwarebazaar,2025-12-24 07:31:07,39,51,malware,elf,2025-12-24T07:31:07.360995,success
+40a359e7d6f1e7abbb8c6bd2f48a198dc7555af2c3f6f6945488f69f1a4028f9,sha256,malwarebazaar,2025-12-24 07:32:00,17,22,malware,64bits;overlay;detect-debug-environment;peexe;ftp-communication,2025-12-24T07:32:00.794637,success
+8c8011f51d6d3dbdf06a00045df85a02c7474d72a6173689e68ab44294e8b4de,sha256,malwarebazaar,2025-12-24 07:33:28,23,30,malware,elf;sets-process-name;detect-debug-environment,2025-12-24T07:33:28.227597,success
+b8fcb828aa6218c2f301c8cee57d335c1cf66b5c18b911f685fcb8fefb1c723a,sha256,malwarebazaar,2025-12-24 07:34:20,4,5,unknown,64bits;elf;sets-process-name;service-scan,2025-12-24T07:34:20.555278,success
