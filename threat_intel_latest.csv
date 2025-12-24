@@ -9038,3 +9038,4 @@ a3719f7fd896d3de0649cbf6b3e3b41bfbd681d2c275e9adea06fdd434f0b825,sha256,malwareb
 4d9eeb82133e579240ab821a5ac59a055629954c17a8f1db170dac09fb21f1a8,sha256,malwarebazaar,2025-12-24 22:31:24,18,23,malware,elf;arm;detect-debug-environment,2025-12-24T22:31:24.588691,success
 9ef16448f9b5985feb628267f3eb47455ad3a7067d1be1ff1f51fec1824c6b42,sha256,malwarebazaar,2025-12-24 22:31:50,1,1,unknown,upx;elf,2025-12-24T22:31:50.991655,success
 0d3c54bb8ca47f14bb732160a1c140af8dce207cf1246ac5476387457db6f014,sha256,malwarebazaar,2025-12-24 22:32:52,38,50,malware,corrupted;elf,2025-12-24T22:32:52.488039,success
+49eb2d9ed48766c5a1a6b630d8f651c9c8bafc3aead73b122f9c4c35a6b6642a,sha256,malwarebazaar,2025-12-24 23:31:23,0,0,unknown,jar;checks-cpu-name;detect-debug-environment;sets-process-name,2025-12-24T23:31:23.798410,success
