@@ -8845,3 +8845,4 @@ da4bd34f7700dfc0065cc6fda8ccfd277ec30de7c85109444d626843058859c4,sha256,malwareb
 04ba518de58bed84d295128d5da7b8fcb5b13b31f4d6d2a128f19f416cbcaba6,sha256,malwarebazaar,2025-12-24 03:31:08,24,31,malware,elf;sets-process-name;detect-debug-environment,2025-12-24T03:31:08.288901,success
 fdee6844b2e2283990ac0eb316eb3f6d2f752cf7a273420d8b16358a3fcc4f52,sha256,malwarebazaar,2025-12-24 04:30:07,37,48,malware,shell;detect-debug-environment;service-scan,2025-12-24T04:30:07.591988,success
 6bf81a58f47093727e85a5175d3b7042384159ce7088fa94b4476bda09ea401e,sha256,malwarebazaar,2025-12-24 04:30:16,31,40,malware,assembly;peexe;spreader;persistence;detect-debug-environment,2025-12-24T04:30:16.591067,success
+1bcab9bf6c2b00684c3abc1ce9c622760e23932b9f89c610a3f149b0b7f60d6a,sha256,malwarebazaar,2025-12-24 05:00:08,5,6,suspicious,elf,2025-12-24T05:00:08.448316,success
