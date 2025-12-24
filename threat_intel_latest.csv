@@ -8860,3 +8860,4 @@ c4194b289b6cf6d2f32383ff26695ac094137c877c82344c9eded0716dee7cc8,sha256,malwareb
 2ba923b813a8e10fda61de4c1d0e0cf50b3c0a9f3ed7aa5309810edfc7fc179a,sha256,malwarebazaar,2025-12-24 08:33:38,15,19,malware,detect-debug-environment;peexe;signed;64bits;invalid-signature,2025-12-24T08:33:38.907169,success
 55679a3e6cb8ff3b4a29719c442352610c9d3cd89febb43560302ef38e3a74ca,sha256,malwarebazaar,2025-12-24 08:34:05,16,21,malware,elf;detect-debug-environment,2025-12-24T08:34:05.403560,success
 e09a276fb1451e27c8a224d3315014090e53bd7e9cc6386eadc0488611f561b2,sha256,malwarebazaar,2025-12-24 08:34:14,16,21,malware,elf;detect-debug-environment,2025-12-24T08:34:14.476122,success
+b86bc12632d541d7a70a0b379deca5e6bce7042180a44e08d155835d0b01471d,sha256,malwarebazaar,2025-12-24 09:04:00,6,7,suspicious,elf,2025-12-24T09:04:00.490720,success
