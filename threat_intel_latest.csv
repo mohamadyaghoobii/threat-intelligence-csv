@@ -8999,3 +8999,7 @@ a7334c8f147004acbee8472cc65af95dbed06394fd3bae88ec100ce229ccf883,sha256,malwareb
 84a3f74c5218dab0e4acedab4889704b5d83a0b16b8c90e4cef41cb93034063b,sha256,malwarebazaar,2025-12-24 20:33:02,19,25,malware,64bits;peexe;checks-cpu-name;detect-debug-environment;long-sleeps,2025-12-24T20:33:02.931508,success
 4a51de917ed435a2e9d2b3bd2f30d4d12829e5ba7b190b7d71cc1e5793e07c58,sha256,malwarebazaar,2025-12-24 20:33:11,17,22,malware,elf,2025-12-24T20:33:11.693251,success
 9011b4c1a9d6ede272bbeb8c38b2689a924aa18d116fdd2b544c8c64e0d6b9d2,sha256,malwarebazaar,2025-12-24 20:33:29,20,26,malware,elf;arm;sets-process-name;persistence;detect-debug-environment,2025-12-24T20:33:29.262227,success
+427a26126bdda98d7a37bcd3710da1b07980524c047040c93b336abf6e3ed082,sha256,malwarebazaar,2025-12-24 21:01:34,37,48,malware,peexe;64bits,2025-12-24T21:01:34.390618,success
+502a4c498c1f14e9176959e54548f2af53a240eb9f769f11f9dfeeec7fc87b29,sha256,malwarebazaar,2025-12-24 21:01:52,20,26,malware,invalid-signature;overlay;signed;peexe;executes-dropped-file,2025-12-24T21:01:52.322865,success
+4278f1c76e31a10abbd12881cdac97233a635c80677d07e1dc64014d370b7391,sha256,malwarebazaar,2025-12-24 21:02:09,2,2,unknown,html;contains-embedded-js,2025-12-24T21:02:09.800389,success
+1ec77f506ba000537975de734bf160d1ed42095414b08b769a13fff23dcce34f,sha256,malwarebazaar,2025-12-24 21:02:36,24,31,malware,elf;sets-process-name;service-scan,2025-12-24T21:02:36.387518,success
