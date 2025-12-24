@@ -8837,3 +8837,9 @@ f5bca3bd65e7373b5c0c858f1869cc6f42b88f1d0a30216642b72bc2af839f78,sha256,malwareb
 950419da6c37c5faff452457cd0b759b9cd4526ce854eb396c34ead7c2de7f37,sha256,malwarebazaar,2025-12-24 02:30:34,8,10,suspicious,shell;detect-debug-environment;sudo,2025-12-24T02:30:34.322155,success
 f190d494cf6f95fcad192541dcf86267270680879526d502fcf5a2161febf43b,sha256,malwarebazaar,2025-12-24 02:30:52,19,25,malware,elf;sets-process-name;detect-debug-environment,2025-12-24T02:30:52.693285,success
 81e1976736010ba15ce5b28ea39f8038fe56f82b8540ed68908dc0a56ade90b1,sha256,malwarebazaar,2025-12-24 02:31:01,32,42,malware,elf;spreader,2025-12-24T02:31:01.869996,success
+4acfcdad53d661fdf3619adf8e27cdcf86873016cd39c82ce0017bea39932bc1,sha256,malwarebazaar,2025-12-24 03:30:06,26,34,malware,hiding-window;long-command-line-arguments;detect-debug-environment;lnk;long-sleeps,2025-12-24T03:30:06.663705,success
+54cbe048b4ece6183ada3ddfb8b6767d75768a53e8ff58ff4fd2678d18dceaf3,sha256,malwarebazaar,2025-12-24 03:30:15,19,25,malware,long-command-line-arguments;long-sleeps;self-delete;hiding-window;lnk,2025-12-24T03:30:15.468457,success
+02c72d2c2da8bfd13307948c58bb936e8e3ed1f9a939aa52c1343a80a7fe37af,sha256,malwarebazaar,2025-12-24 03:30:24,48,63,malware,detect-debug-environment;assembly;long-sleeps;peexe,2025-12-24T03:30:24.270146,success
+2fcbcdc32f4a691796a5a464010fe930907311246a396d8546ac8fbf18283bb5,sha256,malwarebazaar,2025-12-24 03:30:33,9,11,suspicious,chm,2025-12-24T03:30:33.060628,success
+da4bd34f7700dfc0065cc6fda8ccfd277ec30de7c85109444d626843058859c4,sha256,malwarebazaar,2025-12-24 03:30:50,5,6,suspicious,bat,2025-12-24T03:30:50.834192,success
+04ba518de58bed84d295128d5da7b8fcb5b13b31f4d6d2a128f19f416cbcaba6,sha256,malwarebazaar,2025-12-24 03:31:08,24,31,malware,elf;sets-process-name;detect-debug-environment,2025-12-24T03:31:08.288901,success
