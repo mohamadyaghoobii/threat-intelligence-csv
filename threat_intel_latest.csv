@@ -9117,3 +9117,5 @@ d2e8ad3035bf734c4ab18d298b44dae38c3841eb5e37532bef4ca89e3bb8c35b,sha256,malwareb
 1b95497b3247ace77bd2c28c96803a47f69ec7d35ad84dde377d1ee3684193c5,sha256,malwarebazaar,2025-12-25 04:30:26,27,35,malware,invalid-signature;checks-disk-space;signed;long-sleeps;calls-wmi,2025-12-25T04:30:26.699999,success
 dcb690747a11527c5ad9919521ffd27a29563f24c19df3d7f9218fdea6e88622,sha256,malwarebazaar,2025-12-25 05:00:16,30,39,malware,elf,2025-12-25T05:00:16.624884,success
 1a9cd08680adf2f14806a8268b6710cee2b18ac046c912be5fbee54fcaebcf80,sha256,malwarebazaar,2025-12-25 05:04:21,30,39,malware,elf,2025-12-25T05:04:21.835293,success
+e1b8b76b327b7253e25566550b8d05c711522e5174ac75da9c2409920e372e5e,sha256,malwarebazaar,2025-12-25 05:30:06,28,36,malware,assembly;spreader;peexe;detect-debug-environment,2025-12-25T05:30:06.496801,success
+c33b723bec37bb942be0b3d50ae047e93e66bff86f11fa271c44c62bc7d82081,sha256,malwarebazaar,2025-12-25 05:30:15,4,5,unknown,signed;bobsoft;invalid-signature;overlay;peexe,2025-12-25T05:30:15.337898,success
