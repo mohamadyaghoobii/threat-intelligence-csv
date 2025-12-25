@@ -9317,3 +9317,4 @@ aca9a73f9be8791b0f672a93b15f27c09b0944b39a8a8b2d55d7153f9ad887d4,sha256,malwareb
 f07a853f65fbf3196d3b4a227b4070b8a3e136ab1105e17ac2e9b7f9578aca01,sha256,malwarebazaar,2025-12-25 16:33:40,8,10,suspicious,payload;bobsoft;peexe;overlay,2025-12-25T16:33:40.480313,success
 10d2716264bed25d09c472d8382520f3091ee42105042cf21d29ae7db836e1af,sha256,malwarebazaar,2025-12-25 16:33:58,6,7,suspicious,checks-memory-available;checks-disk-space;calls-wmi;upx;overlay,2025-12-25T16:33:58.131694,success
 a1243c0ef77f8bed3c26832be5308ccfa6b7df50f6cdcb776021091c2ef7b2fb,sha256,malwarebazaar,2025-12-25 16:34:07,6,7,suspicious,calls-wmi;overlay;peexe;checks-disk-space;checks-memory-available,2025-12-25T16:34:07.095098,success
+df756bef30e29daa47407417b19a1c938879fb8d105814ae66c1dfbdde6a8c49,sha256,malwarebazaar,2025-12-25 17:00:42,0,0,unknown,python,2025-12-25T17:00:42.657547,success
