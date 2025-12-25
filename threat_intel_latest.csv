@@ -9352,3 +9352,10 @@ d80d236e16bfef3dd5b8aacb4aff4226616be790c3b5dc2325af73e71d61441c,sha256,malwareb
 5854195980979de3fd8c715a8a65036a4c0baf67fe39c6af2f987ea5bbfc46ea,sha256,malwarebazaar,2025-12-25 20:32:44,33,43,malware,elf,2025-12-25T20:32:44.183211,success
 60d43ddff6cd33da3f52147994b29c4f9a993e8c1f32dba4c51b6667bcc4ef34,sha256,malwarebazaar,2025-12-25 20:32:52,43,56,malware,payload;peexe;64bits;spreader,2025-12-25T20:32:52.904125,success
 e824e8f0c6bf036d3247237aadbcc57000ef12b13932e6069e19b8caef637570,sha256,malwarebazaar,2025-12-25 20:33:18,29,38,malware,arm;elf;detect-debug-environment,2025-12-25T20:33:18.965525,success
+fceaf47b27863da12673644667f26495ca01ec4de74ea752e84ccb41d5a5ad26,sha256,malwarebazaar,2025-12-25 21:02:19,33,43,malware,elf;arm;sets-process-name;persistence;detect-debug-environment,2025-12-25T21:02:19.846255,success
+8730e029d0f40e909494760198bd41b3a6aa44843a8968910cff20dea0fc35ca,sha256,malwarebazaar,2025-12-25 21:02:37,22,28,malware,arm;elf;sets-process-name;detect-debug-environment;service-scan,2025-12-25T21:02:37.328662,success
+f3ea351bc4fda2381d2bb94d264dc023ccca41c9082611ca8f7c186d293589de,sha256,malwarebazaar,2025-12-25 21:02:46,36,47,malware,arm;spreader;elf;detect-debug-environment,2025-12-25T21:02:46.051260,success
+6f9308dd804dff51901fac87c5b21d47ce752ce16c8889e639b6a40eb968b945,sha256,malwarebazaar,2025-12-25 21:02:54,0,0,unknown,64bits;elf;self-delete;detect-debug-environment;checks-cpu-name,2025-12-25T21:02:54.755976,success
+c9621264e9995e72e3493fb2224a4597dbd329b93d15153f9cffe0e5296f45da,sha256,malwarebazaar,2025-12-25 21:03:03,2,2,unknown,upx;64bits;elf,2025-12-25T21:03:03.505313,success
+edfa8ebb456b3fc9176aa65e806f9dc80f38ea05c44c9951e188a2295800e409,sha256,malwarebazaar,2025-12-25 21:03:12,6,7,suspicious,peexe;64bits,2025-12-25T21:03:12.351258,success
+bf968c82d5b53efb81ed61da576b347998077feebf004514081ff7efdfcf9545,sha256,malwarebazaar,2025-12-25 21:03:21,35,46,malware,64bits;elf;sets-process-name;detect-debug-environment;service-scan,2025-12-25T21:03:21.310197,success
