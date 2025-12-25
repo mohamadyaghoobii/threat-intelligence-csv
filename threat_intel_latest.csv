@@ -9115,3 +9115,5 @@ d1d13fdd3bb487ed4b4e2dd5f07607ea4d7e4946bc9759ad85db0a0510b78324,sha256,malwareb
 3afb9255073dc3e42dde306f16d2f1e125b6320a973f1897e1fd80c0ea603647,sha256,malwarebazaar,2025-12-25 04:04:21,20,26,malware,arm;elf;upx;sets-process-name;detect-debug-environment,2025-12-25T04:04:21.393968,success
 d2e8ad3035bf734c4ab18d298b44dae38c3841eb5e37532bef4ca89e3bb8c35b,sha256,malwarebazaar,2025-12-25 04:30:09,13,17,malware,shell;sets-process-name;self-delete;service-scan,2025-12-25T04:30:09.102711,success
 1b95497b3247ace77bd2c28c96803a47f69ec7d35ad84dde377d1ee3684193c5,sha256,malwarebazaar,2025-12-25 04:30:26,27,35,malware,invalid-signature;checks-disk-space;signed;long-sleeps;calls-wmi,2025-12-25T04:30:26.699999,success
+dcb690747a11527c5ad9919521ffd27a29563f24c19df3d7f9218fdea6e88622,sha256,malwarebazaar,2025-12-25 05:00:16,30,39,malware,elf,2025-12-25T05:00:16.624884,success
+1a9cd08680adf2f14806a8268b6710cee2b18ac046c912be5fbee54fcaebcf80,sha256,malwarebazaar,2025-12-25 05:04:21,30,39,malware,elf,2025-12-25T05:04:21.835293,success
