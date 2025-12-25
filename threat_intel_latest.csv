@@ -9318,3 +9318,7 @@ f07a853f65fbf3196d3b4a227b4070b8a3e136ab1105e17ac2e9b7f9578aca01,sha256,malwareb
 10d2716264bed25d09c472d8382520f3091ee42105042cf21d29ae7db836e1af,sha256,malwarebazaar,2025-12-25 16:33:58,6,7,suspicious,checks-memory-available;checks-disk-space;calls-wmi;upx;overlay,2025-12-25T16:33:58.131694,success
 a1243c0ef77f8bed3c26832be5308ccfa6b7df50f6cdcb776021091c2ef7b2fb,sha256,malwarebazaar,2025-12-25 16:34:07,6,7,suspicious,calls-wmi;overlay;peexe;checks-disk-space;checks-memory-available,2025-12-25T16:34:07.095098,success
 df756bef30e29daa47407417b19a1c938879fb8d105814ae66c1dfbdde6a8c49,sha256,malwarebazaar,2025-12-25 17:00:42,0,0,unknown,python,2025-12-25T17:00:42.657547,success
+56e3ac5f4be4a1ef51b87e1df3d940f7c8663e0f28842252790a422e29b6ad92,sha256,malwarebazaar,2025-12-25 17:30:06,6,7,suspicious,signed;invalid-signature;overlay;peexe,2025-12-25T17:30:06.349337,success
+930e7cd04c1dca3c7505ab182d2924a63bb7abe4da8f06102cfac9460d74719a,sha256,malwarebazaar,2025-12-25 17:30:15,46,60,malware,detect-debug-environment;idle;64bits;pedll,2025-12-25T17:30:15.110248,success
+d33b5367ad01f4d824a174f02575335819ed49d2c03128b107d651173757a46d,sha256,malwarebazaar,2025-12-25 17:30:41,32,42,malware,64bits;peexe;detect-debug-environment;spreader;overlay,2025-12-25T17:30:41.262431,success
+efdbec2afdac78bf64bc6d859aceafbe684dc5aea6a85f96297572a815a176da,sha256,malwarebazaar,2025-12-25 17:30:50,5,6,suspicious,persistence;overlay;64bits;peexe;signed,2025-12-25T17:30:50.138500,success
