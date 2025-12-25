@@ -9119,3 +9119,5 @@ dcb690747a11527c5ad9919521ffd27a29563f24c19df3d7f9218fdea6e88622,sha256,malwareb
 1a9cd08680adf2f14806a8268b6710cee2b18ac046c912be5fbee54fcaebcf80,sha256,malwarebazaar,2025-12-25 05:04:21,30,39,malware,elf,2025-12-25T05:04:21.835293,success
 e1b8b76b327b7253e25566550b8d05c711522e5174ac75da9c2409920e372e5e,sha256,malwarebazaar,2025-12-25 05:30:06,28,36,malware,assembly;spreader;peexe;detect-debug-environment,2025-12-25T05:30:06.496801,success
 c33b723bec37bb942be0b3d50ae047e93e66bff86f11fa271c44c62bc7d82081,sha256,malwarebazaar,2025-12-25 05:30:15,4,5,unknown,signed;bobsoft;invalid-signature;overlay;peexe,2025-12-25T05:30:15.337898,success
+cacbdcb31a8192e96b00a3279804fac237be6f86048c9fa428bf295fa9ee1fe9,sha256,malwarebazaar,2025-12-25 06:30:32,17,22,malware,64bits;checks-disk-space;persistence;peexe,2025-12-25T06:30:32.851670,success
+a6c0894f388282d55462bbfc84a9ff1b17fb46e010d8cda0c7b66e3c680a5fd3,sha256,malwarebazaar,2025-12-25 06:30:41,7,9,suspicious,exe-pattern;detect-debug-environment;powershell;long-base64,2025-12-25T06:30:41.628998,success
