@@ -9039,3 +9039,11 @@ a3719f7fd896d3de0649cbf6b3e3b41bfbd681d2c275e9adea06fdd434f0b825,sha256,malwareb
 9ef16448f9b5985feb628267f3eb47455ad3a7067d1be1ff1f51fec1824c6b42,sha256,malwarebazaar,2025-12-24 22:31:50,1,1,unknown,upx;elf,2025-12-24T22:31:50.991655,success
 0d3c54bb8ca47f14bb732160a1c140af8dce207cf1246ac5476387457db6f014,sha256,malwarebazaar,2025-12-24 22:32:52,38,50,malware,corrupted;elf,2025-12-24T22:32:52.488039,success
 49eb2d9ed48766c5a1a6b630d8f651c9c8bafc3aead73b122f9c4c35a6b6642a,sha256,malwarebazaar,2025-12-24 23:31:23,0,0,unknown,jar;checks-cpu-name;detect-debug-environment;sets-process-name,2025-12-24T23:31:23.798410,success
+c1bb4b744be9284503919ae0a9b7a7b823c6265d577039bd7747b7cc901551a5,sha256,malwarebazaar,2025-12-25 00:00:06,9,11,suspicious,peexe;overlay;long-sleeps;executes-dropped-file;detect-debug-environment,2025-12-25T00:00:06.347072,success
+dd60a6594fac2d3d4984a4a56a5ed8108ba769481ea789cc82ef22cc33388aca,sha256,malwarebazaar,2025-12-25 00:00:15,36,47,malware,bobsoft;peexe;spreader,2025-12-25T00:00:15.213603,success
+c10fa9d1c08603b40c12d485d9efe158df40c0ab3c0af8b9da6b433367057de5,sha256,malwarebazaar,2025-12-25 00:00:23,18,23,malware,64bits;peexe,2025-12-25T00:00:23.946817,success
+47ea54d7dea75f40b5733b5984c6fcd50df95814302abac61aaa267fffe0572d,sha256,malwarebazaar,2025-12-25 00:00:32,23,30,malware,pedll;signed;spreader;64bits;overlay,2025-12-25T00:00:32.858295,success
+54acba43e7a1843f01e0ff18d01acfc74bc402542c1c3f6f4b30616105c2fbf5,sha256,malwarebazaar,2025-12-25 00:00:41,19,25,malware,peexe;64bits,2025-12-25T00:00:41.605452,success
+e497c9a0007fab8952a853de58ff0286a4d18ce08a6a8ed6737a0541d65bdab0,sha256,malwarebazaar,2025-12-25 00:00:50,4,5,unknown,64bits;overlay;peexe;corrupt;checks-cpu-name,2025-12-25T00:00:50.430851,success
+99609dd12b9802b94a45b868f9adf6adb10a945fde16943c782ec0ade2a74694,sha256,malwarebazaar,2025-12-25 00:00:59,21,27,malware,invalid-signature;64bits;pedll;spreader;overlay,2025-12-25T00:00:59.195937,success
+2a9b4a95765cced2d235e9af92e8e51497343ec037f07ed4e6a9c0c167166567,sha256,malwarebazaar,2025-12-25 00:01:07,31,40,malware,long-sleeps;detect-debug-environment;pedll;persistence;64bits,2025-12-25T00:01:07.950065,success
