@@ -9603,3 +9603,4 @@ e76101bb40d7bc6e8cd3b014fd4e03b584c21a9be66100671af829aeafcde8ae,sha256,malwareb
 185578afe704fa7cd3c6cbbf034b9977ccfb1bd6ea65be0eb207b0664b616d3d,sha256,malwarebazaar,2025-12-26 10:30:24,6,7,suspicious,macho;64bits,2025-12-26T10:30:24.588253,success
 2458ef8c7220703efe2604fdc123b79c8690898e76f5b8f804b9e92c2e2e9451,sha256,malwarebazaar,2025-12-26 10:30:33,9,11,suspicious,peexe;overlay,2025-12-26T10:30:33.338379,success
 661966147abc2d55a6c77fec793b632ca5ac1117ca6a85574fba7744be0227c6,sha256,malwarebazaar,2025-12-26 10:30:42,24,31,malware,64bits;arm;spreader;elf;detect-debug-environment,2025-12-26T10:30:42.126569,success
+9ca6bbdab55c8dcf79dd1f8fb360e887a48f3ae889b367f3f2c71972e54b0fbc,sha256,malwarebazaar,2025-12-26 11:01:16,29,38,malware,elf;spreader,2025-12-26T11:01:16.807425,success
