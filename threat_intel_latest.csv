@@ -9770,3 +9770,11 @@ fbe280fcc22fd1a5159095c1f3e5470264a88acefde7fe340e8520edc76cd340,sha256,malwareb
 879df6dc96056b57859af7a64d521721d11b3d3392cc858a072eed1fad291feb,sha256,malwarebazaar,2025-12-26 18:33:09,35,46,malware,detect-debug-environment;arm;spreader;elf;sets-process-name,2025-12-26T18:33:09.784803,success
 6217ff9b1e7b0a591d38cbb59ae1cafdffaed91086a83f77313cbccbf34c19ea,sha256,malwarebazaar,2025-12-26 18:33:18,33,43,malware,sets-process-name;elf;spreader;detect-debug-environment;arm,2025-12-26T18:33:18.741214,success
 84e3f0e9ae812e7da2b101156fa943f73c6b06c15e93b975df6128e2be30bbb7,sha256,malwarebazaar,2025-12-26 18:33:27,37,48,malware,spreader;elf;sets-process-name;detect-debug-environment,2025-12-26T18:33:27.541280,success
+ef8327d24301c306961c16eb8e076f13b9909e84cd95d2c355abc84fc60e7866,sha256,malwarebazaar,2025-12-26 19:01:25,31,40,malware,elf;spreader,2025-12-26T19:01:25.790561,success
+5fddba43227c703d15db8896f59bd2665a738e2700ce4b20310bf376d2906303,sha256,malwarebazaar,2025-12-26 19:01:34,20,26,malware,detect-debug-environment;arm;elf;self-delete;upx,2025-12-26T19:01:34.514814,success
+b89cc6d48fbb2087d2868c64f99a4da4e424777929e6b67500f47c2b0f8f2544,sha256,malwarebazaar,2025-12-26 19:01:43,27,35,malware,elf;corrupted,2025-12-26T19:01:43.229232,success
+5b65b05e77a9f23bb8609ec1476e498f8cebabc94d7d84da6e7fd83a5d309595,sha256,malwarebazaar,2025-12-26 19:01:51,29,38,malware,elf,2025-12-26T19:01:51.937123,success
+72afdb366a0092af278eb4d0b39b8be53adde9e7e68ed7f3e7e130e7f656f13e,sha256,malwarebazaar,2025-12-26 19:02:00,28,36,malware,self-delete;sets-process-name;upx;elf,2025-12-26T19:02:00.676396,success
+62a1e657f22977d43397c66823a51894a6d38c47ecb5894eeb294a1f7b782918,sha256,malwarebazaar,2025-12-26 19:02:09,29,38,malware,arm;payload;elf,2025-12-26T19:02:09.400196,success
+09e6fa2db9a245773ae69ca2a96ab4f81e38fe3101f144d1e022e8a92105352b,sha256,malwarebazaar,2025-12-26 19:02:18,28,36,malware,arm;upx;elf;detect-debug-environment,2025-12-26T19:02:18.097895,success
+fbbad732d1278595851b2a2d0a1a4bfd02e02bf35c1c060f9953404b6fdbce48,sha256,malwarebazaar,2025-12-26 19:02:27,4,5,unknown,html;contains-embedded-js,2025-12-26T19:02:27.021666,success
