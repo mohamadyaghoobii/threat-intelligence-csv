@@ -9584,3 +9584,11 @@ f187420c86097fe2f566971fc7331ef5bacf63b7d0a795f3c027ea173b07b4c9,sha256,malwareb
 9586b2314ecb00c6d48996d5fee3fccf63b1455588a986de958e93129a50fa38,sha256,malwarebazaar,2025-12-26 08:33:19,5,6,suspicious,upx;elf;64bits;sets-process-name;service-scan,2025-12-26T08:33:19.615609,success
 744704c65299ab114c1394aa7a91e84d60764861048ee4e0149f212a6e410111,sha256,malwarebazaar,2025-12-26 08:33:28,6,7,suspicious,upx;elf;service-scan;sets-process-name,2025-12-26T08:33:28.434826,success
 3dd155f3c749a1a2eb1a818072588b2bdf80bda9d1e1a4843dc3cabd6a41e64e,sha256,malwarebazaar,2025-12-26 09:03:09,12,15,malware,64bits;idle;peexe,2025-12-26T09:03:09.399744,success
+388fc4c43c29e84f1446b3b6dfbc361107ab795e898f354d99aa81613dbc445d,sha256,malwarebazaar,2025-12-26 09:30:07,2,2,unknown,html;contains-embedded-js,2025-12-26T09:30:07.432457,success
+021ae0b2f7dce77ec2440a0c1c42d53d92a2d525846cb074ac1d2b752af9de7b,sha256,malwarebazaar,2025-12-26 09:30:25,10,13,malware,elf,2025-12-26T09:30:25.268354,success
+46d591386f0a1df788ed0ead7013ab369ec4ca187583bbb676e2b1bd469a595e,sha256,malwarebazaar,2025-12-26 09:30:34,18,23,malware,checks-cpu-name;peexe;assembly;detect-debug-environment;persistence,2025-12-26T09:30:34.133268,success
+6ba9c5c312d160ccf800d382af52348ea66c6bdda44f219dfbae36c44251e9c8,sha256,malwarebazaar,2025-12-26 09:30:42,26,34,malware,checks-bios;calls-wmi;detect-debug-environment;checks-disk-space;peexe,2025-12-26T09:30:42.880292,success
+2f76ad97a35ed0c14dcc47e33c87bb271da55f8a421d3a089c24c455d2ea3767,sha256,malwarebazaar,2025-12-26 09:30:51,52,68,malware,peexe;idle,2025-12-26T09:30:51.596147,success
+6132ba2be7acdad1bdee760b3227f88d26b61677b6ddff3c48af98053d13ea82,sha256,malwarebazaar,2025-12-26 09:31:09,19,25,malware,idle;peexe;64bits,2025-12-26T09:31:09.082786,success
+43de8d4bf8be8f3248e81c45a5034b84376d9bb2f78b5580c2dc67a744674ae2,sha256,malwarebazaar,2025-12-26 09:32:10,4,5,unknown,elf,2025-12-26T09:32:10.987254,success
+2da222e7113d9131f60467f8ed3a917c9939fd65683709a459589fbf8978849f,sha256,malwarebazaar,2025-12-26 09:32:45,27,35,malware,elf;arm;spreader;detect-debug-environment,2025-12-26T09:32:45.974154,success
