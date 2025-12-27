@@ -9970,3 +9970,4 @@ bcb9650b8e5636b5d05b339fa34c08d5a074bc153ed99a83efcd5372c401bdff,sha256,malwareb
 6c8bae9bfd49c260f05b6ce84c021eb2c4600ef73daeccf0e92b7eeb08bf5c2c,sha256,malwarebazaar,2025-12-27 04:33:03,17,22,malware,elf;sets-process-name;service-scan,2025-12-27T04:33:03.624352,success
 e590bd95dad14b62275f9e7f9d9fd1a8cb61cdba65b0905a79edde8513723699,sha256,malwarebazaar,2025-12-27 04:33:29,15,19,malware,elf;sets-process-name,2025-12-27T04:33:29.851835,success
 e38de0547eb5b2077ea012dddd4ddcb49f41c2acee1ab99721932ce4b35fd858,sha256,malwarebazaar,2025-12-27 05:03:56,21,27,malware,elf;sets-process-name;service-scan,2025-12-27T05:03:56.541825,success
+825c104d17a330ab2b0e8ed055d621535433d00eee46f23e7e6e955fd67196cf,sha256,malwarebazaar,2025-12-27 05:30:14,0,0,unknown,upx;elf,2025-12-27T05:30:14.541845,success
