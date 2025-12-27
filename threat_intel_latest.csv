@@ -9982,3 +9982,4 @@ c29ef94ba9a1b606f7b46b64481d873cebf413f7f20d1271e3b54b17fff21a4f,sha256,malwareb
 3948c7cfbd7599471d2ee357fff47999e5a82cf8a3fc99e1614a6683b56dde33,sha256,malwarebazaar,2025-12-27 06:31:07,42,55,malware,elf;detect-debug-environment;arm;spreader,2025-12-27T06:31:07.759254,success
 46a8fe21469b219c9e407c49c1b7b6f79c1c0139a74b0cec3318e8bca8097f88,sha256,malwarebazaar,2025-12-27 06:31:16,41,53,malware,arm;sets-process-name;detect-debug-environment;spreader;elf,2025-12-27T06:31:16.575530,success
 476db801af7f54bccca9ceb3071063c8840d6b4e985fded9643ad299155013a0,sha256,malwarebazaar,2025-12-27 06:31:25,40,52,malware,elf;corrupted,2025-12-27T06:31:25.348114,success
+90388006f1cae599954399553e69effea276a6ebb30f7c6f0452d631ed8e942a,sha256,malwarebazaar,2025-12-27 07:04:19,24,31,malware,service-scan;sets-process-name;elf,2025-12-27T07:04:19.040486,success
