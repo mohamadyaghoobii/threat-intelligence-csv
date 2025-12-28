@@ -10668,3 +10668,4 @@ f9dd65f46e8e102de6f7a6e5d423b3adc53c9791918a3b9f448899635353684d,sha256,malwareb
 a71b53d55f537c34015bbf3fb99888033d58863fbc1ac7ed8a17af94f5d04bf1,sha256,malwarebazaar,2025-12-28 12:30:16,34,44,malware,peexe;64bits;detect-debug-environment;checks-cpu-name,2025-12-28T12:30:16.804337,success
 7990be030c8ffcdadc26f43adea115dfd7b705c24be1dcf1ebdf322f4b5f27bd,sha256,malwarebazaar,2025-12-28 12:30:25,15,19,malware,elf,2025-12-28T12:30:25.474806,success
 f8c1bb3207f7a67f5d57c990b6b17220b03cdf833742899431a6d53c7fca89af,sha256,malwarebazaar,2025-12-28 12:30:34,11,14,malware,cve-2014-8361;upx;exploit;elf,2025-12-28T12:30:34.434153,success
+64c27a683d5b3ad92d08c5113e6f9bd06ff426d715b1c95bcf12ac8c8c9b509b,sha256,malwarebazaar,2025-12-28 13:00:07,23,30,malware,elf;arm;sets-process-name;detect-debug-environment;self-delete,2025-12-28T13:00:07.758310,success
