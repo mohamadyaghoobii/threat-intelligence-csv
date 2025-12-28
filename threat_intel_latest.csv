@@ -10821,3 +10821,13 @@ acd537e6a2139078cf949232087a0600359a117edb2043188cf766d75a646072,sha256,malwareb
 0afa2d3579842ab2805c4f46a0d6401b8d0c48bf94df1b7573a5fcf20c7ef066,sha256,malwarebazaar,2025-12-28 16:34:09,35,46,malware,malware;spreader;executes-dropped-file;overlay;peexe,2025-12-28T16:34:09.197643,success
 10af873c944b59688df5896b68d102438bc5ca5d3a12a7e562aada0ce1bf7307,sha256,malwarebazaar,2025-12-28 16:34:18,40,52,malware,pedll;64bits;detect-debug-environment,2025-12-28T16:34:18.076263,success
 34001bca6cbcf45ae88a5569ef82671238801cd9c2c0516aef5e3096e310ef40,sha256,malwarebazaar,2025-12-28 16:34:27,30,39,malware,calls-wmi;malware;executes-dropped-file;overlay;peexe,2025-12-28T16:34:27.222581,success
+3f8a234d1380cc4789f9d21dd108a20fe377a5dede8b2eddc551cebc64eec00f,sha256,malwarebazaar,2025-12-28 17:00:43,29,38,malware,calls-wmi;overlay;malware;executes-dropped-file;peexe,2025-12-28T17:00:43.973906,success
+6b41445e56c3cf4947c9309bedf3e1e3b7fca52748f5eec60f37cbc2210c3750,sha256,malwarebazaar,2025-12-28 17:00:52,37,48,malware,detect-debug-environment;peexe;spreader;64bits,2025-12-28T17:00:52.830816,success
+74ab74ccf255b5184539ec8e632021c3ea921369002271585921b63dadc61469,sha256,malwarebazaar,2025-12-28 17:01:01,41,53,malware,peexe;invalid-signature;spreader;64bits;overlay,2025-12-28T17:01:01.908331,success
+b18aac99dbac86ad3073d293de60535cfc725f0984ac5f11c7a94bc91d2f086b,sha256,malwarebazaar,2025-12-28 17:01:10,45,59,malware,64bits;detect-debug-environment;peexe;spreader,2025-12-28T17:01:10.794388,success
+c6d6be165e17b285033c946dc7bc3856362c040a048a499cb4dca684cfc5c631,sha256,malwarebazaar,2025-12-28 17:01:19,35,46,malware,executes-dropped-file;overlay;peexe;calls-wmi,2025-12-28T17:01:19.650937,success
+e16faaf51d930439b09ce6f4767d386cebedb2aad880ba450a666dae2739d00f,sha256,malwarebazaar,2025-12-28 17:01:28,51,67,malware,peexe,2025-12-28T17:01:28.391657,success
+cbceaf45b5442e4693a1cb24116820a26dace4d23c348ba9539b1faa049f70a6,sha256,malwarebazaar,2025-12-28 17:01:37,29,38,malware,peexe;overlay;executes-dropped-file;calls-wmi;malware,2025-12-28T17:01:37.200847,success
+7763e3560063e25d4563ebd95fa07d3f76a8ef19567c628afc418201ef3b660c,sha256,malwarebazaar,2025-12-28 17:01:46,17,22,malware,long-sleeps;persistence;malware;peexe;checks-disk-space,2025-12-28T17:01:46.109675,success
+58ed7f9d65b10b2501e5d080217ae79cd0d88ae0d784896ceac67abda03ab3ed,sha256,malwarebazaar,2025-12-28 17:01:54,37,48,malware,spreader;signed;64bits;detect-debug-environment;invalid-signature,2025-12-28T17:01:54.856894,success
+2e69f1305c1c6f89ac5f6d21acd95fa12394018985e733cf486333051707d257,sha256,malwarebazaar,2025-12-28 17:02:03,29,38,malware,elf;sets-process-name,2025-12-28T17:02:03.594019,success
