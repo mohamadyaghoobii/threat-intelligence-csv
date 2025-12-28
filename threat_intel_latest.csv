@@ -10904,3 +10904,12 @@ ae47c082ea8eb5f11ba2f0c8fa392c8933b561f5dee645a4ddfebb2a31adff9e,sha256,malwareb
 4c8bb38a2782f7af50c0f30b8ba916208d197490e618e8534fe76fb534a72481,sha256,malwarebazaar,2025-12-28 22:33:27,29,38,malware,spreader;elf;sets-process-name,2025-12-28T22:33:27.547399,success
 1a6807672bf5fa298652e2bf666aedad6aab7b6a29ddd82abfb9b747ea2d7d2f,sha256,malwarebazaar,2025-12-28 23:02:28,22,28,malware,elf;corrupted;exploit;cve-2017-17215,2025-12-28T23:02:28.430112,success
 4452b901a66eb2dcac667592db5588b71fd452830c68a882ec50498740899b2d,sha256,malwarebazaar,2025-12-28 23:02:45,24,31,malware,elf,2025-12-28T23:02:45.921907,success
+0daffde65bda959a5ea99459ca7cf2df430e9cedc1233531cb8c05b313e6fa32,sha256,malwarebazaar,2025-12-28 23:31:16,35,46,malware,elf;spreader;exploit;cve-2017-17215,2025-12-28T23:31:16.592661,success
+a8af28e024498ea082fa730afc5d4db8068cf89a85042544f769e381b6b77cea,sha256,malwarebazaar,2025-12-28 23:31:25,14,18,malware,assembly;64bits;calls-wmi;peexe;detect-debug-environment,2025-12-28T23:31:25.493659,success
+95cf20b548504cc67019ef0d5158307749043056042dcca63a5fa7228e371d61,sha256,malwarebazaar,2025-12-28 23:31:34,52,68,malware,anorganix;corrupt;peexe;payload,2025-12-28T23:31:34.240243,success
+86e6225bea4b84d5cb63328e3d1c448d1124e76b468570e1cf45976adf1a9d5e,sha256,malwarebazaar,2025-12-28 23:31:43,27,35,malware,themida;detect-debug-environment;checks-cpu-name;peexe;corrupt,2025-12-28T23:31:43.013389,success
+1ff0ef482e33e0bb8b1b6fb08e4e7372beb8772adf0542ea1bc850fdc298e0b7,sha256,malwarebazaar,2025-12-28 23:31:51,18,23,malware,service-scan;detect-debug-environment;peexe;corrupt;64bits,2025-12-28T23:31:51.779150,success
+7b251597873e6b1e495be926f410b04b4fd05fd652a33bf934c1960868d1b041,sha256,malwarebazaar,2025-12-28 23:32:00,51,67,malware,assembly;peexe;detect-debug-environment;long-sleeps;obfuscated,2025-12-28T23:32:00.589401,success
+314edd596cb5544dd49c432d8714216c25cc5febced6ff3b68418b42eba81a80,sha256,malwarebazaar,2025-12-28 23:32:09,49,64,malware,assembly;checks-user-input;peexe;detect-debug-environment;long-sleeps,2025-12-28T23:32:09.545925,success
+ef62601d0aa1ab3a4a88f81e2d528bb8fc468597e2272779cbafda0d844e8c15,sha256,malwarebazaar,2025-12-28 23:32:18,30,39,malware,arm;payload;elf,2025-12-28T23:32:18.318934,success
+930407a0f6571a280b6f6f19179fa25aeefc5256a3b38ae14cbf99342d05fd07,sha256,malwarebazaar,2025-12-28 23:32:27,26,34,malware,elf;upx;arm;sets-process-name;detect-debug-environment,2025-12-28T23:32:27.111048,success
