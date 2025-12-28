@@ -10648,3 +10648,11 @@ b6772adb5ad803d1a86fa5521c8fc7a400056fad428d8ff583dd08f103f5526b,sha256,malwareb
 b5696a6adeea7b4a0a8f3e0cc3bee8a3c352054a78b9b02fe7c1432feb1149ef,sha256,malwarebazaar,2025-12-28 10:03:55,26,34,malware,elf;sets-process-name;self-delete,2025-12-28T10:03:55.674799,success
 fcd501f9f0736e9c41aba126f394ec9b4e0f4fc4906ab7f38da20197f7cabe1f,sha256,malwarebazaar,2025-12-28 10:04:04,36,47,malware,elf;corrupted,2025-12-28T10:04:04.400062,success
 f50f37ec0d2cd7d799b30b9180a87fcdb2fa5eb6ddc60e613fb004c4b774458e,sha256,malwarebazaar,2025-12-28 10:04:13,27,35,malware,elf;spreader,2025-12-28T10:04:13.147418,success
+eb2d6a5069054048f2b960542d0fe19d5c4d62d63512230f6eb6951bf0dd8271,sha256,malwarebazaar,2025-12-28 10:30:08,21,27,malware,peexe;assembly;long-sleeps;detect-debug-environment,2025-12-28T10:30:08.102017,success
+c78e812f044c309f4100aa4e82f6542c1bfff9d73eeeb2eba0ec62fc4debc467,sha256,malwarebazaar,2025-12-28 10:30:25,7,9,suspicious,contains-embedded-js;html,2025-12-28T10:30:25.482549,success
+1741662acbd729707cf4a06d61761d084144c3142b24264b847910ec59d27a5f,sha256,malwarebazaar,2025-12-28 10:30:34,32,42,malware,long-sleeps;peexe;invalid-signature;signed;detect-debug-environment,2025-12-28T10:30:34.271925,success
+68570209f66fe178ff85aa0b02dbd60a9b59847b583e1cd4722a124da312f7b4,sha256,malwarebazaar,2025-12-28 10:30:43,22,28,malware,arm;elf;sets-process-name;detect-debug-environment;self-delete,2025-12-28T10:30:43.238594,success
+fd5dbf7b36ad30fc473fd04189c65050e6796fc1d33f9948a732acd84f37ef1d,sha256,malwarebazaar,2025-12-28 10:31:00,20,26,malware,corrupted;elf,2025-12-28T10:31:00.735959,success
+ffd6135c3b016eb0096bb0522d43cd34e608fea089773182ae75754e7f71a94e,sha256,malwarebazaar,2025-12-28 10:31:09,21,27,malware,elf,2025-12-28T10:31:09.559401,success
+f6231d72663dc1b510aa88867df8e081084ba43d47011f0135ba372eb5f27be5,sha256,malwarebazaar,2025-12-28 10:31:27,25,32,malware,arm;elf;sets-process-name;detect-debug-environment;self-delete,2025-12-28T10:31:27.024570,success
+8fbf9d5669320bc168a2954381e35f1a55593cab83ba6c21c93f538585ee03ee,sha256,malwarebazaar,2025-12-28 10:33:03,2,2,unknown,apk;android,2025-12-28T10:33:03.497888,success
