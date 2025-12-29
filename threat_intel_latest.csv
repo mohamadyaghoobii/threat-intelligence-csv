@@ -10913,3 +10913,12 @@ a8af28e024498ea082fa730afc5d4db8068cf89a85042544f769e381b6b77cea,sha256,malwareb
 314edd596cb5544dd49c432d8714216c25cc5febced6ff3b68418b42eba81a80,sha256,malwarebazaar,2025-12-28 23:32:09,49,64,malware,assembly;checks-user-input;peexe;detect-debug-environment;long-sleeps,2025-12-28T23:32:09.545925,success
 ef62601d0aa1ab3a4a88f81e2d528bb8fc468597e2272779cbafda0d844e8c15,sha256,malwarebazaar,2025-12-28 23:32:18,30,39,malware,arm;payload;elf,2025-12-28T23:32:18.318934,success
 930407a0f6571a280b6f6f19179fa25aeefc5256a3b38ae14cbf99342d05fd07,sha256,malwarebazaar,2025-12-28 23:32:27,26,34,malware,elf;upx;arm;sets-process-name;detect-debug-environment,2025-12-28T23:32:27.111048,success
+8368f35b73730975fff967181995ee7f4b331bf55ba5349629b4e85d7672c20f,sha256,malwarebazaar,2025-12-29 00:00:15,39,51,malware,overlay;peexe;detect-debug-environment;long-sleeps,2025-12-29T00:00:15.283194,success
+0fc5de3cdd82997b6c2b8d6dfc61d6af1c281a14b006a2f3cb8e3d5ffcef218d,sha256,malwarebazaar,2025-12-29 00:00:24,1,1,unknown,elf,2025-12-29T00:00:24.071741,success
+2dbfe85916582862dbbd723ae4701e3bd0147d864b95919b805b6a13c8e4d3a5,sha256,malwarebazaar,2025-12-29 00:00:32,26,34,malware,signed;pedll;persistence;long-sleeps;invalid-signature,2025-12-29T00:00:32.867993,success
+9f0077fcd8a9612499ee00c9a04fab9db9b67e7b6abebd9eb9ab113dfd05f7b7,sha256,malwarebazaar,2025-12-29 00:00:41,15,19,malware,detect-debug-environment;checks-cpu-name;calls-wmi;peexe;long-sleeps,2025-12-29T00:00:41.687796,success
+f240e1ff1e75b22c60ac317beebef5710e3fac5f691dfcd180af9c3c341c06c9,sha256,malwarebazaar,2025-12-29 00:00:50,18,23,malware,64bits;peexe;malware,2025-12-29T00:00:50.469444,success
+a0f8a49d8cc3c3ec922b05b78933da53e5916b154b844c7a7578455fa10fdefc,sha256,malwarebazaar,2025-12-29 00:00:59,30,39,malware,malware;assembly;detect-debug-environment;peexe;long-sleeps,2025-12-29T00:00:59.354505,success
+c7b4261ed1203f2bc6e17bfa2a0e31f40be1828d7ea152e218cb01f3b52e5bd0,sha256,malwarebazaar,2025-12-29 00:01:08,53,69,malware,peexe;detect-debug-environment;assembly;calls-wmi;overlay,2025-12-29T00:01:08.274526,success
+f596ecf082708f18b0781e6cfda9dafc8d6fd096a628aadcb73d38f08a324d76,sha256,malwarebazaar,2025-12-29 00:03:20,29,38,malware,elf;spreader,2025-12-29T00:03:20.579260,success
+f36f18e40a291e157fa3753c304bb7bbc1cb8fa8a5d29b595948861261532fdd,sha256,malwarebazaar,2025-12-29 00:04:22,24,31,malware,cve-2017-17215;exploit;spreader;elf,2025-12-29T00:04:22.076037,success
