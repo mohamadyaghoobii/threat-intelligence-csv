@@ -11029,3 +11029,10 @@ ae264d0647272e2dc13a91f0e6eac0bf5ea2ef3c847c66966cdcd54e7f771e69,sha256,malwareb
 6dd3846bafb8cb43b5f9cce56a7eebb7f0c98a67320cd473ad519f4ea96f47da,sha256,malwarebazaar,2025-12-29 05:34:05,45,59,malware,assembly;peexe;detect-debug-environment;long-sleeps,2025-12-29T05:34:05.468953,success
 0c8c54f1c697bb6f4e4618de7642b0949fd626a6832452275834b2d2b103990a,sha256,malwarebazaar,2025-12-29 05:34:14,52,68,malware,spreader;payload;corrupt;peexe;upx,2025-12-29T05:34:14.291276,success
 5077be8a481f253e69b09a17473053510409f605ed1554d108cb2d4f4cf1962e,sha256,malwarebazaar,2025-12-29 05:34:23,50,65,malware,payload;peexe;spreader,2025-12-29T05:34:23.048954,success
+fd73f956bb467f34abb1f89af3e711c9b45d5f09edba901c93fa1ff234ece090,sha256,malwarebazaar,2025-12-29 06:00:23,46,60,malware,calls-wmi;peexe;payload;spreader;checks-user-input,2025-12-29T06:00:23.786469,success
+6551a868526b2d509e8b11b0d933445bb0f9983c65c68a87161b97a0f02a22be,sha256,malwarebazaar,2025-12-29 06:00:32,3,3,unknown,elf,2025-12-29T06:00:32.613986,success
+a092a48ed5dfd788f790d6f58a830c2d0f45bc91409236570505920203982c5c,sha256,malwarebazaar,2025-12-29 06:00:41,53,69,malware,spreader;upx;peexe;persistence;checks-user-input,2025-12-29T06:00:41.439977,success
+24f7a8a6b2b8acb469c4621656ece08ece9c3031589a7e0ae4a3e257cb198ff1,sha256,malwarebazaar,2025-12-29 06:00:50,31,40,malware,peexe;long-sleeps;64bits;detect-debug-environment;persistence,2025-12-29T06:00:50.600475,success
+ad930a4d0bbc040fcb3f44a9b6eeac8a416fc51a7d07571caa7c514e8c7351fc,sha256,malwarebazaar,2025-12-29 06:00:59,34,44,malware,64bits;spreader;peexe;detect-debug-environment;persistence,2025-12-29T06:00:59.733520,success
+088d77a9df20b83458d876c5571e8436b4eea6d65017a71108a26ed8e4eb756e,sha256,malwarebazaar,2025-12-29 06:01:08,32,42,malware,peexe;payload;64bits,2025-12-29T06:01:08.509548,success
+8c515cf0b2b39fabf9d2dbe2a50d4de49bfced2514d36cff257b71880f3d778e,sha256,malwarebazaar,2025-12-29 06:01:17,23,30,malware,checks-hostname;service-scan;detect-debug-environment;shell,2025-12-29T06:01:17.383175,success
