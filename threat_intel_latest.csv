@@ -11401,3 +11401,8 @@ cd76ec47568102c823705ef88935024922fbb344a9947de96a83a7a30a65f72c,sha256,malwareb
 dac9074084017cdc1bc24ec20b12b34d5071e76bfac2958da00d46ade34397c9,sha256,malwarebazaar,2025-12-29 21:32:02,28,36,malware,spreader;elf;upx,2025-12-29T21:32:02.957480,success
 f1c5d5c9c842db91fd1c53245608636be50f1dcceb47ba6080c695da546a2dab,sha256,malwarebazaar,2025-12-29 21:32:11,0,0,unknown,zip,2025-12-29T21:32:11.710848,success
 9391833dbf6ff515bbec0de3e328bc4ee5170552fa76c461944cf1e7f09bcfd3,sha256,malwarebazaar,2025-12-29 21:32:20,26,34,malware,elf,2025-12-29T21:32:20.476437,success
+119fe2b1af4b4d49030d5126dedecfe407a82e7c8dfa18b78dac5c8255c85f40,sha256,malwarebazaar,2025-12-29 22:31:17,11,14,malware,android;encrypted;apk;obfuscated;reflection,2025-12-29T22:31:17.746322,success
+c5f2e40bbcf086e36bce2fcb973115badd08ac3b2ab1f83cb0cb5a3e8ed7ea91,sha256,malwarebazaar,2025-12-29 22:31:26,26,34,malware,peexe;themida;64bits;calls-wmi;checks-cpu-name,2025-12-29T22:31:26.613182,success
+cc93e74a6499f7fec985826fd5eafb142cf3542b99326c00371ac5b5b62e4328,sha256,malwarebazaar,2025-12-29 22:31:44,12,15,malware,android;encrypted;apk;obfuscated;reflection,2025-12-29T22:31:44.270256,success
+df04a1bb1503cf6cd82d28a2c49edc387f1968d50087f36f3a25c55072b721b5,sha256,malwarebazaar,2025-12-29 22:31:53,15,19,malware,elf;sets-process-name;detect-debug-environment,2025-12-29T22:31:53.025066,success
+4a90bfe4054cd21f045717642273fa89bbd3fdf4c6808811ab1904b4175680a1,sha256,malwarebazaar,2025-12-29 22:32:01,31,40,malware,idle;detect-debug-environment;peexe;64bits;calls-wmi,2025-12-29T22:32:01.920991,success
