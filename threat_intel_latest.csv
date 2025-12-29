@@ -11267,3 +11267,4 @@ e31eafb49dbcad079ff177703b5a033f3e0365991cf28492339eccfe0fdf812c,sha256,malwareb
 8f44fa89ca0dca60702921df8d08358a07900217645fd78f5377740d6501bb3b,sha256,malwarebazaar,2025-12-29 12:31:53,49,64,malware,assembly;peexe;detect-debug-environment;long-sleeps;obfuscated,2025-12-29T12:31:53.296573,success
 0c4266858173ef3ef412a752b4b43733338c31057856d24cf1cd1363521137fa,sha256,malwarebazaar,2025-12-29 12:32:37,52,68,malware,zip;contains-pe;checks-disk-space;persistence;detect-debug-environment,2025-12-29T12:32:37.539732,success
 b8d8905420988bceed40495970b2b88c354b0a2e3acc5059da040e0f194a071d,sha256,malwarebazaar,2025-12-29 12:33:22,52,68,malware,long-sleeps;detect-debug-environment;peexe;assembly;obfuscated,2025-12-29T12:33:22.054306,success
+ffa06b1e229733d961237ddfeb55a853a0db35e58078ef773dec3a1a133e4e73,sha256,malwarebazaar,2025-12-29 13:04:22,26,34,malware,arm;upx;detect-debug-environment;elf;sets-process-name,2025-12-29T13:04:22.640367,success
