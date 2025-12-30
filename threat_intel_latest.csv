@@ -11781,3 +11781,14 @@ a601fb9652d4e9d2e0523e73e8c8fd53ed1c27f228fd96eec71a441e11e8a3b6,sha256,malwareb
 fbc7cdce15c5c30e0d14e82e9de420a1f71d611fca0b95ceec2d49dfa606d5fa,sha256,malwarebazaar,2025-12-30 16:04:05,11,14,malware,javascript,2025-12-30T16:04:05.035966,success
 492d7082a213ccefc5582a5156cdc9974301b05b5a28c19251d40ab6f4f7395d,sha256,malwarebazaar,2025-12-30 16:04:13,11,14,malware,javascript,2025-12-30T16:04:13.820828,success
 2c7a3c8845cf31780a789f7f700619701370958666039f54e037e47fd579ca73,sha256,malwarebazaar,2025-12-30 16:04:22,10,13,malware,javascript,2025-12-30T16:04:22.599770,success
+e6a1fb402b80ab63c6f5eff4c25e4eae74ccf79d0a8f2aafff84b85e02301b52,sha256,malwarebazaar,2025-12-30 16:30:16,16,21,malware,xml;long-sleeps,2025-12-30T16:30:16.431588,success
+5ac8b5eddce05a044d369dc547dad88e9469fa7919aa51d139dd03b6d62022e1,sha256,malwarebazaar,2025-12-30 16:30:25,10,13,malware,checks-cpu-name;peexe;overlay;corrupt;64bits,2025-12-30T16:30:25.312565,success
+13ce5c118a3fbf487bafcabed33baf036c4d52cf9d86aa96ee5b3fd12b466d6d,sha256,malwarebazaar,2025-12-30 16:30:34,29,38,malware,64bits;persistence;detect-debug-environment;peexe,2025-12-30T16:30:34.084200,success
+c59564b9123536a193f5b7430f4f6494d0e92cd5394151b9f6d042dbadf95e14,sha256,malwarebazaar,2025-12-30 16:31:00,51,67,malware,upx;peexe;long-sleeps;calls-wmi;overlay,2025-12-30T16:31:00.471062,success
+8a7ccca829a33949eea69bfbc22fa16d3a206b71cab4fc50f75ca658b13ab40b,sha256,malwarebazaar,2025-12-30 16:31:09,8,10,suspicious,corrupt;peexe;overlay;64bits,2025-12-30T16:31:09.374032,success
+3bb8ba2f8feb6612367b34aa3c1d78715963c11d8d4b560b4cca8231261c1a6c,sha256,malwarebazaar,2025-12-30 16:31:18,28,36,malware,64bits;peexe,2025-12-30T16:31:18.230234,success
+7913a3dd8aa993ac49112d4583b96e28d527bc7a37aead7ff5b9563f65b6f308,sha256,malwarebazaar,2025-12-30 16:31:27,30,39,malware,elf,2025-12-30T16:31:27.123955,success
+36e08e2b542a9fa337282aa0aeef9207e81286e81845128a64cde1e0b0f7c7e6,sha256,malwarebazaar,2025-12-30 16:31:44,30,39,malware,elf;arm;sets-process-name;detect-debug-environment,2025-12-30T16:31:44.803605,success
+a3a156bc7261bf40b1575eabd96aacd003d079bf9b1e3f81402bda08781c8e0b,sha256,malwarebazaar,2025-12-30 16:31:53,25,32,malware,spreader;peexe,2025-12-30T16:31:53.667329,success
+6f1972ddb60b06307c27ed7c3fd286246a93b06edf9a47815065aeefe9aa4da2,sha256,malwarebazaar,2025-12-30 16:34:23,11,14,malware,javascript,2025-12-30T16:34:23.803962,success
+fbf57d5aab80a656a653c03898b7bb1385273fdebacdfe0a34da0059d562ebcd,sha256,malwarebazaar,2025-12-30 16:34:32,11,14,malware,javascript,2025-12-30T16:34:32.606303,success
