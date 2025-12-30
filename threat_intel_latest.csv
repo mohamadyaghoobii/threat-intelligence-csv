@@ -11410,3 +11410,10 @@ df04a1bb1503cf6cd82d28a2c49edc387f1968d50087f36f3a25c55072b721b5,sha256,malwareb
 9a5409c52b1a4e878ca28c9b1e6292f3bdca1b01f1d98c93ee1c2eab12860799,sha256,malwarebazaar,2025-12-29 23:31:25,0,0,unknown,zip,2025-12-29T23:31:25.271087,success
 e43e3bfc37c70a878067e20b3c6f7423943b2d52d6ec87fcac3221ebc08f1a57,sha256,malwarebazaar,2025-12-29 23:31:34,5,6,suspicious,long-sleeps;malware;powershell;checks-disk-space;detect-debug-environment,2025-12-29T23:31:34.014400,success
 2c5d1d736ac09abf9e9cd1eb50e9fafdcd3128d94e2d2600bad8c5d89274f230,sha256,malwarebazaar,2025-12-29 23:31:42,0,0,unknown,zip,2025-12-29T23:31:42.751205,success
+1c3d8b83c1d456f8ebeea6dda040d1741df965e92157fab965d8f01969f31872,sha256,malwarebazaar,2025-12-30 00:00:15,25,32,malware,overlay;peexe;64bits,2025-12-30T00:00:15.457292,success
+b86b26edc4ba78868793450f3b3b6f74afd4304bf005e0583e311da548a84ef5,sha256,malwarebazaar,2025-12-30 00:00:24,33,43,malware,calls-wmi;peexe;assembly;detect-debug-environment;long-sleeps,2025-12-30T00:00:24.481168,success
+cc602ccf1bccf62233fc5f6450ea3e3dedfa9d8113cc02488f089df7db92f4d8,sha256,malwarebazaar,2025-12-30 00:00:33,17,22,malware,long-sleeps;64bits;checks-cpu-name;detect-debug-environment;peexe,2025-12-30T00:00:33.645033,success
+f28b18aad1b26d5cae9e59f4d893259d26c36535ea4fe2060c78a154ee65ed47,sha256,malwarebazaar,2025-12-30 00:00:42,18,23,malware,64bits;peexe;detect-debug-environment;persistence;invalid-signature,2025-12-30T00:00:42.368848,success
+2eacd6a469a49aed5deed4891158195eda16103a31746b893bebd739472116fc,sha256,malwarebazaar,2025-12-30 00:01:00,27,35,malware,peexe;overlay;64bits;spreader;detect-debug-environment,2025-12-30T00:01:00.206670,success
+a0286479847a9b004f167b912d00232fda2dea6127227901aa7ad7571345a1c6,sha256,malwarebazaar,2025-12-30 00:01:09,10,13,malware,64bits;peexe;detect-debug-environment;long-sleeps;persistence,2025-12-30T00:01:09.488241,success
+0992cac6336f99693e0dc5534bfe1ea9c9baff6f54a60a74f2e11054764f2840,sha256,malwarebazaar,2025-12-30 00:03:55,22,28,malware,elf,2025-12-30T00:03:55.502458,success
