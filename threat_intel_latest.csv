@@ -11474,3 +11474,11 @@ b602f8e9f2f27d257a042d9fcc562c1d6d3401a50f0796edf05f063521e46784,sha256,malwareb
 f33aaa9a8050688663d19d7ddce46dc7c8984341c1004f3453f3737f56c1a3e3,sha256,malwarebazaar,2025-12-30 02:34:11,30,39,malware,arm;elf;detect-debug-environment,2025-12-30T02:34:11.981067,success
 ada470431f1637bcc307f8840e0805b6017c4a202b4acf000b0bb2affa992992,sha256,malwarebazaar,2025-12-30 03:02:18,25,32,malware,elf,2025-12-30T03:02:18.437587,success
 8b36855822062c954e87dbc23c88928215b5e8889c2e44d7af5385b593c33b65,sha256,malwarebazaar,2025-12-30 03:02:53,19,25,malware,elf,2025-12-30T03:02:53.467687,success
+8132fa375a3d8e5715d3e20b1613596c14564a175b1ac4cc3d0ac7e63faab57a,sha256,malwarebazaar,2025-12-30 03:30:07,46,60,malware,peexe;detect-debug-environment;assembly;long-sleeps,2025-12-30T03:30:07.032891,success
+05a8ecb7669947dadbde7df995a78a8d42a93ed12ae8f70a3e695cb315c3bf2e,sha256,malwarebazaar,2025-12-30 03:30:15,26,34,malware,payload;64bits;elf;spreader,2025-12-30T03:30:15.828543,success
+e42673f2c89cd02089124077fd2ffc2ac856cdc4496d715393eb2b8d8cceee2a,sha256,malwarebazaar,2025-12-30 03:30:42,22,28,malware,arm;elf;sets-process-name;detect-debug-environment,2025-12-30T03:30:42.170764,success
+2c5ec4d9f6c1b1a00f7c47eb4ce0ce202db4ee1c85781d5bdf7f5709de30e410,sha256,malwarebazaar,2025-12-30 03:30:50,30,39,malware,elf;arm;sets-process-name;detect-debug-environment,2025-12-30T03:30:50.898411,success
+bf719dbfc7c833d31bb8c820bade77ae5096fd38519de5afc722b0d261e3953e,sha256,malwarebazaar,2025-12-30 03:31:00,18,23,malware,elf,2025-12-30T03:31:00.359722,success
+14126a02bbddcaea4567f4fbc49691f123b6b324bdf764dee3817fdfc604bff9,sha256,malwarebazaar,2025-12-30 03:31:09,22,28,malware,arm;elf;sets-process-name;detect-debug-environment,2025-12-30T03:31:09.166563,success
+0c728c8492f761c60a43bc5308392127bc461f1fa2a81f3979020a8554415951,sha256,malwarebazaar,2025-12-30 03:31:18,20,26,malware,elf,2025-12-30T03:31:18.257102,success
+357bdf80787d3028a81b898785f843ab72ca6dfdb7d5eef371fa7e158ce0446e,sha256,malwarebazaar,2025-12-30 03:31:27,30,39,malware,arm;elf;sets-process-name;detect-debug-environment,2025-12-30T03:31:27.286357,success
