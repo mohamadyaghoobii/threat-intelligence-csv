@@ -11493,3 +11493,11 @@ bf719dbfc7c833d31bb8c820bade77ae5096fd38519de5afc722b0d261e3953e,sha256,malwareb
 c6fff520600bfb25caf3c8da79d42f3cb1376f207d183633dc591765a861f22a,sha256,malwarebazaar,2025-12-30 05:30:32,23,30,malware,elf;64bits;detect-debug-environment;service-scan,2025-12-30T05:30:32.936842,success
 1fb27ae9511f1bdd5228e7a0bb0d76965e6b31b1daae07515b8f67bece799448,sha256,malwarebazaar,2025-12-30 05:30:41,20,26,malware,elf;detect-debug-environment,2025-12-30T05:30:41.633914,success
 b7cc8f5754016a855881f79245d3ab130e50fcb5ceddb223337e768ccfdd44f8,sha256,malwarebazaar,2025-12-30 05:30:50,20,26,malware,64bits;cve-2021-4034;exploit;elf,2025-12-30T05:30:50.351073,success
+8e3ca2269164b17a5d2d14e286998505b3612f0fb1038e0357984f0488a54b99,sha256,malwarebazaar,2025-12-30 06:30:06,37,48,malware,spreader;elf,2025-12-30T06:30:06.543852,success
+116070a9960deb8275ab1bf83708cbb086f65a3bf9c103ef1cf02172cbe16edb,sha256,malwarebazaar,2025-12-30 06:30:15,38,50,malware,spreader;corrupted;elf,2025-12-30T06:30:15.432388,success
+b2f8ebce7369a8ea0de60f55f330ca6221d05505c9f0a9d1ebe5fac654145645,sha256,malwarebazaar,2025-12-30 06:30:24,43,56,malware,spreader;elf,2025-12-30T06:30:24.237704,success
+1735fb907a6fe5d6366b5e7450b6b175a30fabbf226ae133ff4e169d16c1a2bd,sha256,malwarebazaar,2025-12-30 06:30:33,39,51,malware,service-scan;elf;detect-debug-environment,2025-12-30T06:30:33.050216,success
+3242a89558e06c0ee76235b9467e4231feba15c567d4eaf01d3b40da837a5a09,sha256,malwarebazaar,2025-12-30 06:30:41,40,52,malware,elf;arm;spreader;detect-debug-environment;service-scan,2025-12-30T06:30:41.787062,success
+9a836af038f270dc26adad7a0ec58293c079cfdd9212db550cca495148aa6580,sha256,malwarebazaar,2025-12-30 06:30:50,17,22,malware,service-scan;elf;detect-debug-environment,2025-12-30T06:30:50.575664,success
+ac038a91f60d0d7894fea8a1ad4eb4cda91210b002f7ebfa01c6efc3ff05a14a,sha256,malwarebazaar,2025-12-30 06:30:59,27,35,malware,executes-dropped-file;detect-debug-environment;peexe;persistence;overlay,2025-12-30T06:30:59.392691,success
+ff3adfb88cdba5490fcfb103d0d7ace0b192b295d68bfa4a89faae28c63efd2e,sha256,malwarebazaar,2025-12-30 06:31:17,19,25,malware,arm;elf;detect-debug-environment,2025-12-30T06:31:17.432133,success
