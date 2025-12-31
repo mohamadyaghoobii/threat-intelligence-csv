@@ -12037,3 +12037,4 @@ f2d2937fd6d4d4f77051673cc6059240ea57c0b19d02ae49adf02ca622af67db,sha256,malwareb
 e00296a2d0fc5ebfb13b01165f47bc138d6ad4148ed2241c1b85b1ab1e5ae97e,sha256,malwarebazaar,2025-12-31 09:30:33,16,21,malware,shell;sets-process-name;detect-debug-environment;self-delete,2025-12-31T09:30:33.091824,success
 6f26c33a253263bf5b63c3591a1d3bd1268faf4b78f1a7fc8b9bc3fdad7c99f5,sha256,malwarebazaar,2025-12-31 09:30:42,46,60,malware,peexe;calls-wmi;detect-debug-environment;persistence;long-sleeps,2025-12-31T09:30:42.029510,success
 7afdcc000a267289caf9c25cfcbdd37f217f2e1d592927adff6c7bdbe4779eed,sha256,malwarebazaar,2025-12-31 09:31:08,39,51,malware,detect-debug-environment;shell,2025-12-31T09:31:08.510549,success
+f59d50779b147e8fff9b5d6a02b716dfe62aa1a3776ca53a78795890fb6fc354,sha256,malwarebazaar,2025-12-31 10:03:45,14,18,malware,jar;sets-process-name;checks-cpu-name;detect-debug-environment;long-sleeps,2025-12-31T10:03:45.272088,success
