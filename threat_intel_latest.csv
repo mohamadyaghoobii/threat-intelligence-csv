@@ -12152,3 +12152,9 @@ b00b77ec01df64677a7efa571a4a920e8167ed039d4f3fe4e95fa130d2b3e844,sha256,malwareb
 5dd072a2d760d5ddc8bff66bbcada5151608890baa141eb5ce84dc04a53b68be,sha256,malwarebazaar,2025-12-31 18:33:03,45,59,malware,spreader;idle;64bits;peexe,2025-12-31T18:33:03.293727,success
 79aaceccb8865b4d31fda778be72f42296928d8ae81c201c6d3a0a4db72f6635,sha256,malwarebazaar,2025-12-31 18:33:12,58,76,malware,spreader;overlay;peexe,2025-12-31T18:33:12.068074,success
 6ecec5d0c501c1cc327fc7f17f15257d2d4d089ec4b0f35a66254565e69a1796,sha256,malwarebazaar,2025-12-31 18:33:29,1,1,unknown,checks-disk-space;calls-wmi;powershell;detect-debug-environment;long-sleeps,2025-12-31T18:33:29.801541,success
+5506f9cf0991aae4872940821a84bc6fdce948a288cc2a3ca2efe2e0f3059d79,sha256,malwarebazaar,2025-12-31 19:01:26,38,50,malware,64bits;detect-debug-environment;peexe;persistence;checks-disk-space,2025-12-31T19:01:26.680823,success
+7ee5d92d85ff28ab7a959861ba347f0b0a46bd0643de23b128a3d2118d02ac56,sha256,malwarebazaar,2025-12-31 19:01:35,5,6,suspicious,contains-embedded-js;self-delete;html;idle,2025-12-31T19:01:35.496618,success
+dbf70c4f0f32b60c10d6f312c0a218a58e69e4094992c2186993e8e59fa6791f,sha256,malwarebazaar,2025-12-31 19:01:44,35,46,malware,payload;elf,2025-12-31T19:01:44.299919,success
+5eee3aaf22faadf2399c07ec1238ff4ce9a9764879832bd22c849ead06659c49,sha256,malwarebazaar,2025-12-31 19:01:53,30,39,malware,spreader;upx;elf,2025-12-31T19:01:53.043020,success
+7cef64a7600abb19271970e08a56ee73def383bfae762f98f8efefd2114afd4a,sha256,malwarebazaar,2025-12-31 19:02:01,33,43,malware,arm;payload;elf,2025-12-31T19:02:01.791913,success
+6e81e58a473a7bdbf1f142d3ca701434d27c3afa516ad0f0d6b01ec5f5bbc682,sha256,malwarebazaar,2025-12-31 19:02:19,33,43,malware,peexe,2025-12-31T19:02:19.355508,success
