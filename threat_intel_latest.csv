@@ -12236,3 +12236,11 @@ b5d446d3991fb2adbb7e31a3ecb733973183363f9efb07f32ec27272e835953f,sha256,malwareb
 aa23d2986fef25e5313efefb5f16d66ccabf019f6eaafcef79b5fbacdf825457,sha256,malwarebazaar,2025-12-31 21:33:11,33,43,malware,elf,2025-12-31T21:33:11.504786,success
 05ff281baf8cd2052f2bb227682c68176021ed2ab8f9fa0addc25d1e5e5ac8e3,sha256,malwarebazaar,2025-12-31 21:33:20,29,38,malware,elf,2025-12-31T21:33:20.260862,success
 43b12581cef1bff6ca4a3c66d9e9c02483d4fb0e05c86cb44da27c4d9bd7c10d,sha256,malwarebazaar,2025-12-31 21:33:29,14,18,malware,elf,2025-12-31T21:33:29.024512,success
+dc8e7ce6c2e052cca07903f1ac653e2c8c16b87530173f59d82807645d9aaa3a,sha256,malwarebazaar,2025-12-31 22:01:17,31,40,malware,payload;elf,2025-12-31T22:01:17.609094,success
+ed87571dcd26d73691bb8bb77542a0a4b287c7978740d7a49cf564b77e278051,sha256,malwarebazaar,2025-12-31 22:01:26,13,17,malware,elf,2025-12-31T22:01:26.457943,success
+b845688b26d677ca6e21daf9afc85c17b868fd2652b9b95f19be8f2352b36593,sha256,malwarebazaar,2025-12-31 22:01:35,27,35,malware,upx;spreader;elf;sets-process-name;detect-debug-environment,2025-12-31T22:01:35.194112,success
+9baf3e3ded6e3f2bcf13de262bec998ef0e0121ae74b5b8765bfa8c0d670a155,sha256,malwarebazaar,2025-12-31 22:01:44,33,43,malware,elf;sets-process-name;detect-debug-environment,2025-12-31T22:01:44.443077,success
+b7e97f844ade8897a1431834b7f4b573872f7ca397cff0700d3477ceb2730599,sha256,malwarebazaar,2025-12-31 22:01:53,27,35,malware,upx;elf;spreader;sets-process-name;detect-debug-environment,2025-12-31T22:01:53.234703,success
+c17940c3b5f774b7d1b24542010805eb200cdeefc89f7c6f89244bc16b3dc02f,sha256,malwarebazaar,2025-12-31 22:02:01,22,28,malware,elf;arm;detect-debug-environment,2025-12-31T22:02:01.982992,success
+334be9f7f5912edbfeeb0687e31aeb1171ddbf06ca3f48aede3f851584079874,sha256,malwarebazaar,2025-12-31 22:02:11,20,26,malware,elf,2025-12-31T22:02:11.056165,success
+e53c5fea34775025f3e40353f423ee44a9435dee5f099a27b09dbfa711c1712d,sha256,malwarebazaar,2025-12-31 22:02:20,32,42,malware,elf;payload,2025-12-31T22:02:20.004317,success
