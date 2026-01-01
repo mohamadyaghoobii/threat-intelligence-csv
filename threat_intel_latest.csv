@@ -12461,3 +12461,8 @@ f10975f7ed0d62119552e06dcf250bdb6255ca935223a04eb42d9eb273b9409a,sha256,malwareb
 45c56406bfdbae77be9ab17a03b41c3a406f730db6bdc59062266f02534cfc4a,sha256,malwarebazaar,2026-01-01 05:30:06,19,25,malware,64bits;peexe;detect-debug-environment,2026-01-01T05:30:06.464750,success
 69a80f50cdb8342133da5f885c481b310083af2a03903c421de53330b1de604e,sha256,malwarebazaar,2026-01-01 05:30:15,17,22,malware,shell,2026-01-01T05:30:15.330477,success
 8c6cd5dbb071f90dd61475561990b476ddbb00444a34de68d72582153cee5468,sha256,malwarebazaar,2026-01-01 06:30:06,53,69,malware,checks-user-input;assembly;peexe,2026-01-01T06:30:06.024781,success
+8675346f9e1c51b420b0220d2e058d0329cd8c180448535db94fe85d932a2c84,sha256,malwarebazaar,2026-01-01 07:30:06,2,2,unknown,idle;runtime-modules;peexe;direct-cpu-clock-access;bobsoft,2026-01-01T07:30:06.905285,success
+eaa0b7e65f2006d797d8264cdde107c98e0fc807fd7d97239ace335477e9024e,sha256,malwarebazaar,2026-01-01 07:30:15,21,27,malware,malware;executes-dropped-file;overlay;peexe;calls-wmi,2026-01-01T07:30:15.826252,success
+3e79a0d9bc013f3374aa8aa1129b1aa53a1bf16aeea1e8c9d06d0d964324feaf,sha256,malwarebazaar,2026-01-01 07:30:24,8,10,suspicious,contains-embedded-js;html,2026-01-01T07:30:24.537993,success
+d6782b7c6a4f1929f871a725a75aca764d091bab3fa9e82efb95612acdc5b14c,sha256,malwarebazaar,2026-01-01 07:30:33,24,31,malware,text,2026-01-01T07:30:33.284833,success
+1fc3c9e695fcd4af0944aa3a9ab4f09512b32438292e7ee01f745483d5d1faaa,sha256,malwarebazaar,2026-01-01 07:30:42,31,40,malware,peexe;64bits;checks-cpu-name;calls-wmi;long-sleeps,2026-01-01T07:30:42.013943,success
