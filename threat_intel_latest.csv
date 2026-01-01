@@ -12458,3 +12458,5 @@ fead5cff42dcf431fc7accea630ab0079e4901b49d52d550fded36ae0c9f04a7,sha256,malwareb
 1f212d54bf7d5b078aeb9332952485128ecaddd1c21c430ba285a77e3db95fdf,sha256,malwarebazaar,2026-01-01 04:32:57,27,35,malware,elf,2026-01-01T04:32:57.999771,success
 6e38ad1c03d53ee029211d2add845a29387b824bc89d0569df89a373d16f9928,sha256,malwarebazaar,2026-01-01 05:02:20,27,35,malware,64bits;malware;executes-dropped-file;peexe;checks-disk-space,2026-01-01T05:02:20.414037,success
 f10975f7ed0d62119552e06dcf250bdb6255ca935223a04eb42d9eb273b9409a,sha256,malwarebazaar,2026-01-01 05:03:48,13,17,malware,elf;arm;detect-debug-environment,2026-01-01T05:03:48.308147,success
+45c56406bfdbae77be9ab17a03b41c3a406f730db6bdc59062266f02534cfc4a,sha256,malwarebazaar,2026-01-01 05:30:06,19,25,malware,64bits;peexe;detect-debug-environment,2026-01-01T05:30:06.464750,success
+69a80f50cdb8342133da5f885c481b310083af2a03903c421de53330b1de604e,sha256,malwarebazaar,2026-01-01 05:30:15,17,22,malware,shell,2026-01-01T05:30:15.330477,success
