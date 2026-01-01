@@ -12514,3 +12514,15 @@ cc482813e22e8163d60982340dd4ec13e316565f0e6cf455d07550ccf348858a,sha256,malwareb
 5d4e5eba46e6f90c22cebbafe3e1b082a2d87a4ef0170b6eb4848101dfcd398c,sha256,malwarebazaar,2026-01-01 09:33:50,15,19,malware,upx;elf;arm;sets-process-name;self-delete,2026-01-01T09:33:50.838613,success
 9bd4ae57bfb24b802e3ff72f19e22c4759e87913c22a30857848dab57c10cb99,sha256,malwarebazaar,2026-01-01 10:30:06,26,34,malware,elf;spreader,2026-01-01T10:30:06.565263,success
 36e457a9bf59da702c490e967aa4d1393dfac14d895116e260bfae99ac4a5267,sha256,malwarebazaar,2026-01-01 10:30:15,26,34,malware,upx;elf,2026-01-01T10:30:15.410554,success
+5b511477942e78f0b4ccd248a31aae2cf70453da1ead4edf5ee630af97cbae90,sha256,malwarebazaar,2026-01-01 11:30:13,57,75,malware,checks-user-input;long-sleeps;calls-wmi;persistence;peexe,2026-01-01T11:30:13.019562,success
+9589717a8a2f522029a1a70a7a083545c2c24cef0ed60571955d8d442e475eef,sha256,malwarebazaar,2026-01-01 11:30:21,21,27,malware,assembly;calls-wmi;peexe;long-sleeps;detect-debug-environment,2026-01-01T11:30:21.837850,success
+f0739c2b8f687587c3683d39ba7bcaa8af4a8997adbe7aa6976c91fc34c4ce9f,sha256,malwarebazaar,2026-01-01 11:30:39,7,9,suspicious,persistence;overlay;checks-disk-space;peexe;invalid-signature,2026-01-01T11:30:39.481219,success
+59c52e9ec13aa8f1b48f28bf5a3ddf0d58b8ca2e0cb8a596a30557a535ba4cab,sha256,malwarebazaar,2026-01-01 11:30:48,11,14,malware,shell,2026-01-01T11:30:48.274572,success
+4ea4c1673e7eef97438aad7af44e77c11d152a4dd24b3190185c2e16ac0260fc,sha256,malwarebazaar,2026-01-01 11:30:57,16,21,malware,shell,2026-01-01T11:30:57.055871,success
+4bd82202aa1dc7bf3605e7951c113089fdee4e5fb0a29b1ae1207114ed998b53,sha256,malwarebazaar,2026-01-01 11:31:05,10,13,malware,shell,2026-01-01T11:31:05.783700,success
+c38bf4313b8f4cd5a20790b4e52f431e125551d049dfdddf1a36bb67733041ab,sha256,malwarebazaar,2026-01-01 11:31:14,28,36,malware,peexe;assembly;spreader;detect-debug-environment;long-sleeps,2026-01-01T11:31:14.576850,success
+201562822ac0fde495ba8bbb435da04b015a3b9965fa802ea6cb194d32573a92,sha256,malwarebazaar,2026-01-01 11:31:23,14,18,malware,persistence;peexe;64bits,2026-01-01T11:31:23.357686,success
+fe5200f8277eee967ce799f95689de06dd9d2d892fc52865d894e68e6fa05382,sha256,malwarebazaar,2026-01-01 11:31:32,34,44,malware,spreader;64bits;peexe,2026-01-01T11:31:32.105944,success
+f936f6ca0b3e7dcb347e0487cf2453af8a224fc801f33a840bf2a00bc42e77b0,sha256,malwarebazaar,2026-01-01 11:31:40,41,53,malware,peexe;64bits,2026-01-01T11:31:40.992077,success
+edc12695edc3ae24f6ddd43b40c5cdd63d4375820da845a4475b7996f10d9bd4,sha256,malwarebazaar,2026-01-01 11:31:49,2,2,unknown,idle;peexe;64bits,2026-01-01T11:31:49.771626,success
+6e7e533d81d8defa4840d418e0216dae2cc0470e4188e48b2d8853068532c2c6,sha256,malwarebazaar,2026-01-01 11:31:58,21,27,malware,checks-disk-space;detect-debug-environment;long-sleeps;powershell,2026-01-01T11:31:58.525936,success
