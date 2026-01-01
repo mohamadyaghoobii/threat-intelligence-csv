@@ -12512,3 +12512,5 @@ d11cddcf6ecfc0424f059773eb08e2620e262ceb46fc4fc360f12b62f4e13a9c,sha256,malwareb
 c6fec708a86e1c7c05a687ddde264bdfde77e8bcd31f56d031f05a6775820841,sha256,malwarebazaar,2026-01-01 09:33:33,27,35,malware,pedll;64bits;spreader,2026-01-01T09:33:33.224888,success
 cc482813e22e8163d60982340dd4ec13e316565f0e6cf455d07550ccf348858a,sha256,malwarebazaar,2026-01-01 09:33:42,40,52,malware,64bits;overlay;checks-cpu-name;pedll;long-sleeps,2026-01-01T09:33:42.035232,success
 5d4e5eba46e6f90c22cebbafe3e1b082a2d87a4ef0170b6eb4848101dfcd398c,sha256,malwarebazaar,2026-01-01 09:33:50,15,19,malware,upx;elf;arm;sets-process-name;self-delete,2026-01-01T09:33:50.838613,success
+9bd4ae57bfb24b802e3ff72f19e22c4759e87913c22a30857848dab57c10cb99,sha256,malwarebazaar,2026-01-01 10:30:06,26,34,malware,elf;spreader,2026-01-01T10:30:06.565263,success
+36e457a9bf59da702c490e967aa4d1393dfac14d895116e260bfae99ac4a5267,sha256,malwarebazaar,2026-01-01 10:30:15,26,34,malware,upx;elf,2026-01-01T10:30:15.410554,success
