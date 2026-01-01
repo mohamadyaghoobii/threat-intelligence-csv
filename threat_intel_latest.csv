@@ -12485,3 +12485,4 @@ a0220487f781a2e83966474b1e24cfbfa0fe9a9ee11dadb65a3149c7e04a0302,sha256,malwareb
 fa6a15d5310544991c512318f0af5839086c3b0b8b862af9bb96d46cd5372c3f,sha256,malwarebazaar,2026-01-01 08:32:19,26,34,malware,elf;spreader,2026-01-01T08:32:19.133257,success
 4fc3843d7f1f83565a39136323bd2fb46d5433454746581648f96e50e0cb435c,sha256,malwarebazaar,2026-01-01 08:32:27,21,27,malware,shell,2026-01-01T08:32:27.919445,success
 cdb28ec4d453c52e96faf710163c4d792ea3bce7583428c6c15daea470a18884,sha256,malwarebazaar,2026-01-01 08:32:54,12,15,malware,long-sleeps;detect-debug-environment;checks-usb-bus;overlay;signed,2026-01-01T08:32:54.162152,success
+050edadedd7947bc6418f7856a29df5b7b5550bf5eec7f5f37e9a7e1713036f6,sha256,malwarebazaar,2026-01-01 09:02:09,14,18,malware,contains-pe;calls-wmi;checks-user-input;zip;detect-debug-environment,2026-01-01T09:02:09.878782,success
