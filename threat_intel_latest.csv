@@ -12258,3 +12258,11 @@ f106bf7704e541794bb97ef6894e1e224d3fc412824c63cc9c8a5de585106b53,sha256,malwareb
 5bd54732eb4addbf3e871d0e99c3eda40a69f9ce9d36a1476e441f9339432e88,sha256,malwarebazaar,2025-12-31 23:31:34,33,43,malware,elf,2025-12-31T23:31:34.112338,success
 acf86698e04278ae93a70c0637d9b38a1ac2b1b004e7bd88e817e7560b1945db,sha256,malwarebazaar,2025-12-31 23:31:42,32,42,malware,elf,2025-12-31T23:31:42.879240,success
 6bbbc423a80a7da00a90963bbb2d70e71e823ae695c09b8a696b2145e1b9f4c0,sha256,malwarebazaar,2025-12-31 23:31:51,25,32,malware,upx;elf,2025-12-31T23:31:51.673419,success
+86025edd843ef2833487abcea7ab1c37010539039cf9e3aa188827ad4e9dd5ab,sha256,malwarebazaar,2026-01-01 00:00:07,38,50,malware,detect-debug-environment;shell;self-delete;sets-process-name,2026-01-01T00:00:07.761856,success
+0b6e813d066d7b7b6583d3c5344edc28d0f074fc1d7fa5816bd053204f1a759f,sha256,malwarebazaar,2026-01-01 00:00:16,9,11,suspicious,shell,2026-01-01T00:00:16.639418,success
+1d581b553e342de0100b3106b269aab6b4186fb352754838683789c15b2da45d,sha256,malwarebazaar,2026-01-01 00:00:25,9,11,suspicious,shell,2026-01-01T00:00:25.724026,success
+6b88892f8cde731cc74b881f58715eb11775bb08c4a4afda1d134bb6ee3b6c1b,sha256,malwarebazaar,2026-01-01 00:00:34,8,10,suspicious,checks-disk-space;persistence;signed;invalid-signature;peexe,2026-01-01T00:00:34.772336,success
+58d863f64f3537111f2f18d66ca411953672d62ddb0d2bc59ba83665566983f5,sha256,malwarebazaar,2026-01-01 00:00:44,0,0,unknown,create-ole;vba;run-file,2026-01-01T00:00:44.047116,success
+d81520fb7e6a4b6b91816ed544ae14e1064c8903f9fb2c07f15d7c7f248aeb47,sha256,malwarebazaar,2026-01-01 00:00:52,31,40,malware,payload;elf,2026-01-01T00:00:52.808019,success
+8003a229f271d217ccae1c6de4ffd47fd0827b94fb3dc552b2ae258c703a4c45,sha256,malwarebazaar,2026-01-01 00:01:01,27,35,malware,spreader;elf;upx;sets-process-name;detect-debug-environment,2026-01-01T00:01:01.681078,success
+190789d206f4684e641ca0aff5f3fb9ab8dfd28a74c9fb49d5d1b34ade592e15,sha256,malwarebazaar,2026-01-01 00:01:10,43,56,malware,peexe;64bits;executes-dropped-file;clipboard;detect-debug-environment,2026-01-01T00:01:10.516300,success
